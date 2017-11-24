@@ -46,8 +46,54 @@
 		
 		if($query2){
 			while($result=mysql_fetch_array($query2->result_id)){
-			
-		
+			if($type=="VIP"){
+				
+				?>
+				<table>
+					
+					
+				<tr  >
+				<td rowspan="" colspan="2" align="center"   style="border-right:2px dotted black;font-family:arial; padding:10px;" >
+				<img src="<?php echo base_url(); ?>/img/team/logo.jpg" style="height:75px;"  /><br> <br><b> <?php echo $result['h_team'];?> <br> VS <br> <?php echo $result['a_team'];?> </b>  <br> <br> <span style="font-size:14px;"> <?php echo $result['dt'];?> <br> Khuman Lampak Stadium  <br>(Ticket : Rs.300) </span> <br> <br> ADMIT ONE
+							</td>
+							
+							
+							<td colspan="4" align="center"   style="font-family:arial; padding:10px;" >
+							<span style="font-size: 30px;  position: relative;  right: -301px; top: -44px;" ></span> 
+							 <img src="<?php echo base_url(); ?>/img/team/logo.jpg" style="height:75px;"  /><br> 
+							 <img src="<?php echo base_url(); ?>/img/team/<?php echo $result['h_img'];?>" style="height:50px; padding-left:50px;"  /> 
+							  <img src="<?php echo base_url(); ?>/img/team/<?php echo $result['a_img'];?>" style="height:50px; padding-right:100px; padding-left:100px;"  />  
+							  <img src="<?php echo base_url(); ?>/img/team/vss.png>"  style="height:50px;padding-right:50px;"  />   
+							  <br> <span style="font-size:14px;" align="left">  <b><?php echo $result['h_team'];?> </b></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:14px;" align="right"> <b><?php echo $result['a_team'];?> </b></span> <br><br>  <span style="font-size:14px;"> <?php echo $result['dt'];?> <br> Khuman Lampak Stadium  </span> <br> <br> <br> <span align="left"> ADMIT ONE </span> 
+							</td>
+							
+							
+							<td rowspan="3"  align="center"   style="font-family:arial; padding:10px;" >
+							 <img src="<?php echo base_url();?>home/generatecode?code=<?php echo $barcode;?>" style=""  />
+							</td>
+							
+							</tr>
+							
+							<tr   style=" background-color:#F58634; color:white; font-family:arial;" align="center">
+							<td colspan="3"  style="border-right:2px dotted black;">
+							<span   align="center" > <br> <b> VIP GALLERY <br> <?php echo $result['gate'];?> </b><br><br> </span>
+							</td>
+							<td  >
+							<span   align="center"  > <br> <b> VIP GALLERY </b><br><br> </span>
+							</td>
+							<td >
+							<span   align="center" > <br> <b>  <?php echo $result['gate'];?> </span> </b><br><br> </span>
+							</td>
+							</tr>
+							
+							
+							
+							
+							</table>
+							<br><?php
+				
+			}
+		else{
 	?>
 
 			<table>
@@ -60,19 +106,22 @@
 			
 			
 			<td colspan="4" align="center"   style="font-family:arial; padding:10px;" >
-			<span style="font-size: 30px;  position: relative;  right: -301px; top: -44px;" >Rs.50</span>  <img src="logo.jpg" style="height:75px;"  /><br> <img src="<?php echo base_url(); ?>/img/team/<?php echo $result['h_img'];?>" style="height:50px; padding-left:50px;"  />  <img src="<?php echo base_url(); ?>/img/team/vss.png" style="height:50px; padding-right:100px; padding-left:100px;"  />    <img src="<?php echo base_url(); ?>/img/team/<?php echo $result['h_img'];?>"  style="height:50px;padding-right:50px;"  />   <br> <span style="font-size:14px;" align="left">  <b><?php echo $result['h_team'];?> </b></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:14px;" align="right"> <b><?php echo $result['a_team'];?> </b></span> <br><br>  <span style="font-size:14px;"> <?php echo $result['dt'];?> <br> Khuman Lampak Stadium  </span> <br> <br> <br> <span align="left"> ADMIT ONE </span> 
+			<span style="font-size: 30px;  position: relative;  right: -301px; top: -44px;" ></span> 
+			 <img src="<?php echo base_url(); ?>/img/team/logo.jpg" style="height:75px;"  /><br> 
+			 <img src="<?php echo base_url(); ?>/img/team/<?php echo $result['h_img'];?>" style="height:50px; padding-left:50px;"  /> 
+			  <img src="<?php echo base_url(); ?>/img/team/<?php echo $result['a_img'];?>" style="height:50px; padding-right:100px; padding-left:100px;"  />  
+			  <img src="<?php echo base_url(); ?>/img/team/vss.png>"  style="height:50px;padding-right:50px;"  />   
+			  <br> <span style="font-size:14px;" align="left">  <b><?php echo $result['h_team'];?> </b></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:14px;" align="right"> <b><?php echo $result['a_team'];?> </b></span> <br><br>  <span style="font-size:14px;"> <?php echo $result['dt'];?> <br> Khuman Lampak Stadium  </span> <br> <br> <br> <span align="left"> ADMIT ONE </span> 
 			</td>
 			
-			<td rowspan="3" align="center"   style="background-color:green;font-family:arial; padding:10px;" >
-			</td>
 			<td rowspan="3"  align="center"   style="font-family:arial; padding:10px;" >
-			 <img src="<?php echo base_url();?>home/generatecode?code=<?php echo $barcode;?>" style=""  />
+			 <img src="<?php echo base_url();?>home/generatecode?code=<?php echo $barcode;?>" style="transform: rotateZ(90deg);"  />
 			</td>
 			
 			</tr>
 			
-			<tr   style=" background-color:green; color:white; font-family:arial;" align="center">
-			<td colspan="2"  style="border-right:2px dotted black;">
+			<tr   style=" background-color:#0E703F; color:white; font-family:arial;" align="center">
+			<td colspan="3"  style="border-right:2px dotted black;">
 			<span   align="center" > <br> <b> NORMAL GALLERY <br> <?php echo $result['gate'];?> </b><br><br> </span>
 			</td>
 			<td  >
@@ -88,7 +137,7 @@
 			
 			</table>
 			<br>
-<?php }
+<?php }}
 		}
 	}
 	?>
