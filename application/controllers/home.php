@@ -27,6 +27,7 @@ class Home extends CI_Controller {
 	    $gate=$_GET['g'];
 	    $match=$_GET['m'];
 	    $count=$_GET['c'];
+	    if($gate!="" && $match!="" && $count!=""){
 	    $sql="SELECT ID FROM `Seats` WHERE match_id=$match AND gate_id=$gate";
 	    
 	    $query = $this->db->query($sql);
@@ -48,6 +49,9 @@ class Home extends CI_Controller {
 	    $this->session->set_userdata("MATCH",$match);
 	    $this->session->set_userdata("QTY",$count);
 	    redirect("payment/checkout");
+	    }
+	    }else{
+	    	redirect('home/ticket');
 	    }
 	}
 	public function select_ticket()
