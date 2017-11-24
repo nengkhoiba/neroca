@@ -27,10 +27,28 @@ class Home extends CI_Controller {
 	    $gate=$_GET['g'];
 	    $match=$_GET['m'];
 	    $count=$_GET['c'];
+	    $sql="SELECT ID FROM `Seats` WHERE match_id=$match AND gate_id=$gate";
+	    
+	    $query = $this->db->query($sql);
+	    $occupy=$query->num_rows();
+	    $capacity=0;
+	    $sql="SELECT capacity FROM `Gate` WHERE ID=$gate";
+	    $query = $this->db->query($sql);
+	    if($query){
+	    	while($result=mysql_fetch_array($query->result_id))
+	    	{
+	    		$capacity=$result['capacity'];
+	    	}
+	    }
+	    if($capacity<($occupy+$count)){
+	    	
+	    	redirect('home/ticket');
+	    }else{
 	    $this->session->set_userdata("GATE",$gate);
 	    $this->session->set_userdata("MATCH",$match);
 	    $this->session->set_userdata("QTY",$count);
 	    redirect("payment/checkout");
+	    }
 	}
 	public function select_ticket()
 	{
