@@ -30,7 +30,9 @@
 		VALUES ('$ticketType','$sl','$barcode','OPEN',NOW(),'$match','$gate')";
 	
 		$query = $this->db->query($sql);
+		$sql="INSERT INTO `Seats`(`gate_id`, `match_id`) VALUES ('$gate','$match')";
 		
+		$query = $this->db->query($sql);
 		$sql2 = "SELECT m.ID, home_team,
 		away_team,
 		(SELECT name FROM team where ID=m.home_team) AS h_team,

@@ -20,7 +20,7 @@ $query = $this->db->query($sql);
 if($query){
 while($result=mysql_fetch_array($query->result_id))
 {?>
-<li onclick="SelectMatch('<?php echo $result['ID']?>','<?php echo $result['h_team']?>','<?php echo $result['a_team']?>','<?php echo $result['h_img']?>','<?php echo $result['a_img']?>')" class="list-group-item" id="li_<?php echo $result['ID']?>"><a  href="#"><?php echo $result['h_code']?> <span style="color:black;">  VS </span>   <?php echo $result['a_code']?> <br> <span style="color:grey;">  </span> </a></li>
+<li style="cursor:pointer" onclick="SelectMatch('<?php echo $result['ID']?>','<?php echo $result['h_team']?>','<?php echo $result['a_team']?>','<?php echo $result['h_img']?>','<?php echo $result['a_img']?>')" class="list-group-item" id="li_<?php echo $result['ID']?>"><a  href="#"><?php echo $result['h_code']?> <span style="color:black;">  VS </span>   <?php echo $result['a_code']?> <br> <span style="color:grey;">  </span> </a></li>
 <?php }
 }?>
 </ul>
@@ -213,7 +213,8 @@ viewBox="0 0 1865 1688"
 								this.occupy=occupy;
 								checkQty();
 								document.getElementById('count').disabled = false;
-								
+								$("#gateUl>li.active").removeClass("active");
+								$('#gd'+gate).addClass('active');
 								}
 							function SelectMatch(ID,h_name,a_name,a_img,h_img){
 								match_id=ID;
@@ -259,42 +260,4 @@ viewBox="0 0 1865 1688"
 								
 							}
 						</script>
-						<script>
 		
-			var rs=32;
-			function plus(){
-				var count=document.getElementById('count').value;
-				count=parseInt(count)+1;
-				if(count>=10){
-					count=10;
-						}
-				totalcount(count);
-				document.getElementById('count').value=count;
-				}
-			function minus(){
-				var count=document.getElementById('count').value;
-				count=parseInt(count)-1;
-				if(count<=0){
-				count=0;
-					}
-				totalcount(count);
-				document.getElementById('count').value=count;
-				}
-			function checkdata(){
-				var count=document.getElementById('count').value;
-				count=parseInt(count)-1;
-				if(count<=0){
-				count=0;
-					}else
-						if(count>=10){
-							count=10;
-								}
-				totalcount(count);
-				document.getElementById('count').value=count;
-				}
-			function totalcount(count){
-				var total="Total: "+(count*parseInt(rs));
-				document.getElementById('total').innerHTML=total;
-				}
-		
-	</script>

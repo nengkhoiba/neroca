@@ -65,7 +65,16 @@ class Home extends CI_Controller {
 	    }
 	    else{
 	        if($type=="VIP"){
-	            
+	        	$this->session->set_userdata("TYPE",$type);
+	        	$sql="SELECT ID FROM `matchs` WHERE DATE(date)>CURDATE() ORDER BY date ASC LIMIT 1";
+	        	$query = $this->db->query($sql);
+	        	if($query){
+	        		while($result=mysql_fetch_array($query->result_id))
+	        		{
+	        			$match=$result['ID'];
+	        		}
+	        	}
+	            redirect('home/proceed?g=1&m='.$match.'&c=1');
 	        }else
 	        redirect('home/ticket');
 	    }
