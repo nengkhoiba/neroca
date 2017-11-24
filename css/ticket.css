@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+.ticket {width:6.5cm; height:14.2cm; background-image: url(../img/ticket.png); background-size: contain;margin:-1px; }
+  .barcode {position: relative;
+    top: 30px;
+    left: 60px;
+    height: 70px;} 
+   .pagebreak { page-break-before: always; }
+    .barcodelabel{
+    z-index: 1;
+    position: absolute;
+    color: #cc3c0d;
+    padding: 5px;
+    font-size: 13px;
+    font-family: monospace; position: absolute;}

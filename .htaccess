@@ -1,0 +1,7 @@
+
+DirectoryIndex index.php
+
+RewriteEngine on
+RewriteCond $1 !^(index\.php|img|css|js|vendor|download|datatables|fonts|robots\.txt)
+
+RewriteRule ^(.*)$ /neroca/index.php?$1 [L]
