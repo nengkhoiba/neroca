@@ -1,3 +1,38 @@
+<?php $this->load->view('global_header.php');?>
+<style>
+.card-base > .card-icon {
+        text-align: center;
+        position: relative;
+    }
+
+.imagecard { 
+    z-index: 2;
+    display: block;
+    positioN: relative;
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    border: 5px solid white;
+    box-shadow: 1px 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    margin: 0 auto;
+    color: white;
+}
+.card-base > .card-icon > .card-data {
+    min-height: 250px !important;
+    margin-top: -24px;
+    background: ghostwhite;
+    border: 1px solid #e0e0e0;
+    padding: 40px 0 10px 0;
+     box-shadow: 1px 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    min-height: 215px;
+    }
+    #widgetCardIcon {
+        background: #0E703F !important;
+        font-size: 28px;
+        line-height: 78px;
+    }
+    </style>
+
 <?php
 $flag=$this->session->userdata('pay');
 $status=$_POST["status"];
@@ -46,11 +81,24 @@ If (isset($_POST["additionalCharges"])) {
           	  			</style>
           	   </head>
           	   	<body>
-          	   	<div style="font-family: Calibri;border: 1px solid #DDD;border-radius: 4px;padding: 42px 22px;width: 600px;text-align: center;margin-top: 122px;margin-left: auto;margin-right: auto;">
-          	   					<h2 style="text-transform: uppercase">Payment Successfull!</h2>
-          	 					  	<h3>Your transaction id for this transaction is <?php echo $txnid;?></h3>
-          	   				<p style="text-align: center;"><a href="<?php echo base_url();?>"> Back to home</a></p>
-          	   			</div>
+          	   	<div class="container">
+<div class = "row">
+    <div class = "col-md-6 col-md-offset-3">
+          	   	<div class="card-base">
+<div class="card-icon"><a href="#" title="Widgets" id="widgetCardIcon" class="imagecard"><span class="glyphicon glyphicon-check"></span></a>
+<div class="card-data widgetCardData">
+<h2 class="box-title" style="color: #0E703F;">Payment Successfull!</h2>
+<p style="font-family: arial" class="card-block text-center">Your transaction id for this transaction is <?php echo $txnid;?></p>
+<a href="<?php echo base_url();?>" title="Style Builder" class="anchor btn btn-default" style="background: #000; border: #bb7824; color: whitesmoke;"> <i class="fa fa-paper-plane" aria-hidden="true"></i> Back to home</a></div>
+</div>
+</div>
+</div>
+</div>
+	
+</div>
+          	   	
+          	   	
+          	   	
           	   			      	   			<?php 
           	   			
           	   			if($flag==0){
@@ -94,7 +142,7 @@ If (isset($_POST["additionalCharges"])) {
  	$query = $this->db->query($sql);
  ?>
    <div class="header" style=" width:100%; margin-top:5px; background-color:#aaa; ">
-        <h1 style="padding:10px;color:#000; text-align:center ">Singju Festival 2017 eTicket</h1>	
+        <h1 style="padding:10px;color:#000; text-align:center ">Hero I-League 2017 eTicket</h1>	
     </div>
     <div>
       <p><b>Date: </b><?php echo $curdate;?></p>
@@ -108,7 +156,7 @@ If (isset($_POST["additionalCharges"])) {
     </center>
 	
 	<div>
-      <p>Manfete 2017</p>
+      <p>Hero I-League 2017</p>
        <p>Orgd By</p>
         <p>MIMS</p>
     </div>
