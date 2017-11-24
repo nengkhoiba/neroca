@@ -162,16 +162,16 @@ viewBox="0 0 1865 1688"
     <text x="933" y="844"  class="fil3 fnt1">VIP</text>
    </g>
    <g style="clip-path:url(#id0)">
-    <image id="home_img" x="1032" y="793" width="136" height="140" xlink:href="stadium_Images\stadium_ImgID1.png"/>
+    <image id="home_img" x="1032" y="793" width="136" height="140" xlink:href="<?php echo base_url();?>/img/team/home.png"/>
    </g>
    <g style="clip-path:url(#id1)">
-    <image id="away_img" x="704" y="794" width="138" height="137" xlink:href="stadium_Images\stadium_ImgID2.png"/>
+    <image id="away_img" x="704" y="794" width="138" height="137" xlink:href="<?php echo base_url();?>/img/team/away.png"/>
    </g>
    <g transform="matrix(0.975299 0 0 1 -209.009 127.076)">
-    <text id="txtHome" x="933" y="844"  class="fil4 fnt2">Home</text>
+    <text id="txtHome" x="933" y="844" style="text-align:center"  class="fil4 fnt2">HOME</text>
    </g>
    <g transform="matrix(0.975299 0 0 1 191.111 127.076)">
-    <text id="txtAway" x="824" y="844"  class="fil4 fnt2">AWAY</text>
+    <text id="txtAway" x="824" y="844" style="text-align:center" class="fil4 fnt2">AWAY</text>
    </g>
    <g transform="matrix(0.975299 0 0 1 27.7833 51.5987)">
     <text x="877" y="844"  class="fil4 fnt3">VS</text>
