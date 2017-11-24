@@ -4,6 +4,7 @@
 <div class="row">
 <div class="col-md-12">
 <div class="col-md-3">
+<h3>Select Match</h3>
 <ul id="matchUl" class="list-group">
 <?php $sql= "SELECT m.ID, home_team,
 		away_team,
