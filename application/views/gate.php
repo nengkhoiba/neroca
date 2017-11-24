@@ -184,9 +184,10 @@ viewBox="0 0 1865 1688"
 </div>
 
 						<div class="col-md-3">
+						<h3>Select Gate</h3>
 							<div id="gate"></div>
 			
-						<input class="form-control" disabled="disabled" id="count" onkeyup="checkQty()" onblur="checkQty()" onchange="checkQty()"  type="number">
+						<input class="form-control" disabled="disabled" id="count" placeholder="No. of people" onkeyup="checkQty()" onblur="checkQty()" onchange="checkQty()"  type="number">
 						
 						</div>
 						</div>
