@@ -22,7 +22,7 @@ $query=$this->db->query($sql);
     <link href="<?php echo base_url();?>vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-
+<link href="https://fonts.googleapis.com/css?family=Roboto:100" rel="stylesheet"> 
     <!-- Plugin CSS -->
     <link href="<?php echo base_url();?>vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 

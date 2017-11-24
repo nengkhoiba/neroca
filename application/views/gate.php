@@ -14,12 +14,13 @@
 		(SELECT code FROM team where ID=m.away_team) AS a_code,
 		(SELECT image FROM team where ID=m.home_team) AS h_img, 
 		(SELECT image FROM team where ID=m.away_team) AS a_img, 
+
 		`date` FROM matchs m WHERE DATE(date)>=CURDATE()";
 $query = $this->db->query($sql);
 if($query){
 while($result=mysql_fetch_array($query->result_id))
 {?>
-<li onclick="SelectMatch('<?php echo $result['ID']?>','<?php echo $result['h_team']?>','<?php echo $result['a_team']?>','<?php echo $result['h_img']?>','<?php echo $result['a_img']?>')" class="list-group-item" id="li_<?php echo $result['ID']?>"><a ><?php echo $result['h_code']?> VS <?php echo $result['a_code']?></a></li>
+<li onclick="SelectMatch('<?php echo $result['ID']?>','<?php echo $result['h_team']?>','<?php echo $result['a_team']?>','<?php echo $result['h_img']?>','<?php echo $result['a_img']?>')" class="list-group-item" id="li_<?php echo $result['ID']?>"><a  href="#"><?php echo $result['h_code']?> <span style="color:black;">  VS </span>   <?php echo $result['a_code']?> <br> <span style="color:grey;">  </span> </a></li>
 <?php }
 }?>
 </ul>
@@ -183,13 +184,21 @@ viewBox="0 0 1865 1688"
 </div>
 
 						<div class="col-md-3">
+						<h3>Select Gate</h3>
 							<div id="gate"></div>
 			
-						<input class="form-control" disabled="disabled" id="count" onkeyup="checkQty()" onblur="checkQty()" onchange="checkQty()"  type="number">
+						<input class="form-control" disabled="disabled" id="count" placeholder="No. of people" onkeyup="checkQty()" onblur="checkQty()" onchange="checkQty()"  type="number">
 						
 						</div>
 						</div>
-						<button onclick="proceed()" class="btn btn-primary">Proceed</button>
+						<div class="css3-button pull-right ">
+					
+                <a  onclick="proceed()" href="#" style="font-size:18px;font-family: 'Roboto', sans-serif;">Proceed to pay</a>
+              </div>
+						
+						
+						
+						
 						</div>
 						</div>
 					
