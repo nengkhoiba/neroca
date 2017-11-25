@@ -251,109 +251,295 @@ To nurture sporting talents in general and Football in particular</p>
             <div class="training-table col-lg-12 col-md-12 col-xs-12">
       
               <table class="table">
-                <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3"><strong>Name of Tournament/Trophy</strong></th>
-                  <th class="col-lg-3 col-md-3 col-xs-3"><strong>Year</strong></th>
-                  <th class="col-lg-4 col-md-4 col-xs-4"><strong>Place</strong></th>
-                  <th class="col-lg-2 col-md-2 col-xs-2"><strong>Position</strong></th>
-                </tr>
-                <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">R.K.Tulachandra Memorial Football Tournament</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">1999</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Champion</th>
-                </tr>
-                  <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">Padamajung Memorial Football Tournament  </th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">1999</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Agartala (Tripura)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Runners up</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                  <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-                   <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
-                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
-                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
-                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
-                </tr>
-              </table>
+              <thead>
+              <tr><th scope="col">Sl. No.</th>
+<th scope="col">Name of Tournament/Trophy</th>
+<th scope="col">Year</th>
+<th scope="col">Venue</th>
+<th scope="col">Position</th>
+</tr></thead><tbody><tr><td>1.</td>
+<td>R.K.Tulachandra Memorial Football Tournament</td>
+<td>1999</td>
+<td>Imphal (Manipur)</td>
+<td style="width: 100px;">Champion</td>
+</tr><tr><td>2.</td>
+<td>Padamajung Memorial Football Tournament</td>
+<td>1999</td>
+<td>Agartala (Tripura)</td>
+<td>Runners up</td>
+</tr><tr><td>3.</td>
+<td>Shirui Lily Cup</td>
+<td>2000</td>
+<td>Ukhrul (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>4.</td>
+<td>44th C.C.Meet</td>
+<td>2000</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>5.</td>
+<td>Surendra Cup</td>
+<td>2001</td>
+<td>Imphal (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>6.</td>
+<td>1st Narsingh Football Tournament</td>
+<td>2001</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>7.</td>
+<td>Imphal East District Football League</td>
+<td>2001</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>8.</td>
+<td>Winners Cup</td>
+<td>2001</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>9.</td>
+<td>Padamajung Memorial Football Tournament</td>
+<td>2001-02</td>
+<td>Agartala (Tripura)</td>
+<td>Champion</td>
+</tr><tr><td>10.</td>
+<td>National League B Division</td>
+<td>2001-02</td>
+<td>Shillong (Meghalaya)</td>
+<td>2nd Position</td>
+</tr><tr><td>11.</td>
+<td>Imphal East District Football League</td>
+<td>2002</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>12.</td>
+<td>46th C.C.Meet</td>
+<td>2002</td>
+<td>Imphal (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>13.</td>
+<td>Surendra Cup</td>
+<td>2002-03</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>14.</td>
+<td>1st Futsal Trophy</td>
+<td>2003</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>15.</td>
+<td>Imphal East District Super Division Football League</td>
+<td>2003</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>16.</td>
+<td>Winners Cup</td>
+<td>2003</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>17.</td>
+<td>Imphal East District Super Division Football League</td>
+<td>2004</td>
+<td>Imphal (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>18.</td>
+<td>2nd Futsal Trophy</td>
+<td>2004</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>19.</td>
+<td>1st Tiddim Trophy</td>
+<td>2004</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>20.</td>
+<td>Ashem Noren Memorial Football Tournament</td>
+<td>2004</td>
+<td>Nambol (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>21.</td>
+<td>3rd Futsal Trophy</td>
+<td>2005</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>22.</td>
+<td>Imphal East District Super Division Football League</td>
+<td>2005</td>
+<td>Imphal (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>23.</td>
+<td>49th C.C.Meet</td>
+<td>2005</td>
+<td>Imphal (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>24.</td>
+<td>2nd Tiddim Trophy</td>
+<td>2005</td>
+<td>Imphal (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>25.</td>
+<td>3rd Tiddim Trophy</td>
+<td>2006</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>26.</td>
+<td>L.Sharatchandra Memorial Football Tournament</td>
+<td>2006</td>
+<td>Nambol (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>27.</td>
+<td>1st Manipur State League</td>
+<td>2006</td>
+<td>Imphal (Manipur)</td>
+<td>6th Position</td>
+</tr><tr><td>28.</td>
+<td>4th Tiddim Trophy</td>
+<td>2007</td>
+<td>Imphal (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>29.</td>
+<td>2nd Manipur State League</td>
+<td>2007</td>
+<td>Imphal (Manipur)</td>
+<td>2nd Position</td>
+</tr><tr><td>30.</td>
+<td>3rd Manipur State League</td>
+<td>2008</td>
+<td>Imphal (Manipur)</td>
+<td>5th Position</td>
+</tr><tr><td>31.</td>
+<td>52nd C.C.Meet</td>
+<td>2008</td>
+<td>Imphal (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>32.</td>
+<td>4th Manipur State League</td>
+<td>2009</td>
+<td>Imphal (Manipur)</td>
+<td>9th Position</td>
+</tr><tr><td>33.</td>
+<td>53rd C.C.Meet</td>
+<td>2009</td>
+<td>Imphal (Manipur)</td>
+<td>Semi Finalist</td>
+</tr><tr><td>34.</td>
+<td>5th Manipur State League</td>
+<td>2010</td>
+<td>Imphal (Manipur)</td>
+<td>4th Position</td>
+</tr><tr><td>35.</td>
+<td>5th Loktak Trophy</td>
+<td>2010</td>
+<td>Moirang (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>36.</td>
+<td>3rd Hijam Irawat Memorial Tournament</td>
+<td>2010</td>
+<td>Moreh(Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>37.</td>
+<td>6th Manipur State League</td>
+<td>2011</td>
+<td>Imphal (Manipur)</td>
+<td>4th Position</td>
+</tr><tr><td>38.</td>
+<td>28th Shirui Lily Cup</td>
+<td>2011</td>
+<td>Ukhrul (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>36.</td>
+<td>55th C.C.Meet</td>
+<td>2011</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr>
+<tr><td>37.</td>
+<td>6th Loktak Trophy</td>
+<td>2011</td>
+<td>Imphal (Manipur)</td>
+<td>Runners Up</td>
+</tr>
+<tr><td>38.</td>
+<td>56th CC'Meet</td>
+<td>2011</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr>
+<tr><td>39.</td>
+<td>Loktak Trophy</td>
+<td>2012</td>
+<td>Moirang (Manipur)</td>
+<td>Runners up</td>
+</tr><tr><td>40.</td>
+<td>7th Manipur State League</td>
+<td>2012</td>
+<td>Imphal (Manipur)</td>
+<td>4th Position</td>
+</tr><tr><td>41.</td>
+<td>56th C.C.Meet</td>
+<td>2012</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr><tr><td>42.</td>
+<td>8th Manipur State League</td>
+<td>2013</td>
+<td>Imphal (Manipur)</td>
+<td>4th Position</td>
+</tr><tr><td>43.</td>
+<td>57th C.C.Meet</td>
+<td>2013</td>
+<td>Imphal (Manipur)</td>
+<td>Semi Finalist</td>
+</tr><tr><td>44.</td>
+<td>9th Manipur State League</td>
+<td>2014</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr>
+<tr><td>45.</td>
+<td>58th C.C.Meet</td>
+<td>2014</td>
+<td>Imphal (Manipur)</td>
+<td>Semi Finalist</td>
+</tr>
+
+
+<tr><td>46.</td>
+<td>9th Manipur State League</td>
+<td>2014</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr>
+
+<tr><td>43.</td>
+<td>58th C.C.Meet</td>
+<td>2014</td>
+<td>Imphal (Manipur)</td>
+<td>Semi Finalist</td>
+</tr>
+
+<tr><td>43.</td>
+<td>58th C.C.Meet</td>
+<td>2014</td>
+<td>Imphal (Manipur)</td>
+<td>Semi Finalist</td>
+</tr>
+
+<tr><td>43.</td>
+<td>58th C.C.Meet</td>
+<td>2014</td>
+<td>Imphal (Manipur)</td>
+<td>Semi Finalist</td>
+</tr>
+
+<tr><td>43.</td>
+<td>58th C.C.Meet</td>
+<td>2014</td>
+<td>Imphal (Manipur)</td>
+<td>Semi Finalist</td>
+</tr>
+
+</tbody></table>
            
             </div>
           </div>
