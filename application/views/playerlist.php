@@ -96,7 +96,7 @@ To nurture sporting talents in general and Football in particular</p>
           <ul class="col-lg-3 col-md-3 col-xs-12 link-list">
             
             <li><a href="<?php echo base_url();?>home/achievement"><i class="fa fa-arrow-circle-right"></i><span class="title"> Acievements</span></a></li>
-            <li><a href="#"><i class="fa fa-arrow-circle-right"></i>Neroca Players Transfers</a></li>
+            
 
         </ul>
 
@@ -894,7 +894,7 @@ FOR PARTICIPATING 7TH BODOUSA CUP 2015 HELD AT TINSUKIA FROM 26/07/15 TO 09/08/1
       <div class="footer-top clearfix">
         <div class="widget col-lg-3 col-md-3 col-sm-6">
           <h5 class="widget-title">About FC</h5>
-          <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar,  <a href="about.html">Read more ..</a> </p>
+          <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar,  <a href="<?php echo base_url();?>home/about">Read more ..</a> </p>
           <ul class="contact-info custom-list">
             <li><i class="fa fa-map-marker"></i><span> Sangakpham Rd, Chingmeirong, Heingang, Manipur 795010</span></li>
             <li><i class="fa fa-phone"></i><span>+1 (123) 456-7890</span></li>
