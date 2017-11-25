@@ -245,7 +245,7 @@ To nurture sporting talents in general and Football in particular</p>
              <div class="col-md-4">
             <div class="our-team">
                 <div class="pic">
-                    <img src="<?php echo base_url();?>nero/img/ceo/img-1.jpg" alt="">
+                    <img src="<?php echo base_url();?>nero/img/ceo/naoba.jpg" alt="">
                 </div>
                 <div class="team-prof">
                     <h3 class="post-title">Naoba Thangjam</h3>
@@ -262,10 +262,14 @@ To nurture sporting talents in general and Football in particular</p>
         </div>
 
            <!-- facebook -->
-      <div class="col-md-4">
+       <div class="col-md-4">
         
      
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNerocafc%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" overflow-y="hidden"></iframe>
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNerocafc%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="210" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" overflow-y="hidden"></iframe>
+
+       
+<a class="twitter-timeline" data-width="340" data-height="230" data-link-color="#fe9915" href="https://twitter.com/NerocaFC?ref_src=twsrc%5Etfw">NerocaFC</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
     </div>
 
@@ -862,7 +866,7 @@ To nurture sporting talents in general and Football in particular</p>
       <!-- Start Heading -->
       <div class="heading col-lg-12 col-md-12 col-sm-12 ">
         <h4 class="border">
-          Latest Video
+          Latest Videos
         </h4>
       </div>
       <!-- End Heading -->
