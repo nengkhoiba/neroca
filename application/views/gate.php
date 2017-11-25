@@ -525,7 +525,7 @@ viewBox="0 0 1865 1688"
     <image id="away_img" x="704" y="794" width="138" height="137" xlink:href="<?php echo base_url();?>/img/team/away.png"/>
    </g>
    <g style="text-align:center"transform="matrix(0.975299 0 0 1 -209.009 127.076)">
-    <text id="txtHome" x="933" y="844"  class="fil4 fnt2">HOME</text>
+    <text id="txtHome" x="933" y="844"   class="fil4 fnt2">HOME</text>
    </g>
    <g transform="matrix(0.975299 0 0 1 191.111 127.076)">
     <text id="txtAway" x="824" y="844"  class="fil4 fnt2">AWAY</text>
