@@ -341,8 +341,8 @@ To nurture sporting talents in general and Football in particular</p>
     <div id="home-slider" class="owl-carousel owl-theme">
       <div class="item">
         <img src="<?php echo base_url();?>nero/img/slider/bg1.jpg" alt="">
-        <div class="slide-content col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 text-center">
-          <h1>Select match and gate</h1>
+        <div class="slide-content   col-md-12  text-center" style="width:100% !important;">
+          <h2 style="color:white;"><span style="color:#FF5722">1</span> Select Match &nbsp; <span style="color:#FF5722">2</span> Select Gate &nbsp; <span style="color:#FF5722">3</span> Select Number of Tickets &nbsp; <span></h2>
           <p></p>
          
         </div>
@@ -554,7 +554,7 @@ viewBox="0 0 1865 1688"
  </g>
 </svg>
 
-<h5 align="center" style="font-size:25px; font-family:roboto;">Khuman Lampak Stadium</h5>
+<h5  id="proces" align="center" style="font-size:25px; font-family:roboto;">Khuman Lampak Stadium</h5>
 
 <br>
 
@@ -563,12 +563,12 @@ viewBox="0 0 1865 1688"
 						<div class="col-md-3">
 						
 							<div id="gate"></div>
-			<h3>No. of person</h3>
+			<h3 >No. of tickets</h3>
 			
-						<input class="form-control" disabled="disabled" id="count" placeholder="Enter no. of person" onkeyup="checkQty()" onblur="checkQty()" onchange="checkQty()"  type="number">
+						<input class="form-control" disabled="disabled" id="count" placeholder="Enter no. of tickets" onkeyup="checkQty()" onblur="checkQty()" onchange="checkQty()"  type="number">
 						
 						
-						<div class="css3-button pull-right ">
+						<div class="css3-button pull-right " >
 					
                 <a  onclick="proceed()" href="#" style="font-size:18px;font-family: 'Roboto', sans-serif;">Proceed to pay</a>
               </div>
