@@ -840,8 +840,8 @@ To nurture sporting talents in general and Football in particular</p>
               <a href="#section2" role="tab" data-toggle="tab">
                 <i class="fa fa-play-circle-o"></i>
                 <div class="heading-content vdo">
-                  <span class="heading-date">November 23, 2016</span>
-                  <h5 class="heading-title">Neroca FC Training Hero I League</h5>
+                  <span class="heading-date">May 30, 2017</span>
+                  <h5 class="heading-title">NEROCA FC Vs SOUTHERN SAMITY (4-1) 2nd Div I League Champion Neroca FC</h5>
                 </div>
               </a>
             </li>
@@ -849,8 +849,8 @@ To nurture sporting talents in general and Football in particular</p>
               <a href="#section3" role="tab" data-toggle="tab">
                 <i class="fa fa-play-circle-o"></i>
                 <div class="heading-content vdo">
-                    <span class="heading-date">November 23, 2016</span>
-                  <h5 class="heading-title">Neroca FC Training Hero I League</h5>
+                    <span class="heading-date"> Apr 23, 2017</span>
+                  <h5 class="heading-title">Neroca FC vs Delhi United FC (5-0) I-League Second Division</h5>
                 </div>
               </a>
             </li>
@@ -858,8 +858,8 @@ To nurture sporting talents in general and Football in particular</p>
               <a href="#section4" role="tab" data-toggle="tab">
                 <i class="fa fa-play-circle-o"></i>
                 <div class="heading-content vdo">
-                    <span class="heading-date">November 23, 2016</span>
-                  <h5 class="heading-title">Neroca FC Training Hero I League</h5>
+                    <span class="heading-date">May 24, 2016</span>
+                  <h5 class="heading-title">Subash Singam ● The Manipuri Magician ● Neroca FC - Skills,Goals & Assists 2017</h5>
                 </div>
               </a>
             </li>
@@ -867,8 +867,8 @@ To nurture sporting talents in general and Football in particular</p>
               <a href="#section5" role="tab" data-toggle="tab">
                 <i class="fa fa-play-circle-o"></i>
                 <div class="heading-content vdo">
-                  <span class="heading-date">November 23, 2016</span>
-                  <h5 class="heading-title">Neroca FC Training Hero I League</h5>
+                  <span class="heading-date">September 1, 2017</span>
+                  <h5 class="heading-title">NEROCA FC ROAD TO I -LEAGUE</h5>
                 </div>
               </a>
             </li>
@@ -876,8 +876,8 @@ To nurture sporting talents in general and Football in particular</p>
               <a href="#section6" role="tab" data-toggle="tab">
                 <i class="fa fa-play-circle-o"></i>
                 <div class="heading-content vdo">
-                  <span class="heading-date">November 23, 2016</span>
-                  <h5 class="heading-title">Neroca FC Training Hero I League</h5>
+                  <span class="heading-date">August 23, 2016</span>
+                  <h5 class="heading-title">NEROCA FC Vs NISA friendly match on 23rd August, 2017</h5>
                 </div>
               </a>
             </li>
@@ -896,19 +896,19 @@ To nurture sporting talents in general and Football in particular</p>
           </div>
           <div class="tab-pane fade" id="section2">
             <div class="video-container">
-               <iframe  src="https://www.youtube.com/embed/Ru6u5562BrM"></iframe>
+               <iframe  src="https://www.youtube.com/embed/jH_fFfFsswY"></iframe>
             </div>
      
           </div>
           <div class="tab-pane fade" id="section3">
             <div class="video-container">
-              <iframe  src="https://www.youtube.com/embed/Ru6u5562BrM"></iframe>
+              <iframe  src="https://www.youtube.com/embed/TH0KdZ03NIc"></iframe>
             </div>
         
           </div>
           <div class="tab-pane fade" id="section4">
             <div class="video-container">
-               <iframe  src="https://www.youtube.com/embed/Ru6u5562BrM"></iframe>
+               <iframe  src="https://www.youtube.com/embed/PrMilmMkgNQ"></iframe>
             </div>
           
           </div>
@@ -920,7 +920,7 @@ To nurture sporting talents in general and Football in particular</p>
           </div>
           <div class="tab-pane fade" id="section6">
             <div class="video-container">
-              <iframe  src="https://www.youtube.com/embed/Ru6u5562BrM"></iframe>
+              <iframe  src="https://www.youtube.com/embed/ElC-Vl_00aI"></iframe>
             </div>
           
           </div>
@@ -1500,7 +1500,7 @@ To nurture sporting talents in general and Football in particular</p>
 
     <!-- Start Copyrights -->
     <div class="copyrights clearfix text-center">
-      <p class="col-lg-12">� Copyright 2017. All Rights Reserved, powered by MOBIMP</p>
+      <p class="col-lg-12">© Copyright 2017. All Rights Reserved, powered by MOBIMP</p>
     </div>
     <!-- End Copyrights -->
 
