@@ -32,6 +32,11 @@ class Home extends CI_Controller {
 	{
 	    $this->load->view('managing');
 	}
+	
+	public function playerlist()
+	{
+	    $this->load->view('playerlist');
+	}
 
 	public function ticket()
 	{

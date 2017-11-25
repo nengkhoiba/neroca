@@ -174,14 +174,8 @@ To nurture sporting talents in general and Football in particular</p>
 </li>
 
 
-<li aria-haspopup="true"><a href="#"><i class="fa fa-star" aria-hidden="true"></i></i>&nbsp;&nbsp;Player List </a>
-    <ul class="wsdownmenu-submenu">
-      <li><a href="#">Player List 2017-18 </a></li>
-      <li><a href="#">Player List 2016-17</a></li>
-      <li><a href="#">Player List 2015-16</a></li>
-      <li><a href="#">Player List 2014-15</a></li>
-
-  </ul>
+<li aria-haspopup="true"><a href="<?php echo base_url();?>home/playerlist"><i class="fa fa-star" aria-hidden="true"></i></i>&nbsp;&nbsp;Player List </a>
+    
 </li>
 
 
