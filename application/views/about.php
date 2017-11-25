@@ -206,32 +206,19 @@ To nurture sporting talents in general and Football in particular</p>
         <img src="<?php echo base_url();?>nero/img/slider/bg1.jpg" alt="">
         <div class="slide-content col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 text-center">
           <h1>Neroca FC</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
-          <a href="#" class="button"><span>Read More</span><i class="fa fa-arrow-circle-right"></i></a>
+          <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association 
+          (NEROCA), Sangakpham Bazar, Imphal, Manipur was established in 1965 with a good hope to enhance quality of youths especially in the field of cultural activities and sports arena.</p>
+          <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Ticket</span><i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
       <div class="item">
         <img src="<?php echo base_url();?>nero/img/slider/bg2.jpg" alt="">
         <div class="slide-content col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 text-center">
-          <h1>Neroca FC</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
-          <a href="#" class="button"><span>Read More</span><i class="fa fa-arrow-circle-right"></i></a>
-        </div>
-      </div>
-      <div class="item">
-        <img src="<?php echo base_url();?>nero/img/slider/bg3.jpg" alt="">
-        <div class="slide-content col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 text-center">
-          <h1>Neroca FC</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
-          <a href="#" class="button"><span>Read More</span><i class="fa fa-arrow-circle-right"></i></a>
-        </div>
-      </div>
-      <div class="item">
-        <img src="<?php echo base_url();?>nero/img/slider/bg4.jpg" alt="">
-        <div class="slide-content col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 text-center">
-          <h1>Neroca FC</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
-          <a href="#" class="button"><span>Read More</span><i class="fa fa-arrow-circle-right"></i></a>
+          <h1>Mission & Vision</h1>
+          <p> To promote and develop the game of Football in the state to National and International standards
+
+			<br> To nurture sporting talents in general and Football in particular</p>
+          <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Ticket</span><i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
     </div>
@@ -244,23 +231,7 @@ To nurture sporting talents in general and Football in particular</p>
 
 
 
-    <!-- Start Container -->
-    <div class="container">
-
-      <!-- Start Preamble -->
-      <div class="preamble text-center col-lg-10 col-lg-offset-1">
-        
-      </div>
-      <!-- End Preamble -->
-
-
-
-    </div>
-
-
- 
-
-  <!-- Start Social -->
+<!-- Start Social -->
   <div id="social">
 
   
@@ -318,6 +289,7 @@ To nurture sporting talents in general and Football in particular
 
 
 
+  
 
 
   <!-- Start Footer -->
@@ -368,13 +340,13 @@ To nurture sporting talents in general and Football in particular
       </div>
       <!-- End Footer-Top -->
 
-   
+
       <!-- Start Sposnors -->
       <div class="sponsors clearfix">
         <h5 class="text-center">Sponsors</h5>
      
         <div class="sponsor-logo text-center col-lg-12 col-md-12 col-sm-12">
-          <img src="<?php echo base_url();?>nero/img/partner5.png" alt="">
+          <img src="img/partner5.png" alt="">
         </div>
        
       </div>
@@ -403,14 +375,14 @@ To nurture sporting talents in general and Football in particular
        <script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.min.js"></script>
         <script src="<?php echo base_url();?>nero/bootstrap/js/bootstrap.min.js"></script>
         
-        <script type="<?php echo base_url();?>nero/text/javascript" src="js/webslidemenu.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/scripts.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/owl.carousel.min.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/jquery.ba-outside-events.min.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/tab.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src='js/bootstrap-datepicker.js'></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/jquery.timelinr-0.9.54.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="twitter/jquery.tweet.min.js"></script>
+        <script type="text/javascript" src="<?php echo base_url();?>nero/js/webslidemenu.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/scripts.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.ba-outside-events.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/tab.js"></script>
+<script type="text/javascript" src='<?php echo base_url();?>nero/js/bootstrap-datepicker.js'></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.timelinr-0.9.54.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/twitter/jquery.tweet.min.js"></script>
         <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
         <script src="<?php echo base_url();?>nero/assets/js/ie10-viewport-bug-workaround.js"></script>
 
