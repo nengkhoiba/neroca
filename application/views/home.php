@@ -37,7 +37,7 @@
  <header id="header" class="third-version">
        <div class="container-fluid">
       <div class="header-logo">
-        <a href="index.html"><img src="<?php echo base_url();?>nero/images/logo.png" alt="" width="120"></a>
+        <a href="<?php echo base_url();?>"><img src="<?php echo base_url();?>nero/images/logo.png" alt="" width="120"></a>
         <h4 style="text-align: center;color: #fff;">NEROCA FC</h4>
 
       <!--    
@@ -57,22 +57,22 @@
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
            <nav class="wsdownmenu clearfix" style="margin-top: 3em;">
             <ul class="wsdown-mobile wsdownmenu-list">
-             <li ><a href="#"><i class="fa fa-futbol-o" aria-hidden="true"></i>&nbsp;&nbsp;Home</a>
+             <li ><a href="<?php echo base_url();?>"><i class="fa fa-futbol-o" aria-hidden="true"></i>&nbsp;&nbsp;Home</a>
 
              </li>
-             <li ><a href="#"><i class="fa fa-paragraph"></i>&nbsp;&nbsp;About Neroca FC </a>
+             <li ><a href="<?php echo base_url();?>home/about"><i class="fa fa-paragraph"></i>&nbsp;&nbsp;About Neroca FC </a>
                 <div class="megamenu clearfix" >
                   <div class="typography-text clearfix">
 
                   <div class="col-lg-3 col-sm-12">
                       
-                       <a href="about.html">  <img src="<?php echo base_url();?>nero/images/logo.jpg" alt=""></a>
+                       <a href="<?php echo base_url();?>">  <img src="<?php echo base_url();?>nero/images/logo.jpg" alt=""></a>
                   </div>
 
                      <div class="col-lg-6 col-sm-12">
                       <h3 class="title">Neroca FC</h3>
                       <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar, Imphal, Manipur was established in 1965 </p>
-                      <a href="about.html">Read More .. </a>
+                      <a href="<?php echo base_url();?>home/about">Read More .. </a>
                   </div>
 
                   <div class="col-lg-3 col-sm-12">
@@ -91,11 +91,11 @@ To nurture sporting talents in general and Football in particular</p>
           </div>
       </li>
 
-      <li ><a href="#"><i class="fa fa-trophy" aria-hidden="true"></i>&nbsp;&nbsp;Achievements </a>
+      <li ><a href="<?php echo base_url();?>home/achievement"><i class="fa fa-trophy" aria-hidden="true"></i>&nbsp;&nbsp;Achievements </a>
         <div class="megamenu clearfix">
           <ul class="col-lg-3 col-md-3 col-xs-12 link-list">
             
-            <li><a href="achievement.html"><i class="fa fa-arrow-circle-right"></i><span class="title"> Acievements</span></a></li>
+            <li><a href="<?php echo base_url();?>home/achievement"><i class="fa fa-arrow-circle-right"></i><span class="title"> Acievements</span></a></li>
             <li><a href="#"><i class="fa fa-arrow-circle-right"></i>Neroca Players Transfers</a></li>
 
         </ul>
@@ -204,8 +204,10 @@ To nurture sporting talents in general and Football in particular</p>
     </div>
 
     <div class="container">
+    <center>
         <h3 class="mbr-section-title display-2">NEROCA FOOTBALL CLUB MANIPUR</h3>
-     
+     <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Tickets</span><i class="fa fa-arrow-circle-right"></i></a>
+     </center>
     </div>
 </div>
     <!-- Start Container -->
@@ -234,7 +236,7 @@ To nurture sporting talents in general and Football in particular</p>
       <div class="ticket col-lg-4 col-md-12 col-sm-12" style="font-size: 13px; text-align: justify;">
        <h4 class="border">About Neroca FC</h4>
         <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar, Imphal, Manipur was established in 1965 with a good hope to enhance quality of youths especially in the field of cultural activities and sports arena. <br><br>It was registered under the Manipur State Co-Operative Society 
-</p><a href="about.html">Read More .. </a>
+</p><a href="<?php echo base_url();?>home/about">Read More .. </a>
        
       </div>
       <!-- End Ticket -->
@@ -256,7 +258,7 @@ To nurture sporting talents in general and Football in particular</p>
             <span class="time">
               Friday 15 December, 2017 @ 2:00pm
             </span>
-            <a href="#" class="button"><span>Get Tickets</span><i class="fa fa-arrow-circle-right"></i></a>
+            <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Tickets</span><i class="fa fa-arrow-circle-right"></i></a>
           </div>
         </div>
 
@@ -359,7 +361,7 @@ To nurture sporting talents in general and Football in particular</p>
                 </li>
                 <li class="match">
                   <div class="team text-left">
-                    <img src="<?php echo base_url();?>nero/simages/team/neroca.png" alt=""><span>NEROCA FC</span>
+                    <img src="<?php echo base_url();?>nero/images/team/neroca.png" alt=""><span>NEROCA FC</span>
                   </div>
                   <div class="schedule">
                     <span class="team-name">Khuman Lampak</span>
@@ -663,7 +665,7 @@ To nurture sporting talents in general and Football in particular</p>
 <figure class="snip1337">
   <img src="<?php echo base_url();?>nero/images/team/main/2.jpg" alt="sample87" />
   <figcaption>
-    <img src="img/players/tiken.jpg" alt="profile-sample4" class="profile" />
+    <img src="<?php echo base_url();?>nero/img/players/tiken.jpg" alt="profile-sample4" class="profile" />
     <h2>Th. Tikendrajit<span>Media Officer</span></h2>
    
    
@@ -843,7 +845,7 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/lalit.jpg" alt="profile-sample4" class="profile" />
     <h2>Lalit Thapa<span>Goalkeeper</span></h2>
    
-    <img src="images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
     <h6>Manipur<br> India</h6>
     <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
 
@@ -1234,7 +1236,7 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/richard.jpg" alt="profile-sample4" class="profile" />
     <h2>Richard Cowen Brian Roy<span>Forward</span></h2>
    
-    <img src="images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
     <h6>Trinidad & Tobago</h6>
     <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
 
@@ -1375,7 +1377,7 @@ To nurture sporting talents in general and Football in particular</p>
         <h5 class="text-center">Sponsors</h5>
      
         <div class="sponsor-logo text-center col-lg-12 col-md-12 col-sm-12">
-          <img src="img/partner5.png" alt="">
+          <img src="<?php echo base_url();?>nero/img/partner5.png" alt="">
         </div>
        
       </div>
@@ -1401,22 +1403,22 @@ To nurture sporting talents in general and Football in particular</p>
         <!-- Bootstrap core JavaScript
     ================================================== -->
         <!-- Placed at the end of the document so the pages load faster -->
-       <script type="text/javascript" src="js/jquery.min.js"></script>
-        <script src="bootstrap/js/bootstrap.min.js"></script>
+       <script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.min.js"></script>
+        <script src="<?php echo base_url();?>nero/bootstrap/js/bootstrap.min.js"></script>
         
-        <script type="text/javascript" src="js/webslidemenu.js"></script>
-<script type="text/javascript" src="js/scripts.js"></script>
-<script type="text/javascript" src="js/owl.carousel.min.js"></script>
-<script type="text/javascript" src="js/jquery.ba-outside-events.min.js"></script>
-<script type="text/javascript" src="js/tab.js"></script>
-<script type="text/javascript" src='js/bootstrap-datepicker.js'></script>
-<script type="text/javascript" src="js/jquery.timelinr-0.9.54.js"></script>
-<script type="text/javascript" src="twitter/jquery.tweet.min.js"></script>
-<script src="assets/jquery.mb.ytplayer.min.js"></script>
+        <script type="text/javascript" src="<?php echo base_url();?>nero/js/webslidemenu.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/scripts.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.ba-outside-events.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/tab.js"></script>
+<script type="text/javascript" src='<?php echo base_url();?>nero/js/bootstrap-datepicker.js'></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.timelinr-0.9.54.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/twitter/jquery.tweet.min.js"></script>
+<script src="<?php echo base_url();?>nero/assets/jquery.mb.ytplayer.min.js"></script>
  
-  <script src="assets/script.js"></script>
+  <script src="<?php echo base_url();?>nero/assets/script.js"></script>
         <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-        <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+        <script src="<?php echo base_url();?>nero/assets/js/ie10-viewport-bug-workaround.js"></script>
 
         <script>
     $.fn.expose = function(options) {

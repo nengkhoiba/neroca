@@ -203,7 +203,7 @@ To nurture sporting talents in general and Football in particular</p>
   <div class="intro">
     <div id="home-slider" class="owl-carousel owl-theme">
       <div class="item">
-        <img src="<?php echo base_url();?>nero/img/slider/bg1.jpg" alt="">
+        <img src="img/slider/bg1.jpg" alt="">
         <div class="slide-content col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 text-center">
           <h1>Neroca FC</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
@@ -211,7 +211,7 @@ To nurture sporting talents in general and Football in particular</p>
         </div>
       </div>
       <div class="item">
-        <img src="<?php echo base_url();?>nero/img/slider/bg2.jpg" alt="">
+        <img src="img/slider/bg2.jpg" alt="">
         <div class="slide-content col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 text-center">
           <h1>Neroca FC</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
@@ -219,7 +219,7 @@ To nurture sporting talents in general and Football in particular</p>
         </div>
       </div>
       <div class="item">
-        <img src="<?php echo base_url();?>nero/img/slider/bg3.jpg" alt="">
+        <img src="img/slider/bg3.jpg" alt="">
         <div class="slide-content col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 text-center">
           <h1>Neroca FC</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
@@ -227,7 +227,7 @@ To nurture sporting talents in general and Football in particular</p>
         </div>
       </div>
       <div class="item">
-        <img src="<?php echo base_url();?>nero/img/slider/bg4.jpg" alt="">
+        <img src="img/slider/bg4.jpg" alt="">
         <div class="slide-content col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 text-center">
           <h1>Neroca FC</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
@@ -244,80 +244,219 @@ To nurture sporting talents in general and Football in particular</p>
 
 
 
-    <!-- Start Container -->
-    <div class="container">
-
-      <!-- Start Preamble -->
-      <div class="preamble text-center col-lg-10 col-lg-offset-1">
-        
-      </div>
-      <!-- End Preamble -->
 
 
 
-    </div>
-
-
- 
 
   <!-- Start Social -->
   <div id="social">
 
-  
+
     <div class="container">
       
       <!-- Start Ticket -->
-      <div class="ticket col-lg-8 col-md-12 col-sm-12" style="font-size: 13px;">
-       <h4 class="border">About Neroca FC</h4>
-        <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar, Imphal, Manipur was established in 1965 with a good hope to enhance quality of youths especially in the field of cultural activities and sports arena.<br><br> It was registered under the Manipur State Co-Operative Society Registration Act bearing Registration No. 1016 of 1972. NEROCA is a registered Football Club of Imphal East District Football Association and affiliated to the All Manipur Football Association (AMFA), Mapal Kangjeibung, Imphal. NEROCA participated the Manipur State League (MSL) since the beginning and stood 2nd position in the 2nd MSL, 2007.  Again, in the last concluded 9th MSL, 2014, NEROCA got the Championship Trophy.<br><br>With the Aim & Objective to participate the I-League (2nd Division), 2015-16 and as per norms of the All India Football Federation (AIFF), the nomenclature of NEROCA is changed to NEROCA Football Club  Imphal  and managed by a Private Limited Company, NEROCA Football Club Pvt. Ltd. bearing Company Identification Number U92412MN2015PTC008432.
-</p>
-       
-      </div>
-      <!-- End Ticket -->
-
+       <!-- Start Tab Seniors -->
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">ACHIEVEMENTS OF NEROCA SINCE 1999</h4>
+            
+            </div>
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
       
+              <table class="table">
+                <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3"><strong>Name of Tournament/Trophy</strong></th>
+                  <th class="col-lg-3 col-md-3 col-xs-3"><strong>Year</strong></th>
+                  <th class="col-lg-4 col-md-4 col-xs-4"><strong>Place</strong></th>
+                  <th class="col-lg-2 col-md-2 col-xs-2"><strong>Position</strong></th>
+                </tr>
+                <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">R.K.Tulachandra Memorial Football Tournament</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">1999</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Champion</th>
+                </tr>
+                  <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Padamajung Memorial Football Tournament  </th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">1999</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Agartala (Tripura)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Runners up</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                  <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">58th C.C.Meet</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">2014</th>
+                  <th class="col-lg-4 col-md-4 col-xs-4">Imphal (Manipur)</th>
+                  <th class="col-lg-2 col-md-2 col-xs-2">Semi Finalist</th>
+                </tr>
+              </table>
+           
+            </div>
+          </div>
+          <!-- End Tab Seniors -->
 
-    
+  </div>
+  <!-- End Social -->
 
-    <!-- Start Table -->
-      <div class="table-info col-lg-4 col-md-12 col-sm-12">
-        
-      <h4 class="border">Like Us on Facebook</h4>
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNerocafc%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="265" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" overflow-y="hidden"></iframe>
+
+
+
+
+
+
+  <!-- Start Trophies -->
+  <div id="trophies" style="margin-top: 3em;">
+    <div class="container">
+      
+      <!-- Start Heading -->
+      <div class="heading col-lg-12 col-md-12 col-sm-12">
+        <h4 class="border" style="color: white;">
+          Our Trophies
+        </h4>
+      </div>
+      <!-- End Heading -->
+      
+      <!-- Start Cups-Slider -->
+      <div class="cups-slider col-lg-12 col-md-12 col-sm-12">
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>58th C.C.Meet, 2014</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup2.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2015 France Champions League Cup</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup3.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>58th C.C.Meet, 2014</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup4.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2017 Europe Champions League Cup</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup5.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2018 RPA Champions League Cup</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2019 Canada Champions League Cup</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup2.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2020 USA Champions League Cup</span>
+          </div>
+        </div>
+      </div>
+      <!-- End Cups-Slider -->
 
     </div>
-
-
-
-</div>
-
   </div>
-  <!-- End Social -->
-
-
-   <!-- Start Social -->
-  <div id="social" style="margin-bottom: 2em;">
-
-  
-    <div class="container">
-      
-      <!-- Start Ticket -->
-      <div class="ticket col-lg-8 col-md-12 col-sm-12" style="font-size: 13px;">
-       <h4 class="border">Mission & Vision</h4>
-        <p>1 - To promote and develop the game of Football in the state to National and International standards<br><br>2 - 
-To nurture sporting talents in general and Football in particular
-       
-      </div>
-      <!-- End Ticket -->
-
-
-</div>
-
-  </div>
-  <!-- End Social -->
-
-
-
+  <!-- End Trophies -->
 
 
   <!-- Start Footer -->
@@ -368,13 +507,13 @@ To nurture sporting talents in general and Football in particular
       </div>
       <!-- End Footer-Top -->
 
-   
+
       <!-- Start Sposnors -->
       <div class="sponsors clearfix">
         <h5 class="text-center">Sponsors</h5>
      
         <div class="sponsor-logo text-center col-lg-12 col-md-12 col-sm-12">
-          <img src="<?php echo base_url();?>nero/img/partner5.png" alt="">
+          <img src="img/partner5.png" alt="">
         </div>
        
       </div>
@@ -403,14 +542,14 @@ To nurture sporting talents in general and Football in particular
        <script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.min.js"></script>
         <script src="<?php echo base_url();?>nero/bootstrap/js/bootstrap.min.js"></script>
         
-        <script type="<?php echo base_url();?>nero/text/javascript" src="js/webslidemenu.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/scripts.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/owl.carousel.min.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/jquery.ba-outside-events.min.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/tab.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src='js/bootstrap-datepicker.js'></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/jquery.timelinr-0.9.54.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="twitter/jquery.tweet.min.js"></script>
+        <script type="text/javascript" src="<?php echo base_url();?>nero/js/webslidemenu.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/scripts.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.ba-outside-events.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/tab.js"></script>
+<script type="text/javascript" src='<?php echo base_url();?>nero/js/bootstrap-datepicker.js'></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.timelinr-0.9.54.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/twitter/jquery.tweet.min.js"></script>
         <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
         <script src="<?php echo base_url();?>nero/assets/js/ie10-viewport-bug-workaround.js"></script>
 

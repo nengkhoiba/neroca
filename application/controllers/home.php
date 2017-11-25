@@ -17,6 +17,16 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('gallery');
 	}
+	
+	public function about()
+	{
+	    $this->load->view('about');
+	}
+	
+	public function achievement()
+	{
+	    $this->load->view('achievement');
+	}
 
 	public function ticket()
 	{
