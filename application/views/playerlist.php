@@ -197,9 +197,8 @@ To nurture sporting talents in general and Football in particular</p>
         <img src="<?php echo base_url();?>nero/img/slider/bg1.jpg" alt="">
         <div class="slide-content col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 text-center">
           <h1>Neroca FC</h1>
-          <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association 
-          (NEROCA), Sangakpham Bazar, Imphal, Manipur was established in 1965 with a good hope to enhance quality of youths especially in the field of cultural activities and sports arena.</p>
-          <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Ticket</span><i class="fa fa-arrow-circle-right"></i></a>
+          <p> Manipur was established in 1965 with a good hope to enhance quality of youths especially in the field of cultural activities and sports arena.</p>
+          <a href="<?php echo base_url();?>home/ticket#select" class="button"><span>Buy ticket online</span><i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
       <div class="item">
@@ -209,7 +208,7 @@ To nurture sporting talents in general and Football in particular</p>
           <p> To promote and develop the game of Football in the state to National and International standards
 
 			<br> To nurture sporting talents in general and Football in particular</p>
-          <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Ticket</span><i class="fa fa-arrow-circle-right"></i></a>
+          <a href="<?php echo base_url();?>home/ticket#select" class="button"><span>Buy ticket online</span><i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
     </div>

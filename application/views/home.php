@@ -197,7 +197,7 @@ To nurture sporting talents in general and Football in particular</p>
     <div class="container">
     <center>
         <h3 class="mbr-section-title display-2">NEROCA FOOTBALL CLUB MANIPUR</h3>
-     <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Tickets</span><i class="fa fa-arrow-circle-right"></i></a>
+     <a href="<?php echo base_url();?>home/ticket#select" class="button"><span>Buy ticket online</span><i class="fa fa-arrow-circle-right"></i></a>
      </center>
     </div>
 </div>
@@ -307,7 +307,7 @@ To nurture sporting talents in general and Football in particular</p>
             <span class="time">
               Friday 15 December, 2017 @ 2:00pm
             </span>
-            <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Tickets</span><i class="fa fa-arrow-circle-right"></i></a>
+            <a href="<?php echo base_url();?>home/ticket#select" class="button"><span>Buy ticket</span><i class="fa fa-arrow-circle-right"></i></a>
           </div>
         </div>
 

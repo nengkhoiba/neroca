@@ -205,7 +205,7 @@ TICKET CATEGORY SELECTION STYLE START HERE
              <li ><a href="<?php echo base_url();?>"><i class="fa fa-futbol-o" aria-hidden="true"></i>&nbsp;&nbsp;Home</a>
 
              </li>
-             <li ><a href="#"><i class="fa fa-paragraph"></i>&nbsp;&nbsp;About Neroca FC </a>
+             <li ><a href="<?php echo base_url();?>home/about"><i class="fa fa-paragraph"></i>&nbsp;&nbsp;About Neroca FC </a>
                 <div class="megamenu clearfix" >
                   <div class="typography-text clearfix">
 
@@ -272,35 +272,32 @@ To nurture sporting talents in general and Football in particular</p>
   </div>
 </div>
 </li>
-<li ><a href="#"><i class="fa fa-th-large"></i>&nbsp;&nbsp;Managing Committee </a>
+<li ><a href="<?php echo base_url();?>home/managing"><i class="fa fa-th-large"></i>&nbsp;&nbsp;Managing Committee </a>
     <div class="megamenu clearfix ">
 
         <div class="col-sm-4">
-          <h3 class="title">Lorem</h3>
+          <h3 class="title">1st Managing Committee </h3>
           <div class="fluid-width-video-wrapper"><a href="#"><img src="<?php echo base_url();?>nero/images/image01.jpg" alt=""/></a> </div>
       </div>
       <div class="col-sm-4">
-          <h3 class="title">Lorem</h3>
+          <h3 class="title">Neroca Officials </h3>
           <div class="fluid-width-video-wrapper"><img src="<?php echo base_url();?>nero/images/image02.jpg" alt=""/> </div>
       </div>
       <div class="col-sm-4">
-          <h3 class="title">Lorem</h3>
+          <h3 class="title">26th Managing Committee </h3>
           <div class="fluid-width-video-wrapper"><img src="<?php echo base_url();?>nero/images/image03.jpg" alt=""/> </div>
       </div>
 
 
       <div class="col-sm-4">
-          <h3 class="title mrgtop">Lorem</h3>
+          <h3 class="title mrgtop">President and Secretary</h3>
           <div class="fluid-width-video-wrapper"><a href="#"><img src="<?php echo base_url();?>nero/images/image04.jpg" alt=""/></a> </div>
       </div>
       <div class="col-sm-4">
-          <h3 class="title mrgtop">Lorem</h3>
+          <h3 class="title mrgtop">Panel of coaches</h3>
           <div class="fluid-width-video-wrapper"><img src="<?php echo base_url();?>nero/images/image05.jpg" alt=""/> </div>
       </div>
-      <div class="col-sm-4">
-          <h3 class="title mrgtop">Lorem</h3>
-          <div class="fluid-width-video-wrapper"><img src="<?php echo base_url();?>nero/images/image06.jpg" alt=""/> </div>
-      </div>
+     
 
   </div>
 </li>
@@ -322,14 +319,8 @@ To nurture sporting talents in general and Football in particular</p>
 </li>
 
 
-<li aria-haspopup="true"><a href="#"><i class="fa fa-star" aria-hidden="true"></i></i>&nbsp;&nbsp;Player List </a>
-    <ul class="wsdownmenu-submenu">
-      <li><a href="#">Player List 2017-18 </a></li>
-      <li><a href="#">Player List 2016-17</a></li>
-      <li><a href="#">Player List 2015-16</a></li>
-      <li><a href="#">Player List 2014-15</a></li>
-
-  </ul>
+<li aria-haspopup="true"><a href="<?php echo base_url();?>home/playerlist"><i class="fa fa-star" aria-hidden="true"></i></i>&nbsp;&nbsp;Player List </a>
+    
 </li>
 
 
@@ -342,16 +333,42 @@ To nurture sporting talents in general and Football in particular</p>
 
 
 </div>
+  <!-- End Header -->
+
+
+    <!-- Start Intro -->
+  <div class="intro" style="height:400px;">
+    <div id="home-slider" class="owl-carousel owl-theme">
+      <div class="item">
+        <img src="<?php echo base_url();?>nero/img/slider/bg1.jpg" alt="">
+        <div class="slide-content col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 text-center">
+          <h1>Select match and gate</h1>
+          <p></p>
+         
+        </div>
+      </div>
+    
+    </div>
+  
+  </div>
+  <!-- End Intro -->
 
 
 
 
 
-<div class="container" style="min-height:200px;">
+
+
+
+
+
+
+<div class="container" style="">
 </div>
 
 
 <div class="container">
+<br>
 <div class="row">
 <div class="col-md-12">
 <div class="col-md-4">
@@ -710,14 +727,14 @@ viewBox="0 0 1865 1688"
        <script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.min.js"></script>
         <script src="<?php echo base_url();?>nero/bootstrap/js/bootstrap.min.js"></script>
         
-        <script type="<?php echo base_url();?>nero/text/javascript" src="js/webslidemenu.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/scripts.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/owl.carousel.min.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/jquery.ba-outside-events.min.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/tab.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src='js/bootstrap-datepicker.js'></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="js/jquery.timelinr-0.9.54.js"></script>
-<script type="<?php echo base_url();?>nero/text/javascript" src="twitter/jquery.tweet.min.js"></script>
+        <script type="text/javascript" src="<?php echo base_url();?>nero/js/webslidemenu.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/scripts.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.ba-outside-events.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/tab.js"></script>
+<script type="text/javascript" src='<?php echo base_url();?>nero/js/bootstrap-datepicker.js'></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.timelinr-0.9.54.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>nero/twitter/jquery.tweet.min.js"></script>
         <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
         <script src="<?php echo base_url();?>nero/assets/js/ie10-viewport-bug-workaround.js"></script>
 
