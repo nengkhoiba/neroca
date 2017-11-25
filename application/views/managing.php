@@ -231,65 +231,491 @@ To nurture sporting talents in general and Football in particular</p>
 
 
 
-<!-- Start Social -->
+
+
+
+
+  <!-- Start Social -->
   <div id="social">
 
-  
+
     <div class="container">
       
       <!-- Start Ticket -->
-      <div class="ticket col-lg-8 col-md-12 col-sm-12" style="font-size: 13px;">
-       <h4 class="border">About Neroca FC</h4>
-        <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar, Imphal, Manipur was established in 1965 with a good hope to enhance quality of youths especially in the field of cultural activities and sports arena.<br><br> It was registered under the Manipur State Co-Operative Society Registration Act bearing Registration No. 1016 of 1972. NEROCA is a registered Football Club of Imphal East District Football Association and affiliated to the All Manipur Football Association (AMFA), Mapal Kangjeibung, Imphal. NEROCA participated the Manipur State League (MSL) since the beginning and stood 2nd position in the 2nd MSL, 2007.  Again, in the last concluded 9th MSL, 2014, NEROCA got the Championship Trophy.<br><br>With the Aim & Objective to participate the I-League (2nd Division), 2015-16 and as per norms of the All India Football Federation (AIFF), the nomenclature of NEROCA is changed to NEROCA Football Club  Imphal  and managed by a Private Limited Company, NEROCA Football Club Pvt. Ltd. bearing Company Identification Number U92412MN2015PTC008432.
-</p>
-       
-      </div>
-      <!-- End Ticket -->
+       <!-- Start Tab Seniors -->
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">First Managing Committee</h4>
+            
+            </div>
+            
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p>First Managing Committee was formed vide G.B. Meeting held on 19.09.1965 for the period of 19.09.1965 to 14.10.1967 with the following members:</p>
+              <table class="table"><tbody><tr><td>Name</td>
+<td>Post</td>
+</tr><tr><td>1.&nbsp;&nbsp; &nbsp;Ng. Babu</td>
+<td>President</td>
+</tr><tr><td>2.&nbsp;&nbsp; &nbsp;Leimapokpam Ibohal&nbsp;&nbsp; &nbsp;</td>
+<td>Vice President&nbsp;</td>
+</tr><tr><td>3.&nbsp;&nbsp; &nbsp;Khondram Budhachandra</td>
+<td>Secretary General</td>
+</tr><tr><td>4.&nbsp;&nbsp; &nbsp;O.Raghumani</td>
+<td>Secretary Finance</td>
+</tr><tr><td>5.&nbsp;&nbsp; &nbsp;Pukhrambam Mangi &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>Secretary Games</td>
+</tr><tr><td>6.&nbsp;&nbsp; &nbsp;E.Jugindro</td>
+<td>Secretary Welfare</td>
+</tr><tr><td>7.&nbsp;&nbsp; &nbsp;K.Brajabihari</td>
+<td>Secretary Music</td>
+</tr><tr><td>8.&nbsp;&nbsp; &nbsp;M.Krishnamani</td>
+<td>Secretary Information</td>
+</tr><tr><td>9.&nbsp;&nbsp; &nbsp;Elam Gourchandra</td>
+<td>Secretary Literary</td>
+</tr><tr><td>10.&nbsp;&nbsp; &nbsp;Konsam Achouba&nbsp;&nbsp; &nbsp;</td>
+<td>Secretary Auditor</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          <!-- End Tab Seniors -->
 
+  </div>
+  <!-- End Social -->
+  
+  
+  <div class="container">
       
+      <!-- Start Ticket -->
+       <!-- Start Tab Seniors -->
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">NEROCA OFFICIALS</h4>
+            
+            </div>
+            
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p>NEROCA FOOTBALL CLUB OFFICIALS</p>
+              <table class="table"><tbody><tr><td>1</td>
+<td>GIFT RAIKHAN</td>
+<td>HEAD COACH</td>
+</tr><tr><td>2</td>
+<td>THANGJAM ARUNKUMAR SINGH</td>
+<td>TEAM-MANAGER</td>
+</tr><tr><td>3</td>
+<td>SAPAM PREMKANTA SINGH</td>
+<td>ASSISTANT COACH</td>
+</tr><tr><td>4</td>
+<td>KARAM KASHI SINGH</td>
+<td>ASSISTANT MANAGER</td>
+</tr><tr><td>5</td>
+<td>HEIKHAM BIKRAMKUMAR SINGH</td>
+<td>PHYSIOTHERAPY</td>
+</tr><tr><td>6</td>
+<td>ANGAM ZIMIK</td>
+<td>KIT-BOY</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          <!-- End Tab Seniors -->
 
-    
+  </div>
+  <!-- End Social -->
+  
+  
+  <div class="container">
+      
+      <!-- Start Ticket -->
+       <!-- Start Tab Seniors -->
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">Twenty Sixth Managing Committee</h4>
+            
+            </div>
+            
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p>Twenty Sixth Managing Committee was formed vide G.B.Meeting held on 18.02.2015 at Sinam Syama Devi Town Hall, Chingmeirong West,, Shri Nongthonbam Biren as Functional President for the period of 18.02.2015 to 31.03.2017 with the following members: </p>
+              <table class="table"><thead><tr><th scope="col">SLNO</th>
+<th scope="col">Name</th>
+<th scope="col">Post</th>
+</tr></thead><tbody><tr><td>1.</td>
+<td>Dr. Thangjam Dhabali Singh&nbsp;</td>
+<td>President</td>
+</tr><tr><td>2.</td>
+<td>Abujam Brajamani&nbsp;</td>
+<td>Vice President</td>
+</tr><tr><td>3.</td>
+<td>Huidrom Bigyadhon&nbsp;</td>
+<td>Vice President</td>
+</tr><tr><td>4.</td>
+<td>Thaithuilung Pamei&nbsp;</td>
+<td>Vice President</td>
+</tr><tr><td>5.</td>
+<td>Keisham Rameshar&nbsp;</td>
+<td>Vice President</td>
+</tr><tr><td>6.</td>
+<td>Dr.Moirangthem Manimohon&nbsp;</td>
+<td>General Secretary</td>
+</tr><tr><td>7.</td>
+<td>Yumnam Binoy&nbsp;</td>
+<td>Assistant Secretary</td>
+</tr><tr><td>8.</td>
+<td>Maibam Nobin&nbsp;</td>
+<td>Treasurer</td>
+</tr><tr><td>9.</td>
+<td>Hirom Irabot&nbsp;</td>
+<td>Internal Auditor</td>
+</tr><tr><td>10.</td>
+<td>Sanasam Jyotibhushan&nbsp;</td>
+<td>Internal Auditor</td>
+</tr><tr><td>11.</td>
+<td>Maibam Ibobi&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>12.</td>
+<td>Huidrom Tomba&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>20.</td>
+<td>Thingom Joykumar&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>21.</td>
+<td>Wakambam Suraj&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>22.</td>
+<td>Chingtham Bipin&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>23.</td>
+<td>Paonam Shyamkishore&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>24.</td>
+<td>Konsam Joy&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>25.</td>
+<td>Karam Kashi&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>26.</td>
+<td>Pukhrambam Sunderchand&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>27.</td>
+<td>Yumnam Devendro&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>28.</td>
+<td>Wahengbam Robindro&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>29.</td>
+<td>Huidrom Shamu&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>30.</td>
+<td>Chingangbam Rameswar&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>31.</td>
+<td>Langam Joybi&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>32.</td>
+<td>Yumnam Joy&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>33.</td>
+<td>Pukhrambam Devendro&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>34.</td>
+<td>Taorem Mangi&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>35.</td>
+<td>Lourembam Rajesh&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>36.</td>
+<td>Maibam Binoy&nbsp;</td>
+<td>Executive Member</td>
+</tr><tr><td>37.</td>
+<td>Angapu Daimei&nbsp;</td>
+<td>Executive Member</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          <!-- End Tab Seniors -->
 
-    <!-- Start Table -->
-      <div class="table-info col-lg-4 col-md-12 col-sm-12">
-        
-      <h4 class="border">Like Us on Facebook</h4>
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNerocafc%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="265" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" overflow-y="hidden"></iframe>
+  </div>
+  <!-- End Social -->
+  
+  
+  
+  <div class="container">
+      
+      <!-- Start Ticket -->
+       <!-- Start Tab Seniors -->
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">List of President & Secretary</h4>
+            
+            </div>
+            
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p></p>
+              <table class="table"><thead><tr><th scope="col">Sl.No.</th>
+<th scope="col">Name of President</th>
+<th scope="col">Name of secretary</th>
+<th scope="col">Years</th>
+</tr></thead><tbody><tr><td>1</td>
+<td>Ng. Babu</td>
+<td>Kh.Budhachandra</td>
+<td>19.09.1965 to 14.10.1967</td>
+</tr><tr><td>2</td>
+<td>Kh.Budhachandra</td>
+<td>Lairenjam Iboton</td>
+<td>15.10.1967 to 29.09.1969</td>
+</tr><tr><td>3</td>
+<td>Leimapokpam Ibohal</td>
+<td>Kh.Budhachandra</td>
+<td>21.09.1969 to 17.10.1970</td>
+</tr><tr><td>4</td>
+<td>Lairenjam Iboton</td>
+<td>M.Krishnamani</td>
+<td>18.10.1970 to 26.12.1971</td>
+</tr><tr><td>5</td>
+<td>Kh.Budhachandra</td>
+<td>Elam Gourchandra</td>
+<td>01.01.1972 to 30.12.1973</td>
+</tr><tr><td>6</td>
+<td>Elam Gourchandra</td>
+<td>Taorem Mangi</td>
+<td>01.01.1974 to 31.03.1975</td>
+</tr><tr><td>7</td>
+<td>A.Bimola Devi</td>
+<td>Maibam Ibobi</td>
+<td>01.04.1975 to 31.03.1976</td>
+</tr><tr><td>8</td>
+<td>Khaidem Pishak</td>
+<td>A.Brajamani</td>
+<td>01.04.1976 to 23.09.1977</td>
+</tr><tr><td>9</td>
+<td>Khaidem Pishak</td>
+<td>L.Biramani Roy</td>
+<td>24.09.1977 to 30.03.1978</td>
+</tr><tr><td>10</td>
+<td>Elam Gourchandra</td>
+<td>Konsam Achouba</td>
+<td>31.03.1978 to 22.12.1979</td>
+</tr><tr><td>11</td>
+<td>Konsam Achouba</td>
+<td>Md.Nurjaman Shah</td>
+<td>23.12.1979 to 31.12.1980</td>
+</tr><tr><td>12</td>
+<td>Konsam Achouba</td>
+<td>W.Gopal</td>
+<td>01.01.1981 to 31.12.1982</td>
+</tr><tr><td>13</td>
+<td>Konsam Achouba</td>
+<td>Pukhrambam Mangi</td>
+<td>01.01.1983 to 05.1984</td>
+</tr><tr><td>14</td>
+<td>Khwairakpam Amujao</td>
+<td>Huidrom Raghumani</td>
+<td>1984 to 02.1987</td>
+</tr><tr><td>15</td>
+<td>Md.Hussain Choudhuri</td>
+<td>Wakambam Rupachandra</td>
+<td>02.1987 to 01.1988</td>
+</tr><tr><td>16</td>
+<td>Md.Hussain Choudhuri</td>
+<td>Th.Solono</td>
+<td>01.1988 to 14.10.1989</td>
+</tr><tr><td>17</td>
+<td>A.Kesho</td>
+<td>Khaidem Ibocha</td>
+<td>15.10.1989 to .1990</td>
+</tr><tr><td>18</td>
+<td>A.Kesho</td>
+<td>Huidrom Tomba</td>
+<td>1990 to 15.03.1992</td>
+</tr><tr><td>19</td>
+<td>A.Kesho</td>
+<td>Wakambam Sanajaoba</td>
+<td>10.05.1992 to 1993</td>
+</tr><tr><td>20</td>
+<td>Khwairakpam Amujao</td>
+<td>Koijam Gyaneshwar</td>
+<td>18.04.1993 to 07.05.1995</td>
+</tr><tr><td>21</td>
+<td>Md.Nurjaman Shah</td>
+<td>Wakambam Ranjit</td>
+<td>07.05.1995 to 22.02.1997</td>
+</tr><tr><td>22</td>
+<td>Koijam Gyaneshwar</td>
+<td>Huidrom Raghumani</td>
+<td>23.02.1997 to 08.10.1999</td>
+</tr><tr><td>23</td>
+<td>Dr.Wakambam Thoiba</td>
+<td>Nongthonbam Biren</td>
+<td>09.10.1999 to 28.09.2002</td>
+</tr><tr><td>24</td>
+<td>Nongthonbam Biren</td>
+<td>Thangjam Arunkumar</td>
+<td>29.09.2002 to 22.09.2007</td>
+</tr><tr><td>25</td>
+<td>Nongthonbam Biren</td>
+<td>Ningthoujam Binodkumar</td>
+<td>23.09.2007 to 03.03.2012</td>
+</tr><tr><td>26</td>
+<td>Nongthonbam Biren</td>
+<td>Dr.Moirangthem Manimohon</td>
+<td>04.03.2012 to 17.02.2015</td>
+</tr><tr><td>27</td>
+<td>Dr.Thangjam Dhabali</td>
+<td>Dr.Moirangthem Manimohon</td>
+<td>18.02.2015 to 31.03.2017</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          <!-- End Tab Seniors -->
+
+  </div>
+  <!-- End Social -->
+
+
+<div class="container">
+      
+      <!-- Start Ticket -->
+       <!-- Start Tab Seniors -->
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">LIST OF COACHES
+FOR THE SEASON 2015-2016</h4>
+            
+            </div>
+            
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p></p>
+             <table class="table"><thead><tr><th scope="col">SL.NO</th>
+<th scope="col">NAME</th>
+<th scope="col">DESIGNATION</th>
+<th scope="col">QUALIFICATION</th>
+</tr></thead><tbody><tr><td>1</td>
+<td>GIFT RAIKHAM</td>
+<td>HEAD COACH</td>
+<td>AFC-A LICENCE</td>
+</tr><tr><td>2</td>
+<td>CHINGAKHAM SHANTIKUMAR SINGH</td>
+<td>HEAD YOUTH DEVELOPMENT PROGRAM</td>
+<td>AFC-A LICENCE</td>
+</tr><tr><td>3</td>
+<td>SAPAM PREMKANTA SINGH</td>
+<td>ASSISTANT COACH</td>
+<td>AFC - B LICENCE &amp; LEVEL II IN GKC</td>
+</tr><tr><td>4</td>
+<td>SAGOLSEM MANIRATAN SINGH</td>
+<td>ASSISTANT COACH</td>
+<td>AFC - B LICENCE</td>
+</tr><tr><td>5</td>
+<td>ABUJAM KENKLAK SINGH</td>
+<td>ASSISTANT COACH</td>
+<td>AFC - C LICENCE</td>
+</tr><tr><td>6</td>
+<td>MAHARABAM ROBIN</td>
+<td>ASSISTANT COACH</td>
+<td>AFC - C APPLY</td>
+</tr><tr><td>7</td>
+<td>ATHUI DAIMEI</td>
+<td>ASSISTANT COACH</td>
+<td>X-SENIOR PLAYER</td>
+</tr><tr><td>8</td>
+<td>ANGAPU DAIMEI</td>
+<td>ASSISTANT COACH</td>
+<td>X-SENIOR PLAYER</td>
+</tr><tr><td>9</td>
+<td>HUIDROM AMAR SINGH</td>
+<td>ASSISTANT COACH</td>
+<td>X-SENIOR PLAYER</td>
+</tr></tbody></table> 
+           
+            </div>
+          </div>
+          <!-- End Tab Seniors -->
+
+  </div>
+  <!-- End Social -->
+
+
+
+
+
+
+  <!-- Start Trophies -->
+  <div id="trophies" style="margin-top: 3em;">
+    <div class="container">
+      
+      <!-- Start Heading -->
+      <div class="heading col-lg-12 col-md-12 col-sm-12">
+        <h4 class="border" style="color: white;">
+          Our Trophies
+        </h4>
+      </div>
+      <!-- End Heading -->
+      
+      <!-- Start Cups-Slider -->
+      <div class="cups-slider col-lg-12 col-md-12 col-sm-12">
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>58th C.C.Meet, 2014</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup2.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2015 France Champions League Cup</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup3.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>58th C.C.Meet, 2014</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup4.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2017 Europe Champions League Cup</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup5.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2018 RPA Champions League Cup</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2019 Canada Champions League Cup</span>
+          </div>
+        </div>
+        <div class="cup-single">
+          <div class="cup-single-frame">
+            <img src="img/trophy-cup2.png" alt="">
+          </div>
+          <div class="cup-single-caption">
+            <span>2020 USA Champions League Cup</span>
+          </div>
+        </div>
+      </div>
+      <!-- End Cups-Slider -->
 
     </div>
-
-
-
-</div>
-
   </div>
-  <!-- End Social -->
-
-
-   <!-- Start Social -->
-  <div id="social" style="margin-bottom: 2em;">
-
-  
-    <div class="container">
-      
-      <!-- Start Ticket -->
-      <div class="ticket col-lg-8 col-md-12 col-sm-12" style="font-size: 13px;">
-       <h4 class="border">Mission & Vision</h4>
-        <p>1 - To promote and develop the game of Football in the state to National and International standards<br><br>2 - 
-To nurture sporting talents in general and Football in particular
-       
-      </div>
-      <!-- End Ticket -->
-
-
-</div>
-
-  </div>
-  <!-- End Social -->
-
-
-
-  
+  <!-- End Trophies -->
 
 
   <!-- Start Footer -->

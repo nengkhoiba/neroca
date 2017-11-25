@@ -127,7 +127,7 @@ To nurture sporting talents in general and Football in particular</p>
   </div>
 </div>
 </li>
-<li ><a href="#"><i class="fa fa-th-large"></i>&nbsp;&nbsp;Managing Committee </a>
+<li ><a href="<?php echo base_url();?>home/managing"><i class="fa fa-th-large"></i>&nbsp;&nbsp;Managing Committee </a>
     <div class="megamenu clearfix ">
 
         <div class="col-sm-4">

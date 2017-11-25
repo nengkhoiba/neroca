@@ -127,7 +127,7 @@ To nurture sporting talents in general and Football in particular</p>
   </div>
 </div>
 </li>
-<li ><a href="#"><i class="fa fa-th-large"></i>&nbsp;&nbsp;Managing Committee </a>
+<li ><a href="<?php echo base_url();?>home/managing"><i class="fa fa-th-large"></i>&nbsp;&nbsp;Managing Committee </a>
     <div class="megamenu clearfix ">
 
         <div class="col-sm-4">
@@ -519,24 +519,38 @@ To nurture sporting talents in general and Football in particular</p>
 </tr>
 
 <tr><td>48.</td>
-<td>58th C.C.Meet</td>
+<td>10th Manipur State League</td>
 <td>2015</td>
 <td>Imphal (Manipur)</td>
-<td>Semi Finalist</td>
+<td>Semi Finalist (Unbeaten) Highest Score Point</td>
 </tr>
 
-<tr><td>43.</td>
-<td>58th C.C.Meet</td>
-<td>2014</td>
+<tr><td>49.</td>
+<td>59th CC'Meet</td>
+<td>2015</td>
 <td>Imphal (Manipur)</td>
-<td>Semi Finalist</td>
+<td>Champion</td>
 </tr>
 
-<tr><td>43.</td>
-<td>58th C.C.Meet</td>
-<td>2014</td>
+<tr><td>50.</td>
+<td>11'Manipur State League</td>
+<td>2016</td>
 <td>Imphal (Manipur)</td>
-<td>Semi Finalist</td>
+<td>Champion</td>
+</tr>
+
+<tr><td>51.</td>
+<td>60th  CC'Meet</td>
+<td>2016</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
+</tr>
+
+<tr><td>52.</td>
+<td>2nd Div I League</td>
+<td>2016</td>
+<td>Imphal (Manipur)</td>
+<td>Champion</td>
 </tr>
 
 </tbody></table>

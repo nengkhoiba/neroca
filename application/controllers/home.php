@@ -27,6 +27,11 @@ class Home extends CI_Controller {
 	{
 	    $this->load->view('achievement');
 	}
+	
+	public function managing()
+	{
+	    $this->load->view('managing');
+	}
 
 	public function ticket()
 	{
