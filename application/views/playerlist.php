@@ -234,397 +234,576 @@ To nurture sporting talents in general and Football in particular</p>
       
       <!-- Start Ticket -->
        <!-- Start Tab Seniors -->
+       
+       
+       
+       
           <div class="tab-pane fade active in" id="seniors-trainings">
             <div class="training-header col-lg-12 col-md-12 col-sm-12">
-              <h4 class="border pull-left">First Managing Committee</h4>
+              <h4 class="border pull-left">Player List 2016-2017</h4>
             
             </div>
-            
             <div class="training-table col-lg-12 col-md-12 col-xs-12">
-      <p>First Managing Committee was formed vide G.B. Meeting held on 19.09.1965 for the period of 19.09.1965 to 14.10.1967 with the following members:</p>
-              <table class="table"><tbody><tr><td>Name</td>
-<td>Post</td>
-</tr><tr><td>1.&nbsp;&nbsp; &nbsp;Ng. Babu</td>
-<td>President</td>
-</tr><tr><td>2.&nbsp;&nbsp; &nbsp;Leimapokpam Ibohal&nbsp;&nbsp; &nbsp;</td>
-<td>Vice President&nbsp;</td>
-</tr><tr><td>3.&nbsp;&nbsp; &nbsp;Khondram Budhachandra</td>
-<td>Secretary General</td>
-</tr><tr><td>4.&nbsp;&nbsp; &nbsp;O.Raghumani</td>
-<td>Secretary Finance</td>
-</tr><tr><td>5.&nbsp;&nbsp; &nbsp;Pukhrambam Mangi &nbsp; &nbsp; &nbsp; &nbsp;</td>
-<td>Secretary Games</td>
-</tr><tr><td>6.&nbsp;&nbsp; &nbsp;E.Jugindro</td>
-<td>Secretary Welfare</td>
-</tr><tr><td>7.&nbsp;&nbsp; &nbsp;K.Brajabihari</td>
-<td>Secretary Music</td>
-</tr><tr><td>8.&nbsp;&nbsp; &nbsp;M.Krishnamani</td>
-<td>Secretary Information</td>
-</tr><tr><td>9.&nbsp;&nbsp; &nbsp;Elam Gourchandra</td>
-<td>Secretary Literary</td>
-</tr><tr><td>10.&nbsp;&nbsp; &nbsp;Konsam Achouba&nbsp;&nbsp; &nbsp;</td>
-<td>Secretary Auditor</td>
-</tr></tbody></table>
-           
-            </div>
-          </div>
-          <!-- End Tab Seniors -->
-
-  </div>
-  <!-- End Social -->
-  
-  
-  <div class="container">
       
-      <!-- Start Ticket -->
-       <!-- Start Tab Seniors -->
-          <div class="tab-pane fade active in" id="seniors-trainings">
-            <div class="training-header col-lg-12 col-md-12 col-sm-12">
-              <h4 class="border pull-left">NEROCA OFFICIALS</h4>
-            
-            </div>
-            
-            <div class="training-table col-lg-12 col-md-12 col-xs-12">
-      <p>NEROCA FOOTBALL CLUB OFFICIALS</p>
-              <table class="table"><tbody><tr><td>1</td>
-<td>GIFT RAIKHAN</td>
-<td>HEAD COACH</td>
-</tr><tr><td>2</td>
-<td>THANGJAM ARUNKUMAR SINGH</td>
-<td>TEAM-MANAGER</td>
-</tr><tr><td>3</td>
-<td>SAPAM PREMKANTA SINGH</td>
-<td>ASSISTANT COACH</td>
-</tr><tr><td>4</td>
-<td>KARAM KASHI SINGH</td>
-<td>ASSISTANT MANAGER</td>
-</tr><tr><td>5</td>
-<td>HEIKHAM BIKRAMKUMAR SINGH</td>
-<td>PHYSIOTHERAPY</td>
-</tr><tr><td>6</td>
-<td>ANGAM ZIMIK</td>
-<td>KIT-BOY</td>
-</tr></tbody></table>
-           
-            </div>
-          </div>
-          <!-- End Tab Seniors -->
-
-  </div>
-  <!-- End Social -->
-  
-  
-  <div class="container">
-      
-      <!-- Start Ticket -->
-       <!-- Start Tab Seniors -->
-          <div class="tab-pane fade active in" id="seniors-trainings">
-            <div class="training-header col-lg-12 col-md-12 col-sm-12">
-              <h4 class="border pull-left">Twenty Sixth Managing Committee</h4>
-            
-            </div>
-            
-            <div class="training-table col-lg-12 col-md-12 col-xs-12">
-      <p>Twenty Sixth Managing Committee was formed vide G.B.Meeting held on 18.02.2015 at Sinam Syama Devi Town Hall, Chingmeirong West,, Shri Nongthonbam Biren as Functional President for the period of 18.02.2015 to 31.03.2017 with the following members: </p>
               <table class="table"><thead><tr><th scope="col">SLNO</th>
-<th scope="col">Name</th>
-<th scope="col">Post</th>
-</tr></thead><tbody><tr><td>1.</td>
-<td>Dr. Thangjam Dhabali Singh&nbsp;</td>
-<td>President</td>
-</tr><tr><td>2.</td>
-<td>Abujam Brajamani&nbsp;</td>
-<td>Vice President</td>
-</tr><tr><td>3.</td>
-<td>Huidrom Bigyadhon&nbsp;</td>
-<td>Vice President</td>
-</tr><tr><td>4.</td>
-<td>Thaithuilung Pamei&nbsp;</td>
-<td>Vice President</td>
-</tr><tr><td>5.</td>
-<td>Keisham Rameshar&nbsp;</td>
-<td>Vice President</td>
-</tr><tr><td>6.</td>
-<td>Dr.Moirangthem Manimohon&nbsp;</td>
-<td>General Secretary</td>
-</tr><tr><td>7.</td>
-<td>Yumnam Binoy&nbsp;</td>
-<td>Assistant Secretary</td>
-</tr><tr><td>8.</td>
-<td>Maibam Nobin&nbsp;</td>
-<td>Treasurer</td>
-</tr><tr><td>9.</td>
-<td>Hirom Irabot&nbsp;</td>
-<td>Internal Auditor</td>
-</tr><tr><td>10.</td>
-<td>Sanasam Jyotibhushan&nbsp;</td>
-<td>Internal Auditor</td>
-</tr><tr><td>11.</td>
-<td>Maibam Ibobi&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>12.</td>
-<td>Huidrom Tomba&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>20.</td>
-<td>Thingom Joykumar&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>21.</td>
-<td>Wakambam Suraj&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>22.</td>
-<td>Chingtham Bipin&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>23.</td>
-<td>Paonam Shyamkishore&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>24.</td>
-<td>Konsam Joy&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>25.</td>
-<td>Karam Kashi&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>26.</td>
-<td>Pukhrambam Sunderchand&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>27.</td>
-<td>Yumnam Devendro&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>28.</td>
-<td>Wahengbam Robindro&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>29.</td>
-<td>Huidrom Shamu&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>30.</td>
-<td>Chingangbam Rameswar&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>31.</td>
-<td>Langam Joybi&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>32.</td>
-<td>Yumnam Joy&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>33.</td>
-<td>Pukhrambam Devendro&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>34.</td>
-<td>Taorem Mangi&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>35.</td>
-<td>Lourembam Rajesh&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>36.</td>
-<td>Maibam Binoy&nbsp;</td>
-<td>Executive Member</td>
-</tr><tr><td>37.</td>
-<td>Angapu Daimei&nbsp;</td>
-<td>Executive Member</td>
-</tr></tbody></table>
-           
-            </div>
-          </div>
-          <!-- End Tab Seniors -->
-
-  </div>
-  <!-- End Social -->
-  
-  
-  
-  <div class="container">
-      
-      <!-- Start Ticket -->
-       <!-- Start Tab Seniors -->
-          <div class="tab-pane fade active in" id="seniors-trainings">
-            <div class="training-header col-lg-12 col-md-12 col-sm-12">
-              <h4 class="border pull-left">List of President & Secretary</h4>
-            
-            </div>
-            
-            <div class="training-table col-lg-12 col-md-12 col-xs-12">
-      <p></p>
-              <table class="table"><thead><tr><th scope="col">Sl.No.</th>
-<th scope="col">Name of President</th>
-<th scope="col">Name of secretary</th>
-<th scope="col">Years</th>
-</tr></thead><tbody><tr><td>1</td>
-<td>Ng. Babu</td>
-<td>Kh.Budhachandra</td>
-<td>19.09.1965 to 14.10.1967</td>
-</tr><tr><td>2</td>
-<td>Kh.Budhachandra</td>
-<td>Lairenjam Iboton</td>
-<td>15.10.1967 to 29.09.1969</td>
-</tr><tr><td>3</td>
-<td>Leimapokpam Ibohal</td>
-<td>Kh.Budhachandra</td>
-<td>21.09.1969 to 17.10.1970</td>
-</tr><tr><td>4</td>
-<td>Lairenjam Iboton</td>
-<td>M.Krishnamani</td>
-<td>18.10.1970 to 26.12.1971</td>
-</tr><tr><td>5</td>
-<td>Kh.Budhachandra</td>
-<td>Elam Gourchandra</td>
-<td>01.01.1972 to 30.12.1973</td>
-</tr><tr><td>6</td>
-<td>Elam Gourchandra</td>
-<td>Taorem Mangi</td>
-<td>01.01.1974 to 31.03.1975</td>
-</tr><tr><td>7</td>
-<td>A.Bimola Devi</td>
-<td>Maibam Ibobi</td>
-<td>01.04.1975 to 31.03.1976</td>
-</tr><tr><td>8</td>
-<td>Khaidem Pishak</td>
-<td>A.Brajamani</td>
-<td>01.04.1976 to 23.09.1977</td>
-</tr><tr><td>9</td>
-<td>Khaidem Pishak</td>
-<td>L.Biramani Roy</td>
-<td>24.09.1977 to 30.03.1978</td>
-</tr><tr><td>10</td>
-<td>Elam Gourchandra</td>
-<td>Konsam Achouba</td>
-<td>31.03.1978 to 22.12.1979</td>
-</tr><tr><td>11</td>
-<td>Konsam Achouba</td>
-<td>Md.Nurjaman Shah</td>
-<td>23.12.1979 to 31.12.1980</td>
-</tr><tr><td>12</td>
-<td>Konsam Achouba</td>
-<td>W.Gopal</td>
-<td>01.01.1981 to 31.12.1982</td>
-</tr><tr><td>13</td>
-<td>Konsam Achouba</td>
-<td>Pukhrambam Mangi</td>
-<td>01.01.1983 to 05.1984</td>
-</tr><tr><td>14</td>
-<td>Khwairakpam Amujao</td>
-<td>Huidrom Raghumani</td>
-<td>1984 to 02.1987</td>
-</tr><tr><td>15</td>
-<td>Md.Hussain Choudhuri</td>
-<td>Wakambam Rupachandra</td>
-<td>02.1987 to 01.1988</td>
-</tr><tr><td>16</td>
-<td>Md.Hussain Choudhuri</td>
-<td>Th.Solono</td>
-<td>01.1988 to 14.10.1989</td>
-</tr><tr><td>17</td>
-<td>A.Kesho</td>
-<td>Khaidem Ibocha</td>
-<td>15.10.1989 to .1990</td>
-</tr><tr><td>18</td>
-<td>A.Kesho</td>
-<td>Huidrom Tomba</td>
-<td>1990 to 15.03.1992</td>
-</tr><tr><td>19</td>
-<td>A.Kesho</td>
-<td>Wakambam Sanajaoba</td>
-<td>10.05.1992 to 1993</td>
-</tr><tr><td>20</td>
-<td>Khwairakpam Amujao</td>
-<td>Koijam Gyaneshwar</td>
-<td>18.04.1993 to 07.05.1995</td>
-</tr><tr><td>21</td>
-<td>Md.Nurjaman Shah</td>
-<td>Wakambam Ranjit</td>
-<td>07.05.1995 to 22.02.1997</td>
-</tr><tr><td>22</td>
-<td>Koijam Gyaneshwar</td>
-<td>Huidrom Raghumani</td>
-<td>23.02.1997 to 08.10.1999</td>
-</tr><tr><td>23</td>
-<td>Dr.Wakambam Thoiba</td>
-<td>Nongthonbam Biren</td>
-<td>09.10.1999 to 28.09.2002</td>
-</tr><tr><td>24</td>
-<td>Nongthonbam Biren</td>
-<td>Thangjam Arunkumar</td>
-<td>29.09.2002 to 22.09.2007</td>
-</tr><tr><td>25</td>
-<td>Nongthonbam Biren</td>
-<td>Ningthoujam Binodkumar</td>
-<td>23.09.2007 to 03.03.2012</td>
-</tr><tr><td>26</td>
-<td>Nongthonbam Biren</td>
-<td>Dr.Moirangthem Manimohon</td>
-<td>04.03.2012 to 17.02.2015</td>
-</tr><tr><td>27</td>
-<td>Dr.Thangjam Dhabali</td>
-<td>Dr.Moirangthem Manimohon</td>
-<td>18.02.2015 to 31.03.2017</td>
-</tr></tbody></table>
-           
-            </div>
-          </div>
-          <!-- End Tab Seniors -->
-
-  </div>
-  <!-- End Social -->
-
-
-<div class="container">
-      
-      <!-- Start Ticket -->
-       <!-- Start Tab Seniors -->
-          <div class="tab-pane fade active in" id="seniors-trainings">
-            <div class="training-header col-lg-12 col-md-12 col-sm-12">
-              <h4 class="border pull-left">LIST OF COACHES
-FOR THE SEASON 2015-2016</h4>
-            
-            </div>
-            
-            <div class="training-table col-lg-12 col-md-12 col-xs-12">
-      <p></p>
-             <table class="table"><thead><tr><th scope="col">SL.NO</th>
 <th scope="col">NAME</th>
-<th scope="col">DESIGNATION</th>
-<th scope="col">QUALIFICATION</th>
+<th scope="col">POSITION</th>
+<th scope="col">JERSEY NO.</th>
 </tr></thead><tbody><tr><td>1</td>
-<td>GIFT RAIKHAM</td>
-<td>HEAD COACH</td>
-<td>AFC-A LICENCE</td>
+<td>LALIT THAPA</td>
+<td>GK</td>
+<td>13</td>
 </tr><tr><td>2</td>
-<td>CHINGAKHAM SHANTIKUMAR SINGH</td>
-<td>HEAD YOUTH DEVELOPMENT PROGRAM</td>
-<td>AFC-A LICENCE</td>
+<td>ARUP DEBNATH</td>
+<td>GK</td>
+<td>1</td>
 </tr><tr><td>3</td>
-<td>SAPAM PREMKANTA SINGH</td>
-<td>ASSISTANT COACH</td>
-<td>AFC - B LICENCE &amp; LEVEL II IN GKC</td>
+<td>THOUNAOJAM ABOMCHA SINGH</td>
+<td>GK</td>
+<td>21</td>
 </tr><tr><td>4</td>
-<td>SAGOLSEM MANIRATAN SINGH</td>
-<td>ASSISTANT COACH</td>
-<td>AFC - B LICENCE</td>
+<td>MOIRANGTHEM GOVIN SINGH</td>
+<td>DEFENDER</td>
+<td>2</td>
 </tr><tr><td>5</td>
-<td>ABUJAM KENKLAK SINGH</td>
-<td>ASSISTANT COACH</td>
-<td>AFC - C LICENCE</td>
+<td>MOIRANGTHEM ASHOK SINGH</td>
+<td>DEFENDER</td>
+<td>6</td>
 </tr><tr><td>6</td>
-<td>MAHARABAM ROBIN</td>
-<td>ASSISTANT COACH</td>
-<td>AFC - C APPLY</td>
+<td>MOIRANGTHEM DHANANJOY SINGH</td>
+<td>DEFENDER</td>
+<td>3</td>
 </tr><tr><td>7</td>
-<td>ATHUI DAIMEI</td>
-<td>ASSISTANT COACH</td>
-<td>X-SENIOR PLAYER</td>
+<td>NGASEPAM TONTONBA SINGH</td>
+<td>DEFENDER</td>
+<td>12</td>
 </tr><tr><td>8</td>
-<td>ANGAPU DAIMEI</td>
-<td>ASSISTANT COACH</td>
-<td>X-SENIOR PLAYER</td>
+<td>LONGJAM GOBIN SINGH</td>
+<td>DEFENDER</td>
+<td>4</td>
 </tr><tr><td>9</td>
-<td>HUIDROM AMAR SINGH</td>
-<td>ASSISTANT COACH</td>
-<td>X-SENIOR PLAYER</td>
-</tr></tbody></table> 
+<td>KALLON VARNEY K</td>
+<td>DEFENDER</td>
+<td>5</td>
+</tr><tr><td>10</td>
+<td>MD. SOHAIL SHAH</td>
+<td>DEFENDER</td>
+<td>23</td>
+</tr><tr><td>11</td>
+<td>THOKCHOM JOHNSON SINGH</td>
+<td>MID-FIELDER</td>
+<td>20</td>
+</tr><tr><td>12</td>
+<td>DAVID LALBIAKZARA</td>
+<td>MID-FIELDER</td>
+<td>19</td>
+</tr><tr><td>13</td>
+<td>REISANGMI KHODANG</td>
+<td>MID-FIELDER</td>
+<td>18</td>
+</tr><tr><td>14</td>
+<td>CHINGAKHAM ANANDKUMAR SINGH</td>
+<td>MID-FIELDER</td>
+<td>17</td>
+</tr><tr><td>15</td>
+<td>CHONGTHAM KISHAN SINGH</td>
+<td>MID-FIELDER</td>
+<td>8</td>
+</tr><tr><td>16</td>
+<td>LAIRENJAM BISHESHWOR SINGH</td>
+<td>MID-FIELDER</td>
+<td>7</td>
+</tr><tr><td>17</td>
+<td>NGANGOM RONALD SINGH</td>
+<td>FORWARD</td>
+<td>10</td>
+</tr><tr><td>18</td>
+<td>OLARICHE PRINCEWILL EMEKA</td>
+<td>FORWARD</td>
+<td>11</td>
+</tr><tr><td>19</td>
+<td>EJIOGU CHINEDU EMMANUEL</td>
+<td>FORWARD</td>
+<td>9</td>
+</tr><tr><td>20</td>
+<td>KSHETRIMAYUM MALEMNGANBA</td>
+<td>FORWARD</td>
+<td>15</td>
+</tr></tbody></table>
            
             </div>
           </div>
           <!-- End Tab Seniors -->
+          
+          
+          
+          
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">Player List 2015-16</h4>
+            
+            </div>
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p>PLAYER LIST OF NEROCA FOOTBALL CLUB IMPHAL FOR THE SEASON, 2015-2016
+
+SENIOR TEAM</p>
+              <table class="table"><thead><tr><th scope="col">
+<p>SL.NO.&nbsp;</p>
+</th>
+<th scope="col"><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">NAME</span></th>
+<th scope="col"><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">POSITION</span></th>
+<th scope="col"><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">DATE OF BIRTH</span></th>
+</tr></thead><tbody><tr><td>1</td>
+<td>
+<p>THOKCHOM&nbsp; ROSHAN SINGH</p>
+</td>
+<td><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">&nbsp;GOAL KEEPER</span></td>
+<td><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">13.06.1993</span></td>
+</tr><tr><td>2</td>
+<td>
+<p>THOUNAOJAM&nbsp; ABOMCHA SINGH&nbsp;</p>
+</td>
+<td><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">GOAL KEEPER</span></td>
+<td><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">01.01.1996</span></td>
+</tr><tr><td>3</td>
+<td><span style="font-size: 13.0080003738403px; line-height: 20.0063056945801px;">KHUMBONGMAYUM&nbsp; DEBEN SINGH</span></td>
+<td>GOAL KEEPER</td>
+<td>26.02.1992</td>
+</tr><tr><td>4</td>
+<td>MUTUM&nbsp; RAJ</td>
+<td>GOAL KEEPER</td>
+<td>02.07.1993</td>
+</tr><tr><td>5</td>
+<td>MD.SOHAIL SHAH</td>
+<td>DEFENDER</td>
+<td>11.03.1993</td>
+</tr><tr><td>6</td>
+<td>MOIRANGTHEM&nbsp; DHANANJOY SINGH</td>
+<td>DEFENDER</td>
+<td>01.02.1996</td>
+</tr><tr><td>7</td>
+<td>NGASEPAM&nbsp; TONDONBA</td>
+<td>DEFENDER</td>
+<td>14.11.1994</td>
+</tr><tr><td>8</td>
+<td>SYED&nbsp; FARID</td>
+<td>DEFENDER</td>
+<td>01.04.1984</td>
+</tr><tr><td>9</td>
+<td>MOIRANGMAYUM&nbsp; ASHOK&nbsp;</td>
+<td>DEFENDER</td>
+<td>07.04.1993</td>
+</tr><tr><td>10</td>
+<td>NAOREM&nbsp; SANJIVKUMAR</td>
+<td>DEFENDER</td>
+<td>01.02.1995</td>
+</tr><tr><td>11</td>
+<td>NGASEPAM&nbsp; TOMARJIT</td>
+<td>MID-FIELD</td>
+<td>14.02.1994</td>
+</tr><tr><td>12</td>
+<td>NGANGOM&nbsp; RAHUL SINGH</td>
+<td>MID-FIELD</td>
+<td>15.11.1996</td>
+</tr><tr><td>13</td>
+<td>CHONGTHAM&nbsp; KISHAN SINGH</td>
+<td>MID-FIELD</td>
+<td>10.06.1998</td>
+</tr><tr><td>14</td>
+<td>YUMNAM&nbsp; CHINGKHEI&nbsp; MEETEI</td>
+<td>MID-FIELD</td>
+<td>26.01.1994</td>
+</tr><tr><td>15</td>
+<td>IMRAN&nbsp; KHAN</td>
+<td>MID-FIELD</td>
+<td>01.03.1995</td>
+</tr><tr><td>16</td>
+<td>AKBAR&nbsp; KHAN</td>
+<td>MID-FIELD</td>
+<td>
+<p>23.06.1999</p>
+</td>
+</tr><tr><td>17</td>
+<td>YAIKHOM&nbsp; RANDHAN MEITEI</td>
+<td>MID-FIELD</td>
+<td>18.03.1993</td>
+</tr><tr><td>18</td>
+<td>CHINGAKHAM&nbsp; ANANDKUMAR SINGH</td>
+<td>MID-FIELD</td>
+<td>07.07.1995</td>
+</tr><tr><td>19</td>
+<td>LAISHRAM SANAYAI MEITEI</td>
+<td>MID-FIELD</td>
+<td>07.07.1995</td>
+</tr><tr><td>20</td>
+<td>SATISH&nbsp; KHOMDRAM</td>
+<td>FORWARD</td>
+<td>03.02.1995</td>
+</tr><tr><td>21</td>
+<td>NGANGOM&nbsp; RONALD SINGH</td>
+<td>FORWARD</td>
+<td>
+<p>04.02.1997</p>
+</td>
+</tr><tr><td>22</td>
+<td>THOKCHOM&nbsp; JOHNSON SINGH</td>
+<td>FORWARD</td>
+<td>
+<div>01.02.1994</div>
+</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          
+          
+          
+          
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">Player List 2014-15</h4>
+            
+            </div>
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p>PLAYER LIST OF NEROCA FOOTBALL CLUB IMPHAL FOR THE SEASON, 2014-2015</p>
+              <table class="table"><tbody><tr><td>SL.NO.</td>
+<td>NAME</td>
+<td>POSITION</td>
+<td>CATEGORY</td>
+<td>DATE OF BIRTH</td>
+</tr><tr><td>1</td>
+<td>THOKCHOM &nbsp;ROSHAN SINGH</td>
+<td>GOAL KEEPER</td>
+<td>SENIOR</td>
+<td>13.06.1993</td>
+</tr><tr><td>2</td>
+<td>THOUNAOJAM &nbsp;ABOMCHA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>GOAL KEEPER</td>
+<td>SENIOR</td>
+<td>01.01.1996</td>
+</tr><tr><td>3</td>
+<td>KHUMBONGMAYUM &nbsp;DEVENDRO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>GOAL KEEPER</td>
+<td>SENIOR</td>
+<td>26.02.1992</td>
+</tr><tr><td>4</td>
+<td>MUTUM &nbsp;RAJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>GOAL KEEPER</td>
+<td>SENIOR &nbsp;</td>
+<td>02.07.1993</td>
+</tr><tr><td>5</td>
+<td>ATOM &nbsp;CHINGOIREMBA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>GOAL KEEPER&nbsp;</td>
+<td>&nbsp;U-19 &nbsp; &nbsp;</td>
+<td>02.12.1998</td>
+</tr><tr><td>6</td>
+<td>LEIMAPOKPAM &nbsp;RIVALDO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>GOAL KEEPER &nbsp;</td>
+<td>U-19</td>
+<td>17.11.1999&nbsp;</td>
+</tr><tr><td>7</td>
+<td>KH.ANOSH SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>GOAL KEEPER</td>
+<td>U-19&nbsp;</td>
+<td>03.03.1998</td>
+</tr><tr><td>8</td>
+<td>MD.SOHAIL SHAH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR&nbsp;</td>
+<td>11.03.1992</td>
+</tr><tr><td>9</td>
+<td>MOIRANGTHEM &nbsp;DHANANJOY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR</td>
+<td>01.02.1996</td>
+</tr><tr><td>10</td>
+<td>NGASEPAM &nbsp;TONDONBA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR&nbsp;</td>
+<td>14.11.1994</td>
+</tr><tr><td>11</td>
+<td>SYED &nbsp;FARIQ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER&nbsp;</td>
+<td>SENIOR</td>
+<td>01.04.1984</td>
+</tr><tr><td>12</td>
+<td>MOIRANGMAYUM &nbsp;ASHOK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR</td>
+<td>07.04.1993</td>
+</tr><tr><td>13</td>
+<td>NAOREM &nbsp;SANJIVKUMAR &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR</td>
+<td>01.02.1995</td>
+</tr><tr><td>14</td>
+<td>SAIKHOM &nbsp;THOMAS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR</td>
+<td>&nbsp;</td>
+</tr><tr><td>15</td>
+<td>MOIRANGTHEM &nbsp;JAYANANDA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR+ U-19</td>
+<td>01.03.1999</td>
+</tr><tr><td>16</td>
+<td>TH.BANGKIM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER&nbsp;</td>
+<td>U-19</td>
+<td>&nbsp;</td>
+</tr><tr><td>17</td>
+<td>THOKCHOM .JAMES &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER&nbsp;</td>
+<td>U-19</td>
+<td>22.12.1999</td>
+</tr><tr><td>18</td>
+<td>K.GOVINDO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>U-19</td>
+<td>&nbsp;</td>
+</tr><tr><td>19</td>
+<td>CHINGANGBAM &nbsp;KENSON &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER</td>
+<td>U-19</td>
+<td>02.01.1999</td>
+</tr><tr><td>20</td>
+<td>NGASEPAM &nbsp;TOMARJIT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>15.06.1994</td>
+</tr><tr><td>21</td>
+<td>NGANGOM &nbsp;RAHUL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR+U-19</td>
+<td>15.11.1996</td>
+</tr><tr><td>22</td>
+<td>CHONGTHAM &nbsp;KISHAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR+U-19</td>
+<td>10.06.1998</td>
+</tr><tr><td>23</td>
+<td>YUMNAM &nbsp;CHINGKHEI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>26.01.1994</td>
+</tr><tr><td>24</td>
+<td>IMRAN &nbsp;KHAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>01.03.1995</td>
+</tr><tr><td>25</td>
+<td>AKBAR &nbsp;KHAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD&nbsp;</td>
+<td>SENIOR+U-19</td>
+<td>01.01.1999</td>
+</tr><tr><td>26</td>
+<td>YAIKHOM &nbsp;RANDHAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>18.03.1993</td>
+</tr><tr><td>27</td>
+<td>CHINGAKHAM &nbsp;ANANDKUMAR &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>07.07.1995</td>
+</tr><tr><td>28</td>
+<td>ABUJAM &nbsp;HARICHARAN SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>15.01.1997</td>
+</tr><tr><td>29</td>
+<td>OINAM &nbsp;SUNANDA &nbsp;SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>01.03.1997</td>
+</tr><tr><td>30</td>
+<td>ARIBAM &nbsp;KRITIVASH SHARMA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>09.11.1997</td>
+</tr><tr><td>31</td>
+<td>SAGOL SEM &nbsp; AJIT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>02.03.1998</td>
+</tr><tr><td>32</td>
+<td>BIKASH YUMNAM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>28.03.1998</td>
+</tr><tr><td>33</td>
+<td>KHAIDEM &nbsp;KAMALJIT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>01.01.1997</td>
+</tr><tr><td>34</td>
+<td>YUMNAM &nbsp;JAMES &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>MID-FIELD&nbsp;</td>
+<td>U-19</td>
+<td>26.12.1999</td>
+</tr><tr><td>35</td>
+<td>KHONDRAM &nbsp;SATISH SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>FORWARD</td>
+<td>SENIOR</td>
+<td>03.02.1995</td>
+</tr><tr><td>36</td>
+<td>NGANGOM &nbsp;RONALD SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>FORWARD</td>
+<td>SENIOR+U-19</td>
+<td>04.02.1997</td>
+</tr><tr><td>37</td>
+<td>THOKCHOM &nbsp;JOHNSON SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>FORWARD</td>
+<td>SENIOR</td>
+<td>01.02.1995</td>
+</tr><tr><td>38</td>
+<td>TH.SOBHAMANI SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>FORWARD</td>
+<td>U-19</td>
+<td>&nbsp;</td>
+</tr><tr><td>39</td>
+<td>M.BOY SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>FORWARD</td>
+<td>U-19</td>
+<td>&nbsp;</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          
+          
+          
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">7th BODOUSA CUP 2015</h4>
+            
+            </div>
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p>PLAYER LIST OF NEROCA FC 
+
+FOR PARTICIPATING 7TH BODOUSA CUP 2015 HELD AT TINSUKIA FROM 26/07/15 TO 09/08/15
+
+(NEROCA STOOD RUNNERS UP POSITION)</p>
+              <table class="table"><thead><tr><th scope="col">SL.NO.</th>
+<th scope="col">NAME</th>
+<th scope="col">POSITION</th>
+<th scope="col">JERSEY NO.</th>
+<th scope="col">REMARKS</th>
+</tr></thead><tbody><tr><td>1.</td>
+<td>THOKCHOM ROSHAN SINGH</td>
+<td>GOAL KEEPER</td>
+<td>1</td>
+<td>&nbsp;</td>
+</tr><tr><td>2.</td>
+<td>THOUNAOJAM ABOMCHA SINGH</td>
+<td>GOAL KEEPER</td>
+<td>22</td>
+<td>&nbsp;</td>
+</tr><tr><td>3.</td>
+<td>KHUMBONGMAYUM DEBEN</td>
+<td>GOAL KEEPER</td>
+<td>21</td>
+<td>&nbsp;</td>
+</tr><tr><td>4.</td>
+<td>MD.SOHAIL SHAH</td>
+<td>DEFENDER</td>
+<td>23</td>
+<td>&nbsp;</td>
+</tr><tr><td>5.</td>
+<td>MOIRANGTHEM DHANANJOY SINGH</td>
+<td>DEFENDER</td>
+<td>3</td>
+<td>&nbsp;</td>
+</tr><tr><td>6.</td>
+<td>NGASEPAM TONDONBA</td>
+<td>DEFENDER</td>
+<td>12</td>
+<td>&nbsp;</td>
+</tr><tr><td>7.</td>
+<td>SYED FARID</td>
+<td>DEFENDER</td>
+<td>2</td>
+<td>&nbsp;</td>
+</tr><tr><td>8.</td>
+<td>MOIRANGMAYUM ASHOK</td>
+<td>DEFENDER</td>
+<td>6</td>
+<td>&nbsp;</td>
+</tr><tr><td>9.</td>
+<td>NGASEPAM TOMARJIT</td>
+<td>MID-FIELD</td>
+<td>11</td>
+<td>&nbsp;</td>
+</tr><tr><td>10.</td>
+<td>NGANGOM RAHUL SINGH</td>
+<td>MID-FIELD</td>
+<td>16</td>
+<td>&nbsp;</td>
+</tr><tr><td>11.</td>
+<td>CHONGTHAM KISHAN SINGH</td>
+<td>MID-FIELD</td>
+<td>8</td>
+<td>&nbsp;</td>
+</tr><tr><td>12.</td>
+<td>YUMNAM CHINGKHEI MEETEI</td>
+<td>MID-FIELD</td>
+<td>24</td>
+<td>&nbsp;</td>
+</tr><tr><td>13.</td>
+<td>IMRAN KHAN</td>
+<td>MID-FIELD</td>
+<td>7</td>
+<td>&nbsp;</td>
+</tr><tr><td>14.</td>
+<td>AKBAR KHAN</td>
+<td>MID-FIELD</td>
+<td>19</td>
+<td>&nbsp;</td>
+</tr><tr><td>15.</td>
+<td>YAIKHOM RANDHAN MEITEI</td>
+<td>MID-FIELD</td>
+<td>9</td>
+<td>&nbsp;</td>
+</tr><tr><td>16.</td>
+<td>CHINGAKHAM ANANDKUMAR SINGH</td>
+<td>MID-FIELD</td>
+<td>17</td>
+<td>&nbsp;</td>
+</tr><tr><td>17.</td>
+<td>LAISHRAM SANAYAI MEITEI</td>
+<td>MID-FIELD</td>
+<td>15</td>
+<td>&nbsp;</td>
+</tr><tr><td>18.</td>
+<td>SATISH KHOMDRAM</td>
+<td>FORWARD</td>
+<td>14</td>
+<td>&nbsp;</td>
+</tr><tr><td>19.</td>
+<td>NGANGOM RONALD SINGH</td>
+<td>FORWARD</td>
+<td>10</td>
+<td>&nbsp;</td>
+</tr><tr><td>20.</td>
+<td>THOKCHOM JOHNSON SINGH</td>
+<td>FORWARD</td>
+<td>20</td>
+<td>&nbsp;</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          
+          
+          
+          
+          
+          
+          
 
   </div>
   <!-- End Social -->
+
 
 
 
