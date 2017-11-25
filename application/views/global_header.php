@@ -26,8 +26,11 @@ $query=$this->db->query($sql);
     <!-- Plugin CSS -->
     <link href="<?php echo base_url();?>vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
+	
+	
+
     <!-- Theme CSS -->
-    <link href="<?php echo base_url();?>css/creative.min.css" rel="stylesheet">
+  
 	<style type="text/css">
 	.download{
 	    color: #f0f3f7;
@@ -167,5 +170,4 @@ TICKET CATEGORY SELECTION STYLE START HERE
 	
 	</style>
  
-</head>
 

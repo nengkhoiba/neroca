@@ -3554,7 +3554,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #428bca;
+  color: #f44336;
   font-weight: 600;
   font-family: 'Montserrat';
   text-decoration: none;
@@ -3564,6 +3564,10 @@ a {
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
+
+
+
+
 a:hover,
 a:focus {
   color: #2a6496;

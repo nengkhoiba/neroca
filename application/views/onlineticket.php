@@ -1,4 +1,37 @@
-<style type="text/css">
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>NEROCA FC</title>
+        <!-- Bootstrap core CSS -->
+        <link href="<?php echo base_url();?>nero/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <!-- Custom styles for this template -->
+         <!-- Stylesheets -->
+        <link rel="stylesheet" href="<?php echo base_url();?>nero/css/style.css">
+        <link rel="stylesheet" href="<?php echo base_url();?>nero/css/owl.carousel.css">
+        <link rel="stylesheet" type="text/css" media="all" href="<?php echo base_url();?>nero/css/webslidemenu.css" />
+
+        <!-- font awesome -->
+<link rel="stylesheet" href="<?php echo base_url();?>nero/font-awesome/css/font-awesome.min.css" />
+
+<!-- Google Fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="<?php echo base_url();?>nero/assets/css/style.css">
+  <link rel="stylesheet" href="<?php echo base_url();?>nero/assets/css/mbr-additional.css" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:100" rel="stylesheet"> 
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	
+	<style type="text/css">
 	.download{
 	    color: #f0f3f7;
     text-decoration: underline;
@@ -136,37 +169,8 @@ TICKET CATEGORY SELECTION STYLE START HERE
 	
 	
 	</style>
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="">
-        <meta name="author" content="">
-        <title>NEROCA FC</title>
-        <!-- Bootstrap core CSS -->
-        <link href="<?php echo base_url();?>nero/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <!-- Custom styles for this template -->
-         <!-- Stylesheets -->
-        <link rel="stylesheet" href="<?php echo base_url();?>nero/css/style.css">
-        <link rel="stylesheet" href="<?php echo base_url();?>nero/css/owl.carousel.css">
-        <link rel="stylesheet" type="text/css" media="all" href="<?php echo base_url();?>nero/css/webslidemenu.css" />
-
-        <!-- font awesome -->
-<link rel="stylesheet" href="<?php echo base_url();?>nero/font-awesome/css/font-awesome.min.css" />
-
-<!-- Google Fonts -->
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="<?php echo base_url();?>nero/assets/css/style.css">
-  <link rel="stylesheet" href="<?php echo base_url();?>nero/assets/css/mbr-additional.css" type="text/css">
-
-        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+	
+	
     </head>
     <body>
 
@@ -335,9 +339,12 @@ To nurture sporting talents in general and Football in particular</p>
 
 
 </div>
-  <!-- End Header -->
 
-  <body id="page-top">
+  <!-- End Header -->
+<div class="container" style="min-height:50px;">
+<br>
+</div>
+ 
 
   
  <div class="container mbr-section" style="padding-top: 120px; padding-bottom: 120px;">
@@ -363,4 +370,166 @@ To nurture sporting talents in general and Football in particular</p>
       
      </div>
  </div>	
-<?php $this->load->view('global_footer');?>
+ 
+ 
+ 
+ 
+
+
+  <!-- Start Footer -->
+  <footer id="footer">
+    <div class="container">
+
+      <!-- Start Footer-Top -->
+      <div class="footer-top clearfix">
+        <div class="widget col-lg-3 col-md-3 col-sm-6">
+          <h5 class="widget-title">About FC</h5>
+          <p>Lorem ipsum dolor sit amet consete adipisicing elit. Proin nibh augue.</p>
+          <ul class="contact-info custom-list">
+            <li><i class="fa fa-map-marker"></i><span>Lorem Ipsum</span></li>
+            <li><i class="fa fa-phone"></i><span>+1 (123) 456-7890</span></li>
+            <li><i class="fa fa-envelope"></i><span><a href="mailto:example@example.com">example@example.com</a></span></li>
+          </ul>
+        </div>
+        <div class="widget col-lg-3 col-md-3 col-sm-6">
+          <h5 class="widget-title">Information</h5>
+          <ul class="custom-list">
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+          </ul>
+        </div>
+        <div class="widget col-lg-3 col-md-3 col-sm-6">
+          <h5 class="widget-title">Support</h5>
+          <ul class="custom-list">
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+            <li><a href="#">Lorem Ipsum</a></li>
+          </ul>
+        </div>
+        <div class="widget col-lg-3 col-md-3 col-sm-6">
+          <h5 class="widget-title">FC Newsletter</h5>
+          <p>Join the FC Mailing list and receive the latest news of FC club! Just enter your email address here and you are all set.</p>
+          <form action="#" class="newsletter default-form">
+            <input type="text" placeholder="@me@example.com">
+            <button class="button"><span>Register</span><i class="fa fa-arrow-circle-right"></i></button>
+          </form>
+        </div>
+      </div>
+      <!-- End Footer-Top -->
+
+   
+      <!-- Start Sposnors -->
+      <div class="sponsors clearfix">
+        <h5 class="text-center">Sponsors</h5>
+     
+        <div class="sponsor-logo text-center col-lg-12 col-md-12 col-sm-12">
+          <img src="<?php echo base_url();?>nero/img/partner5.png" alt="">
+        </div>
+       
+      </div>
+      <!-- End Sponsors -->
+
+    </div>
+
+    <!-- Start Copyrights -->
+    <div class="copyrights clearfix text-center">
+      <p class="col-lg-12">© Copyright 2017. All Rights Reserved, powered by MOBIMP</p>
+    </div>
+    <!-- End Copyrights -->
+
+  </footer>
+  <!-- End Footer -->
+  
+  <!-- Start Back-to-Top -->
+  <a href="#" id="back-to-top">
+   <i class="fa fa-futbol-o" aria-hidden="true"></i>
+  </a>
+  <!-- End Back-to-Top -->
+
+        <!-- Bootstrap core JavaScript
+    ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+       <script type="text/javascript" src="<?php echo base_url();?>nero/js/jquery.min.js"></script>
+        <script src="<?php echo base_url();?>nero/bootstrap/js/bootstrap.min.js"></script>
+        
+        <script type="<?php echo base_url();?>nero/text/javascript" src="js/webslidemenu.js"></script>
+<script type="<?php echo base_url();?>nero/text/javascript" src="js/scripts.js"></script>
+<script type="<?php echo base_url();?>nero/text/javascript" src="js/owl.carousel.min.js"></script>
+<script type="<?php echo base_url();?>nero/text/javascript" src="js/jquery.ba-outside-events.min.js"></script>
+<script type="<?php echo base_url();?>nero/text/javascript" src="js/tab.js"></script>
+<script type="<?php echo base_url();?>nero/text/javascript" src='js/bootstrap-datepicker.js'></script>
+<script type="<?php echo base_url();?>nero/text/javascript" src="js/jquery.timelinr-0.9.54.js"></script>
+<script type="<?php echo base_url();?>nero/text/javascript" src="twitter/jquery.tweet.min.js"></script>
+        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+        <script src="<?php echo base_url();?>nero/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+        <script>
+    $.fn.expose = function(options) {
+    
+  var $modal = $(this),
+      $trigger = $("a[href=" + this.selector + "]");
+  
+  $modal.on("expose:open", function() {
+    
+    $modal.addClass("is-visible");
+    $modal.trigger("expose:opened");
+  });
+  
+  $modal.on("expose:close", function() {
+    
+    $modal.removeClass("is-visible");
+    $modal.trigger("expose:closed");
+  });
+  
+  $trigger.on("click", function(e) {
+    
+    e.preventDefault();
+    $modal.trigger("expose:open");
+  });
+  
+  $modal.add( $modal.find(".close") ).on("click", function(e) {
+    
+    e.preventDefault();
+    
+    // if it isn't the background or close button, bail
+    if( e.target !== this )
+      return;
+    
+    $modal.trigger("expose:close");
+  });
+  
+  return;
+}
+
+$("#Popup").expose();
+
+// Example Cancel Button
+
+$(".cancel").on("click", function(e) {
+  
+  e.preventDefault();
+  $(this).trigger("expose:close");
+});
+
+// Example Callbacks
+/*
+$("#Popup").on("expose:opened", function() {
+  
+  alert("Modal Opened!");
+});
+
+$("#Popup").on("expose:closed", function() {
+  
+  alert("Modal Closed!");
+});
+*/
+</script>
+    </body>
+</html>
