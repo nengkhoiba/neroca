@@ -96,7 +96,7 @@ To nurture sporting talents in general and Football in particular</p>
           <ul class="col-lg-3 col-md-3 col-xs-12 link-list">
             
             <li><a href="<?php echo base_url();?>home/achievement"><i class="fa fa-arrow-circle-right"></i><span class="title"> Acievements</span></a></li>
-            <li><a href="#"><i class="fa fa-arrow-circle-right"></i>Neroca Players Transfers</a></li>
+            
 
         </ul>
 
