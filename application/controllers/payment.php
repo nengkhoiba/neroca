@@ -10,9 +10,9 @@ public function checkout(){
    $qty=$this->session->userdata("QTY");
    $amount=0;
    IF($type=="VIP"){
-       $amount=1;
+       $amount=302;
    }elseif("NOM"){
-       $amount=1;
+       $amount=50;
    }else{
        redirect('home/ticket');
    }
@@ -80,7 +80,7 @@ public function checkout(){
 			$this->email->from('support@mobimp.com', 'e-Ticket');
 			$this->email->to($email);
 			$this->email->subject('E-Ticket');
-			$this->email->message('Testing the email class.');
+			$this->email->message('Please find attachment for ticket.');
 			$this->email->attach($pdfFilePath);
 			$this->email->send();
 			//$pdf->Output($pdfFilePath, "D");

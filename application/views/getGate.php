@@ -1,7 +1,7 @@
 <ul id="gateUl" class="list-group">
 <?php
 $id=$_GET['q'];
-$sql="SELECT ID, code, discription, capacity ,(SELECT COUNT(*) FROM `Seats` WHERE gate_id=GD.ID AND match_id=$id ) AS currentSeat FROM `Gate` GD WHERE ID!=1";
+$sql="SELECT ID, code, discription, capacity ,(SELECT COUNT(*) FROM `seats` WHERE gate_id=GD.ID AND match_id=$id ) AS currentSeat FROM `gate` GD WHERE ID!=1";
 $query = $this->db->query($sql);
 if($query){
 echo "<h3>Select Gate </h3>";

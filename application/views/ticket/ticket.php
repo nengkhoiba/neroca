@@ -30,7 +30,7 @@
 		VALUES ('$ticketType','$sl','$barcode','OPEN',NOW(),'$match','$gate')";
 	
 		$query = $this->db->query($sql);
-		$sql="INSERT INTO `Seats`(`gate_id`, `match_id`) VALUES ('$gate','$match')";
+		$sql="INSERT INTO `seats`(`gate_id`, `match_id`) VALUES ('$gate','$match')";
 		
 		$query = $this->db->query($sql);
 		$sql2 = "SELECT m.ID, home_team,
@@ -41,7 +41,7 @@
 		(SELECT code FROM team where ID=m.away_team) AS a_code,
 		(SELECT image FROM team where ID=m.home_team) AS h_img, 
 		(SELECT image FROM team where ID=m.away_team) AS a_img,
-		(SELECT discription FROM Gate where ID=$gate) AS gate,
+		(SELECT discription FROM gate where ID=$gate) AS gate,
 				m.date AS dt FROM matchs m WHERE ID=$match";
 		
 		$query2 = $this->db->query($sql2);
