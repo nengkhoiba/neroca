@@ -511,16 +511,16 @@ To nurture sporting talents in general and Football in particular</p>
 <td>Champion</td>
 </tr>
 
-<tr><td>43.</td>
+<tr><td>47.</td>
 <td>58th C.C.Meet</td>
 <td>2014</td>
 <td>Imphal (Manipur)</td>
 <td>Semi Finalist</td>
 </tr>
 
-<tr><td>43.</td>
+<tr><td>48.</td>
 <td>58th C.C.Meet</td>
-<td>2014</td>
+<td>2015</td>
 <td>Imphal (Manipur)</td>
 <td>Semi Finalist</td>
 </tr>
