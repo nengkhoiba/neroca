@@ -190,6 +190,21 @@
 	text-align: left;
 	height: 39px;
 }
+
+.megamenu .title1 {
+	border-bottom: 1px solid #CCC;
+	font-size: 14px;
+	padding: 9px 5px 9px 0px;
+
+	color: #424242;
+	margin: 0px 0px 7px 0px;
+	text-align: left;
+	height: 39px;
+}
+
+
+
+
 .link-list li {
 	display: block;
 	text-align: center;
