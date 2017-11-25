@@ -182,7 +182,7 @@
 }
 .megamenu .title {
 	border-bottom: 1px solid #CCC;
-	font-size: 14px;
+	font-size: 11px;
 	padding: 9px 5px 9px 0px;
 
 	color: #424242;
@@ -280,7 +280,7 @@
 }
 .wsdownmenu-list .megamenu li a:hover {
 	background: transparent !important;
-	text-decoration: underline;
+	text-decoration: none;
 }
 .wsdownmenu-list .megamenu li .fa {
 	margin-right: 5px;

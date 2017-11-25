@@ -9,7 +9,7 @@
 document.addEventListener("touchstart", function() {},false); 
 $(function() { 
 		$('.wsdownmenu').append($('<a class="wsdownmenu-animated-arrow"><span></span></a>'));
-		$('.wsdownmenu').append($('<div class="wsdownmenu-text">Navigation</div>'));
+		$('.wsdownmenu').append($('<div class="wsdownmenu-text">Neroca FC</div>'));
 
 		$('.wsdownmenu-list > li').has('.wsdownmenu-submenu').prepend('<span class="wsdownmenu-click"><i class="wsdownmenu-arrow fa fa-angle-down"></i></span>');
 		$('.wsdownmenu-submenu > li').has('ul').prepend('<span class="wsdownmenu-click02"><i class="wsdownmenu-arrow fa fa-angle-down"></i></span>');

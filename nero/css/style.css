@@ -3554,7 +3554,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #f44336;
+  color: #428bca;
   font-weight: 600;
   font-family: 'Montserrat';
   text-decoration: none;
@@ -3564,10 +3564,6 @@ a {
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
-
-
-
-
 a:hover,
 a:focus {
   color: #2a6496;
@@ -4543,11 +4539,12 @@ select {
   }
 }
 #home-slider .slide-content h1 {
-  margin-top: 0;
-  margin-bottom: 30px;
+   /*margin-top: 0;
+ margin-bottom: 30px;*/
   color: #fff;
   text-transform: none;
   font-size: 43px;
+  margin-top: 2em;
 }
 #home-slider .slide-content p {
   padding: 0 24px;
