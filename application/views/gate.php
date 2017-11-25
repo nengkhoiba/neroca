@@ -371,7 +371,7 @@ $query = $this->db->query($sql);
 if($query){
 while($result=mysql_fetch_array($query->result_id))
 {?>
-<li style="cursor:pointer" onclick="SelectMatch('<?php echo $result['ID']?>','<?php echo $result['h_team']?>','<?php echo $result['a_team']?>','<?php echo $result['h_img']?>','<?php echo $result['a_img']?>')" class="list-group-item" id="li_<?php echo $result['ID']?>"><a  href="#"><?php echo $result['h_code']?> <span style="color:black;">  VS </span>   <?php echo $result['a_code']?> <br> <span style="color:grey;">  </span> </a></li>
+<li style="cursor:pointer" onclick="SelectMatch('<?php echo $result['ID']?>','<?php echo $result['h_team']?>','<?php echo $result['a_team']?>','<?php echo $result['h_img']?>','<?php echo $result['a_img']?>')" class="list-group-item" id="li_<?php echo $result['ID']?>"><a  href="#"><?php echo $result['h_code']?> <span style="color:black;">  VS </span>   <?php echo $result['a_code']?> <br> <span style="color:grey;"> <?php echo $result['date']?> </span>   </a></li>
 <?php }
 }?>
 </ul>
