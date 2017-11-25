@@ -39,3 +39,18 @@
   color: #fff;
   font-size: 7em;
 }
+
+
+@media only screen and (max-width: 768px)
+{
+
+#content8-2 .mbr-section-title,
+#content8-2 p {
+  text-align: center;
+  color: #fff;
+  font-size: 2em;
+  margin-top: 14em;
+}
+
+
+}

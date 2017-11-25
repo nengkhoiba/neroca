@@ -234,321 +234,572 @@ To nurture sporting talents in general and Football in particular</p>
       
       <!-- Start Ticket -->
        <!-- Start Tab Seniors -->
+       
+       
+       
+       
           <div class="tab-pane fade active in" id="seniors-trainings">
             <div class="training-header col-lg-12 col-md-12 col-sm-12">
-              <h4 class="border pull-left">ACHIEVEMENTS OF NEROCA SINCE 1999</h4>
+              <h4 class="border pull-left">Player List 2016-2017</h4>
             
             </div>
             <div class="training-table col-lg-12 col-md-12 col-xs-12">
       
-              <table class="table">
-              <thead>
-              <tr><th scope="col">Sl. No.</th>
-<th scope="col">Name of Tournament/Trophy</th>
-<th scope="col">Year</th>
-<th scope="col">Venue</th>
-<th scope="col">Position</th>
-</tr></thead><tbody><tr><td>1.</td>
-<td>R.K.Tulachandra Memorial Football Tournament</td>
-<td>1999</td>
-<td>Imphal (Manipur)</td>
-<td style="width: 100px;">Champion</td>
-</tr><tr><td>2.</td>
-<td>Padamajung Memorial Football Tournament</td>
-<td>1999</td>
-<td>Agartala (Tripura)</td>
-<td>Runners up</td>
-</tr><tr><td>3.</td>
-<td>Shirui Lily Cup</td>
-<td>2000</td>
-<td>Ukhrul (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>4.</td>
-<td>44th C.C.Meet</td>
-<td>2000</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>5.</td>
-<td>Surendra Cup</td>
-<td>2001</td>
-<td>Imphal (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>6.</td>
-<td>1st Narsingh Football Tournament</td>
-<td>2001</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>7.</td>
-<td>Imphal East District Football League</td>
-<td>2001</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>8.</td>
-<td>Winners Cup</td>
-<td>2001</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>9.</td>
-<td>Padamajung Memorial Football Tournament</td>
-<td>2001-02</td>
-<td>Agartala (Tripura)</td>
-<td>Champion</td>
-</tr><tr><td>10.</td>
-<td>National League B Division</td>
-<td>2001-02</td>
-<td>Shillong (Meghalaya)</td>
-<td>2nd Position</td>
-</tr><tr><td>11.</td>
-<td>Imphal East District Football League</td>
-<td>2002</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>12.</td>
-<td>46th C.C.Meet</td>
-<td>2002</td>
-<td>Imphal (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>13.</td>
-<td>Surendra Cup</td>
-<td>2002-03</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>14.</td>
-<td>1st Futsal Trophy</td>
-<td>2003</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>15.</td>
-<td>Imphal East District Super Division Football League</td>
-<td>2003</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>16.</td>
-<td>Winners Cup</td>
-<td>2003</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>17.</td>
-<td>Imphal East District Super Division Football League</td>
-<td>2004</td>
-<td>Imphal (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>18.</td>
-<td>2nd Futsal Trophy</td>
-<td>2004</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>19.</td>
-<td>1st Tiddim Trophy</td>
-<td>2004</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>20.</td>
-<td>Ashem Noren Memorial Football Tournament</td>
-<td>2004</td>
-<td>Nambol (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>21.</td>
-<td>3rd Futsal Trophy</td>
-<td>2005</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>22.</td>
-<td>Imphal East District Super Division Football League</td>
-<td>2005</td>
-<td>Imphal (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>23.</td>
-<td>49th C.C.Meet</td>
-<td>2005</td>
-<td>Imphal (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>24.</td>
-<td>2nd Tiddim Trophy</td>
-<td>2005</td>
-<td>Imphal (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>25.</td>
-<td>3rd Tiddim Trophy</td>
-<td>2006</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>26.</td>
-<td>L.Sharatchandra Memorial Football Tournament</td>
-<td>2006</td>
-<td>Nambol (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>27.</td>
-<td>1st Manipur State League</td>
-<td>2006</td>
-<td>Imphal (Manipur)</td>
-<td>6th Position</td>
-</tr><tr><td>28.</td>
-<td>4th Tiddim Trophy</td>
-<td>2007</td>
-<td>Imphal (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>29.</td>
-<td>2nd Manipur State League</td>
-<td>2007</td>
-<td>Imphal (Manipur)</td>
-<td>2nd Position</td>
-</tr><tr><td>30.</td>
-<td>3rd Manipur State League</td>
-<td>2008</td>
-<td>Imphal (Manipur)</td>
-<td>5th Position</td>
-</tr><tr><td>31.</td>
-<td>52nd C.C.Meet</td>
-<td>2008</td>
-<td>Imphal (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>32.</td>
-<td>4th Manipur State League</td>
-<td>2009</td>
-<td>Imphal (Manipur)</td>
-<td>9th Position</td>
-</tr><tr><td>33.</td>
-<td>53rd C.C.Meet</td>
-<td>2009</td>
-<td>Imphal (Manipur)</td>
-<td>Semi Finalist</td>
-</tr><tr><td>34.</td>
-<td>5th Manipur State League</td>
-<td>2010</td>
-<td>Imphal (Manipur)</td>
-<td>4th Position</td>
-</tr><tr><td>35.</td>
-<td>5th Loktak Trophy</td>
-<td>2010</td>
-<td>Moirang (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>36.</td>
-<td>3rd Hijam Irawat Memorial Tournament</td>
-<td>2010</td>
-<td>Moreh(Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>37.</td>
-<td>6th Manipur State League</td>
-<td>2011</td>
-<td>Imphal (Manipur)</td>
-<td>4th Position</td>
-</tr><tr><td>38.</td>
-<td>28th Shirui Lily Cup</td>
-<td>2011</td>
-<td>Ukhrul (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>36.</td>
-<td>55th C.C.Meet</td>
-<td>2011</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr>
-<tr><td>37.</td>
-<td>6th Loktak Trophy</td>
-<td>2011</td>
-<td>Imphal (Manipur)</td>
-<td>Runners Up</td>
-</tr>
-<tr><td>38.</td>
-<td>56th CC'Meet</td>
-<td>2011</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr>
-<tr><td>39.</td>
-<td>Loktak Trophy</td>
-<td>2012</td>
-<td>Moirang (Manipur)</td>
-<td>Runners up</td>
-</tr><tr><td>40.</td>
-<td>7th Manipur State League</td>
-<td>2012</td>
-<td>Imphal (Manipur)</td>
-<td>4th Position</td>
-</tr><tr><td>41.</td>
-<td>56th C.C.Meet</td>
-<td>2012</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr><tr><td>42.</td>
-<td>8th Manipur State League</td>
-<td>2013</td>
-<td>Imphal (Manipur)</td>
-<td>4th Position</td>
-</tr><tr><td>43.</td>
-<td>57th C.C.Meet</td>
-<td>2013</td>
-<td>Imphal (Manipur)</td>
-<td>Semi Finalist</td>
-</tr><tr><td>44.</td>
-<td>9th Manipur State League</td>
-<td>2014</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr>
-<tr><td>45.</td>
-<td>58th C.C.Meet</td>
-<td>2014</td>
-<td>Imphal (Manipur)</td>
-<td>Semi Finalist</td>
-</tr>
-
-
-<tr><td>46.</td>
-<td>9th Manipur State League</td>
-<td>2014</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr>
-
-<tr><td>47.</td>
-<td>58th C.C.Meet</td>
-<td>2014</td>
-<td>Imphal (Manipur)</td>
-<td>Semi Finalist</td>
-</tr>
-
-<tr><td>48.</td>
-<td>10th Manipur State League</td>
-<td>2015</td>
-<td>Imphal (Manipur)</td>
-<td>Semi Finalist (Unbeaten) Highest Score Point</td>
-</tr>
-
-<tr><td>49.</td>
-<td>59th CC'Meet</td>
-<td>2015</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr>
-
-<tr><td>50.</td>
-<td>11'Manipur State League</td>
-<td>2016</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr>
-
-<tr><td>51.</td>
-<td>60th  CC'Meet</td>
-<td>2016</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr>
-
-<tr><td>52.</td>
-<td>2nd Div I League</td>
-<td>2016</td>
-<td>Imphal (Manipur)</td>
-<td>Champion</td>
-</tr>
-
-</tbody></table>
+              <table class="table"><thead><tr><th scope="col">SLNO</th>
+<th scope="col">NAME</th>
+<th scope="col">POSITION</th>
+<th scope="col">JERSEY NO.</th>
+</tr></thead><tbody><tr><td>1</td>
+<td>LALIT THAPA</td>
+<td>GK</td>
+<td>13</td>
+</tr><tr><td>2</td>
+<td>ARUP DEBNATH</td>
+<td>GK</td>
+<td>1</td>
+</tr><tr><td>3</td>
+<td>THOUNAOJAM ABOMCHA SINGH</td>
+<td>GK</td>
+<td>21</td>
+</tr><tr><td>4</td>
+<td>MOIRANGTHEM GOVIN SINGH</td>
+<td>DEFENDER</td>
+<td>2</td>
+</tr><tr><td>5</td>
+<td>MOIRANGTHEM ASHOK SINGH</td>
+<td>DEFENDER</td>
+<td>6</td>
+</tr><tr><td>6</td>
+<td>MOIRANGTHEM DHANANJOY SINGH</td>
+<td>DEFENDER</td>
+<td>3</td>
+</tr><tr><td>7</td>
+<td>NGASEPAM TONTONBA SINGH</td>
+<td>DEFENDER</td>
+<td>12</td>
+</tr><tr><td>8</td>
+<td>LONGJAM GOBIN SINGH</td>
+<td>DEFENDER</td>
+<td>4</td>
+</tr><tr><td>9</td>
+<td>KALLON VARNEY K</td>
+<td>DEFENDER</td>
+<td>5</td>
+</tr><tr><td>10</td>
+<td>MD. SOHAIL SHAH</td>
+<td>DEFENDER</td>
+<td>23</td>
+</tr><tr><td>11</td>
+<td>THOKCHOM JOHNSON SINGH</td>
+<td>MID-FIELDER</td>
+<td>20</td>
+</tr><tr><td>12</td>
+<td>DAVID LALBIAKZARA</td>
+<td>MID-FIELDER</td>
+<td>19</td>
+</tr><tr><td>13</td>
+<td>REISANGMI KHODANG</td>
+<td>MID-FIELDER</td>
+<td>18</td>
+</tr><tr><td>14</td>
+<td>CHINGAKHAM ANANDKUMAR SINGH</td>
+<td>MID-FIELDER</td>
+<td>17</td>
+</tr><tr><td>15</td>
+<td>CHONGTHAM KISHAN SINGH</td>
+<td>MID-FIELDER</td>
+<td>8</td>
+</tr><tr><td>16</td>
+<td>LAIRENJAM BISHESHWOR SINGH</td>
+<td>MID-FIELDER</td>
+<td>7</td>
+</tr><tr><td>17</td>
+<td>NGANGOM RONALD SINGH</td>
+<td>FORWARD</td>
+<td>10</td>
+</tr><tr><td>18</td>
+<td>OLARICHE PRINCEWILL EMEKA</td>
+<td>FORWARD</td>
+<td>11</td>
+</tr><tr><td>19</td>
+<td>EJIOGU CHINEDU EMMANUEL</td>
+<td>FORWARD</td>
+<td>9</td>
+</tr><tr><td>20</td>
+<td>KSHETRIMAYUM MALEMNGANBA</td>
+<td>FORWARD</td>
+<td>15</td>
+</tr></tbody></table>
            
             </div>
           </div>
           <!-- End Tab Seniors -->
+          
+          
+          
+          
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">Player List 2015-16</h4>
+            
+            </div>
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p>PLAYER LIST OF NEROCA FOOTBALL CLUB IMPHAL FOR THE SEASON, 2015-2016
+
+SENIOR TEAM</p>
+              <table class="table"><thead><tr><th scope="col">
+<p>SL.NO.&nbsp;</p>
+</th>
+<th scope="col"><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">NAME</span></th>
+<th scope="col"><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">POSITION</span></th>
+<th scope="col"><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">DATE OF BIRTH</span></th>
+</tr></thead><tbody><tr><td>1</td>
+<td>
+<p>THOKCHOM&nbsp; ROSHAN SINGH</p>
+</td>
+<td><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">&nbsp;GOAL KEEPER</span></td>
+<td><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">13.06.1993</span></td>
+</tr><tr><td>2</td>
+<td>
+<p>THOUNAOJAM&nbsp; ABOMCHA SINGH&nbsp;</p>
+</td>
+<td><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">GOAL KEEPER</span></td>
+<td><span style="font-size: 12.006383895874px; line-height: 20.0063056945801px;">01.01.1996</span></td>
+</tr><tr><td>3</td>
+<td><span style="font-size: 13.0080003738403px; line-height: 20.0063056945801px;">KHUMBONGMAYUM&nbsp; DEBEN SINGH</span></td>
+<td>GOAL KEEPER</td>
+<td>26.02.1992</td>
+</tr><tr><td>4</td>
+<td>MUTUM&nbsp; RAJ</td>
+<td>GOAL KEEPER</td>
+<td>02.07.1993</td>
+</tr><tr><td>5</td>
+<td>MD.SOHAIL SHAH</td>
+<td>DEFENDER</td>
+<td>11.03.1993</td>
+</tr><tr><td>6</td>
+<td>MOIRANGTHEM&nbsp; DHANANJOY SINGH</td>
+<td>DEFENDER</td>
+<td>01.02.1996</td>
+</tr><tr><td>7</td>
+<td>NGASEPAM&nbsp; TONDONBA</td>
+<td>DEFENDER</td>
+<td>14.11.1994</td>
+</tr><tr><td>8</td>
+<td>SYED&nbsp; FARID</td>
+<td>DEFENDER</td>
+<td>01.04.1984</td>
+</tr><tr><td>9</td>
+<td>MOIRANGMAYUM&nbsp; ASHOK&nbsp;</td>
+<td>DEFENDER</td>
+<td>07.04.1993</td>
+</tr><tr><td>10</td>
+<td>NAOREM&nbsp; SANJIVKUMAR</td>
+<td>DEFENDER</td>
+<td>01.02.1995</td>
+</tr><tr><td>11</td>
+<td>NGASEPAM&nbsp; TOMARJIT</td>
+<td>MID-FIELD</td>
+<td>14.02.1994</td>
+</tr><tr><td>12</td>
+<td>NGANGOM&nbsp; RAHUL SINGH</td>
+<td>MID-FIELD</td>
+<td>15.11.1996</td>
+</tr><tr><td>13</td>
+<td>CHONGTHAM&nbsp; KISHAN SINGH</td>
+<td>MID-FIELD</td>
+<td>10.06.1998</td>
+</tr><tr><td>14</td>
+<td>YUMNAM&nbsp; CHINGKHEI&nbsp; MEETEI</td>
+<td>MID-FIELD</td>
+<td>26.01.1994</td>
+</tr><tr><td>15</td>
+<td>IMRAN&nbsp; KHAN</td>
+<td>MID-FIELD</td>
+<td>01.03.1995</td>
+</tr><tr><td>16</td>
+<td>AKBAR&nbsp; KHAN</td>
+<td>MID-FIELD</td>
+<td>
+<p>23.06.1999</p>
+</td>
+</tr><tr><td>17</td>
+<td>YAIKHOM&nbsp; RANDHAN MEITEI</td>
+<td>MID-FIELD</td>
+<td>18.03.1993</td>
+</tr><tr><td>18</td>
+<td>CHINGAKHAM&nbsp; ANANDKUMAR SINGH</td>
+<td>MID-FIELD</td>
+<td>07.07.1995</td>
+</tr><tr><td>19</td>
+<td>LAISHRAM SANAYAI MEITEI</td>
+<td>MID-FIELD</td>
+<td>07.07.1995</td>
+</tr><tr><td>20</td>
+<td>SATISH&nbsp; KHOMDRAM</td>
+<td>FORWARD</td>
+<td>03.02.1995</td>
+</tr><tr><td>21</td>
+<td>NGANGOM&nbsp; RONALD SINGH</td>
+<td>FORWARD</td>
+<td>
+<p>04.02.1997</p>
+</td>
+</tr><tr><td>22</td>
+<td>THOKCHOM&nbsp; JOHNSON SINGH</td>
+<td>FORWARD</td>
+<td>
+<div>01.02.1994</div>
+</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          
+          
+          
+          
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">Player List 2014-15</h4>
+            
+            </div>
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p>PLAYER LIST OF NEROCA FOOTBALL CLUB IMPHAL FOR THE SEASON, 2014-2015</p>
+              <table class="table"><tbody><tr><td>SL.NO.</td>
+<td>NAME</td>
+<td>POSITION</td>
+<td>CATEGORY</td>
+<td>DATE OF BIRTH</td>
+</tr><tr><td>1</td>
+<td>THOKCHOM &nbsp;ROSHAN SINGH</td>
+<td>GOAL KEEPER</td>
+<td>SENIOR</td>
+<td>13.06.1993</td>
+</tr><tr><td>2</td>
+<td>THOUNAOJAM &nbsp;ABOMCHA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>GOAL KEEPER</td>
+<td>SENIOR</td>
+<td>01.01.1996</td>
+</tr><tr><td>3</td>
+<td>KHUMBONGMAYUM &nbsp;DEVENDRO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>GOAL KEEPER</td>
+<td>SENIOR</td>
+<td>26.02.1992</td>
+</tr><tr><td>4</td>
+<td>MUTUM &nbsp;RAJ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>GOAL KEEPER</td>
+<td>SENIOR &nbsp;</td>
+<td>02.07.1993</td>
+</tr><tr><td>5</td>
+<td>ATOM &nbsp;CHINGOIREMBA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>GOAL KEEPER&nbsp;</td>
+<td>&nbsp;U-19 &nbsp; &nbsp;</td>
+<td>02.12.1998</td>
+</tr><tr><td>6</td>
+<td>LEIMAPOKPAM &nbsp;RIVALDO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>GOAL KEEPER &nbsp;</td>
+<td>U-19</td>
+<td>17.11.1999&nbsp;</td>
+</tr><tr><td>7</td>
+<td>KH.ANOSH SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>GOAL KEEPER</td>
+<td>U-19&nbsp;</td>
+<td>03.03.1998</td>
+</tr><tr><td>8</td>
+<td>MD.SOHAIL SHAH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR&nbsp;</td>
+<td>11.03.1992</td>
+</tr><tr><td>9</td>
+<td>MOIRANGTHEM &nbsp;DHANANJOY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR</td>
+<td>01.02.1996</td>
+</tr><tr><td>10</td>
+<td>NGASEPAM &nbsp;TONDONBA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR&nbsp;</td>
+<td>14.11.1994</td>
+</tr><tr><td>11</td>
+<td>SYED &nbsp;FARIQ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER&nbsp;</td>
+<td>SENIOR</td>
+<td>01.04.1984</td>
+</tr><tr><td>12</td>
+<td>MOIRANGMAYUM &nbsp;ASHOK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR</td>
+<td>07.04.1993</td>
+</tr><tr><td>13</td>
+<td>NAOREM &nbsp;SANJIVKUMAR &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR</td>
+<td>01.02.1995</td>
+</tr><tr><td>14</td>
+<td>SAIKHOM &nbsp;THOMAS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR</td>
+<td>&nbsp;</td>
+</tr><tr><td>15</td>
+<td>MOIRANGTHEM &nbsp;JAYANANDA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER</td>
+<td>SENIOR+ U-19</td>
+<td>01.03.1999</td>
+</tr><tr><td>16</td>
+<td>TH.BANGKIM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER&nbsp;</td>
+<td>U-19</td>
+<td>&nbsp;</td>
+</tr><tr><td>17</td>
+<td>THOKCHOM .JAMES &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER&nbsp;</td>
+<td>U-19</td>
+<td>22.12.1999</td>
+</tr><tr><td>18</td>
+<td>K.GOVINDO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>DEFENDER</td>
+<td>U-19</td>
+<td>&nbsp;</td>
+</tr><tr><td>19</td>
+<td>CHINGANGBAM &nbsp;KENSON &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>DEFENDER</td>
+<td>U-19</td>
+<td>02.01.1999</td>
+</tr><tr><td>20</td>
+<td>NGASEPAM &nbsp;TOMARJIT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>15.06.1994</td>
+</tr><tr><td>21</td>
+<td>NGANGOM &nbsp;RAHUL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR+U-19</td>
+<td>15.11.1996</td>
+</tr><tr><td>22</td>
+<td>CHONGTHAM &nbsp;KISHAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR+U-19</td>
+<td>10.06.1998</td>
+</tr><tr><td>23</td>
+<td>YUMNAM &nbsp;CHINGKHEI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>26.01.1994</td>
+</tr><tr><td>24</td>
+<td>IMRAN &nbsp;KHAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>01.03.1995</td>
+</tr><tr><td>25</td>
+<td>AKBAR &nbsp;KHAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD&nbsp;</td>
+<td>SENIOR+U-19</td>
+<td>01.01.1999</td>
+</tr><tr><td>26</td>
+<td>YAIKHOM &nbsp;RANDHAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>18.03.1993</td>
+</tr><tr><td>27</td>
+<td>CHINGAKHAM &nbsp;ANANDKUMAR &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>SENIOR</td>
+<td>07.07.1995</td>
+</tr><tr><td>28</td>
+<td>ABUJAM &nbsp;HARICHARAN SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>15.01.1997</td>
+</tr><tr><td>29</td>
+<td>OINAM &nbsp;SUNANDA &nbsp;SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>01.03.1997</td>
+</tr><tr><td>30</td>
+<td>ARIBAM &nbsp;KRITIVASH SHARMA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>09.11.1997</td>
+</tr><tr><td>31</td>
+<td>SAGOL SEM &nbsp; AJIT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>02.03.1998</td>
+</tr><tr><td>32</td>
+<td>BIKASH YUMNAM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>28.03.1998</td>
+</tr><tr><td>33</td>
+<td>KHAIDEM &nbsp;KAMALJIT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>MID-FIELD</td>
+<td>U-19</td>
+<td>01.01.1997</td>
+</tr><tr><td>34</td>
+<td>YUMNAM &nbsp;JAMES &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>MID-FIELD&nbsp;</td>
+<td>U-19</td>
+<td>26.12.1999</td>
+</tr><tr><td>35</td>
+<td>KHONDRAM &nbsp;SATISH SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>FORWARD</td>
+<td>SENIOR</td>
+<td>03.02.1995</td>
+</tr><tr><td>36</td>
+<td>NGANGOM &nbsp;RONALD SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>FORWARD</td>
+<td>SENIOR+U-19</td>
+<td>04.02.1997</td>
+</tr><tr><td>37</td>
+<td>THOKCHOM &nbsp;JOHNSON SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>FORWARD</td>
+<td>SENIOR</td>
+<td>01.02.1995</td>
+</tr><tr><td>38</td>
+<td>TH.SOBHAMANI SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td>FORWARD</td>
+<td>U-19</td>
+<td>&nbsp;</td>
+</tr><tr><td>39</td>
+<td>M.BOY SINGH &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td>FORWARD</td>
+<td>U-19</td>
+<td>&nbsp;</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          
+          
+          
+          <div class="tab-pane fade active in" id="seniors-trainings">
+            <div class="training-header col-lg-12 col-md-12 col-sm-12">
+              <h4 class="border pull-left">7th BODOUSA CUP 2015</h4>
+            
+            </div>
+            <div class="training-table col-lg-12 col-md-12 col-xs-12">
+      <p>PLAYER LIST OF NEROCA FC 
+
+FOR PARTICIPATING 7TH BODOUSA CUP 2015 HELD AT TINSUKIA FROM 26/07/15 TO 09/08/15
+
+(NEROCA STOOD RUNNERS UP POSITION)</p>
+              <table class="table"><thead><tr><th scope="col">SL.NO.</th>
+<th scope="col">NAME</th>
+<th scope="col">POSITION</th>
+<th scope="col">JERSEY NO.</th>
+<th scope="col">REMARKS</th>
+</tr></thead><tbody><tr><td>1.</td>
+<td>THOKCHOM ROSHAN SINGH</td>
+<td>GOAL KEEPER</td>
+<td>1</td>
+<td>&nbsp;</td>
+</tr><tr><td>2.</td>
+<td>THOUNAOJAM ABOMCHA SINGH</td>
+<td>GOAL KEEPER</td>
+<td>22</td>
+<td>&nbsp;</td>
+</tr><tr><td>3.</td>
+<td>KHUMBONGMAYUM DEBEN</td>
+<td>GOAL KEEPER</td>
+<td>21</td>
+<td>&nbsp;</td>
+</tr><tr><td>4.</td>
+<td>MD.SOHAIL SHAH</td>
+<td>DEFENDER</td>
+<td>23</td>
+<td>&nbsp;</td>
+</tr><tr><td>5.</td>
+<td>MOIRANGTHEM DHANANJOY SINGH</td>
+<td>DEFENDER</td>
+<td>3</td>
+<td>&nbsp;</td>
+</tr><tr><td>6.</td>
+<td>NGASEPAM TONDONBA</td>
+<td>DEFENDER</td>
+<td>12</td>
+<td>&nbsp;</td>
+</tr><tr><td>7.</td>
+<td>SYED FARID</td>
+<td>DEFENDER</td>
+<td>2</td>
+<td>&nbsp;</td>
+</tr><tr><td>8.</td>
+<td>MOIRANGMAYUM ASHOK</td>
+<td>DEFENDER</td>
+<td>6</td>
+<td>&nbsp;</td>
+</tr><tr><td>9.</td>
+<td>NGASEPAM TOMARJIT</td>
+<td>MID-FIELD</td>
+<td>11</td>
+<td>&nbsp;</td>
+</tr><tr><td>10.</td>
+<td>NGANGOM RAHUL SINGH</td>
+<td>MID-FIELD</td>
+<td>16</td>
+<td>&nbsp;</td>
+</tr><tr><td>11.</td>
+<td>CHONGTHAM KISHAN SINGH</td>
+<td>MID-FIELD</td>
+<td>8</td>
+<td>&nbsp;</td>
+</tr><tr><td>12.</td>
+<td>YUMNAM CHINGKHEI MEETEI</td>
+<td>MID-FIELD</td>
+<td>24</td>
+<td>&nbsp;</td>
+</tr><tr><td>13.</td>
+<td>IMRAN KHAN</td>
+<td>MID-FIELD</td>
+<td>7</td>
+<td>&nbsp;</td>
+</tr><tr><td>14.</td>
+<td>AKBAR KHAN</td>
+<td>MID-FIELD</td>
+<td>19</td>
+<td>&nbsp;</td>
+</tr><tr><td>15.</td>
+<td>YAIKHOM RANDHAN MEITEI</td>
+<td>MID-FIELD</td>
+<td>9</td>
+<td>&nbsp;</td>
+</tr><tr><td>16.</td>
+<td>CHINGAKHAM ANANDKUMAR SINGH</td>
+<td>MID-FIELD</td>
+<td>17</td>
+<td>&nbsp;</td>
+</tr><tr><td>17.</td>
+<td>LAISHRAM SANAYAI MEITEI</td>
+<td>MID-FIELD</td>
+<td>15</td>
+<td>&nbsp;</td>
+</tr><tr><td>18.</td>
+<td>SATISH KHOMDRAM</td>
+<td>FORWARD</td>
+<td>14</td>
+<td>&nbsp;</td>
+</tr><tr><td>19.</td>
+<td>NGANGOM RONALD SINGH</td>
+<td>FORWARD</td>
+<td>10</td>
+<td>&nbsp;</td>
+</tr><tr><td>20.</td>
+<td>THOKCHOM JOHNSON SINGH</td>
+<td>FORWARD</td>
+<td>20</td>
+<td>&nbsp;</td>
+</tr></tbody></table>
+           
+            </div>
+          </div>
+          
+          
+          
+          
+          
+          
+          
 
   </div>
   <!-- End Social -->
@@ -636,8 +887,7 @@ To nurture sporting talents in general and Football in particular</p>
   </div>
   <!-- End Trophies -->
 
-
- <!-- Start Footer -->
+<!-- Start Footer -->
   <footer id="footer">
     <div class="container">
 
