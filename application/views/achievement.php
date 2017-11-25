@@ -203,35 +203,22 @@ To nurture sporting talents in general and Football in particular</p>
   <div class="intro">
     <div id="home-slider" class="owl-carousel owl-theme">
       <div class="item">
-        <img src="img/slider/bg1.jpg" alt="">
+        <img src="<?php echo base_url();?>nero/img/slider/bg1.jpg" alt="">
         <div class="slide-content col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 text-center">
           <h1>Neroca FC</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
-          <a href="#" class="button"><span>Read More</span><i class="fa fa-arrow-circle-right"></i></a>
+          <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association 
+          (NEROCA), Sangakpham Bazar, Imphal, Manipur was established in 1965 with a good hope to enhance quality of youths especially in the field of cultural activities and sports arena.</p>
+          <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Ticket</span><i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
       <div class="item">
-        <img src="img/slider/bg2.jpg" alt="">
+        <img src="<?php echo base_url();?>nero/img/slider/bg2.jpg" alt="">
         <div class="slide-content col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 text-center">
-          <h1>Neroca FC</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
-          <a href="#" class="button"><span>Read More</span><i class="fa fa-arrow-circle-right"></i></a>
-        </div>
-      </div>
-      <div class="item">
-        <img src="img/slider/bg3.jpg" alt="">
-        <div class="slide-content col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 text-center">
-          <h1>Neroca FC</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
-          <a href="#" class="button"><span>Read More</span><i class="fa fa-arrow-circle-right"></i></a>
-        </div>
-      </div>
-      <div class="item">
-        <img src="img/slider/bg4.jpg" alt="">
-        <div class="slide-content col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 text-center">
-          <h1>Neroca FC</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita sequi, harum. Tenetur cumque dolorem laboriosam, similique dicta quaerat quasi quisquam vitae. Quasi placeat voluptates perferendis iure modi, ea animi ipsam.</p>
-          <a href="#" class="button"><span>Read More</span><i class="fa fa-arrow-circle-right"></i></a>
+          <h1>Mission & Vision</h1>
+          <p> To promote and develop the game of Football in the state to National and International standards
+
+			<br> To nurture sporting talents in general and Football in particular</p>
+          <a href="<?php echo base_url();?>home/ticket" class="button"><span>Get Ticket</span><i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
     </div>

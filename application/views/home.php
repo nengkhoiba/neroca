@@ -224,7 +224,65 @@ To nurture sporting talents in general and Football in particular</p>
     </div>
 
 
+ <!-- Start Social -->
+  <div id="social">
+
+
+<div class="container">
+    <div class="row">
+
+      <h4 class="border">NEROCA FC PRESIDENT & CEO</h4>
+        <div class="col-md-4">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="<?php echo base_url();?>nero/img/ceo/img-1.jpg" alt="">
+                </div>
+                <div class="team-prof">
+                    <h3 class="post-title">Dr. Dhabali Thangjam</h3>
+                    <span class="post">President</span>
+       
  
+                    <ul class="team_social">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+             <div class="col-md-4">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="<?php echo base_url();?>nero/img/ceo/img-1.jpg" alt="">
+                </div>
+                <div class="team-prof">
+                    <h3 class="post-title">Naoba Thangjam</h3>
+                    <span class="post">ceo</span>
+                  
+ 
+                    <ul class="team_social">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+           <!-- facebook -->
+      <div class="col-md-4">
+        
+     
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNerocafc%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" overflow-y="hidden"></iframe>
+
+    </div>
+
+
+    </div>
+</div>
+ 
+</div>
 
   <!-- Start Social -->
   <div id="social">
@@ -266,12 +324,67 @@ To nurture sporting talents in general and Football in particular</p>
 
 
     <!-- Start Table -->
-      <div class="table-info col-lg-4 col-md-12 col-sm-12">
-        
-      <h4 class="border">Like Us on Facebook</h4>
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNerocafc%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="265" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" overflow-y="hidden"></iframe>
-
-    </div>
+      <div class="ticket col-lg-4 col-md-12 col-sm-12" style="font-size: 13px;">
+       <h4 class="border">Banned Items In Stadium</h4>
+        <table class="table">
+               
+                
+                <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Animals</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Balls, toys or sports equipment</th>
+                 
+                </tr>
+                <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Poles or Sticks</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Illegal substances</th>
+               
+                </tr>
+                <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Beverage containers factory sealed plastic bottles of water</th>
+                   <th class="col-lg-3 col-md-3 col-xs-3">Cans, glass bottles or alcoholic beverages</th>
+                 
+              
+                </tr>
+                <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Coolers</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Drones</th>
+             
+                </tr>
+                <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Glass, metal or hard plastic containers</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">helium balloons</th>
+               
+                </tr>
+                 <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Laser pointers</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Selfie sticks</th>
+               
+                </tr>
+                 <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Weapons or projectiles</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Pan tobaco products</th>
+              
+                </tr>
+                 <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Cigarettes lighters</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3"></th>
+              
+                </tr>
+                  <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Sunflower seed</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Fireworks crackers</th>
+                 
+                </tr>
+                   <tr>
+                  <th class="col-lg-3 col-md-3 col-xs-3">Flamable toxic hazardeous substances</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3"></th>
+               
+                </tr>
+                  </tr>
+            
+              </table>
+       
+      </div>
 
 
 
@@ -507,7 +620,7 @@ To nurture sporting talents in general and Football in particular</p>
                   <th class="col-lg-2 col-md-2 col-xs-2"></th>
                 </tr>
                    <tr>
-                  <th class="col-lg-3 col-md-3 col-xs-3">9</th>
+                  <th class="col-lg-3 col-md-3 col-xs-3">10</th>
                   <th class="col-lg-3 col-md-3 col-xs-3">Chennai City FC</th>
                   <th class="col-lg-4 col-md-4 col-xs-4">0</th>
                   <th class="col-lg-2 col-md-2 col-xs-2"></th>
@@ -845,9 +958,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/lalit.jpg" alt="profile-sample4" class="profile" />
     <h2>Lalit Thapa<span>Goalkeeper</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
     <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/13.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -862,9 +975,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/sambhu.jpg" alt="profile-sample4" class="profile" />
     <h2>Shambhu Mistry<span>Goalkeeper</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
     <h6>West Bengal<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/1.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -878,9 +991,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/bishorjit.jpg" alt="profile-sample4" class="profile" />
     <h2>L. Bishorjit Singh<span>Goalkeeper</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
     <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/21.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -894,9 +1007,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/govin.jpg" alt="profile-sample4" class="profile" />
     <h2>M. Govind Singh<span>Defender</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
       <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/2.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -919,9 +1032,9 @@ To nurture sporting talents in general and Football in particular</p>
      <img src="<?php echo base_url();?>nero/img/players/tondonba.jpg" alt="profile-sample4" class="profile" />
     <h2>Ng. Tondonba Singh<span>Defender</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
      <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/4.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -935,9 +1048,9 @@ To nurture sporting talents in general and Football in particular</p>
       <img src="<?php echo base_url();?>nero/img/players/dhananjoy.jpg" alt="profile-sample4" class="profile" />
      <h2>M. Dhananjoy Singh<span>Defender</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
      <h6>Liberia</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/3.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -951,9 +1064,9 @@ To nurture sporting talents in general and Football in particular</p>
       <img src="<?php echo base_url();?>nero/img/players/naoba.jpg" alt="profile-sample4" class="profile" />
     <h2>Th. Naoba Singh<span>Defender</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
      <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/25.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -967,9 +1080,9 @@ To nurture sporting talents in general and Football in particular</p>
      <img src="<?php echo base_url();?>nero/img/players/gouramangi.jpg" alt="profile-sample4" class="profile" />
    <h2>M. Gouramangi<span>Defender</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
      <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/19.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -989,9 +1102,9 @@ To nurture sporting talents in general and Football in particular</p>
       <img src="<?php echo base_url();?>nero/img/players/kallon.jpg" alt="profile-sample4" class="profile" />
      <h2>Kallon Kiatamba Jr<span>Defender</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/liberia.png" style="margin-top: 2em;">
      <h6>Liberia</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/5.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1007,9 +1120,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/ashok.jpg" alt="profile-sample4" class="profile" />
      <h2>M. Ashok Singh<span>Defender</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
     <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/6.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1023,9 +1136,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/khodang.jpg" alt="profile-sample4" class="profile" />
     <h2>Reishangmi Khodang<span>Defender</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
      <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/18.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1039,9 +1152,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/anandkumar.jpg" alt="profile-sample4" class="profile" />
    <h2>Ch. Anandkumar<span>Mid-Fielder</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
     <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/17.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1060,9 +1173,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/david.jpg" alt="profile-sample4" class="profile" />
    <h2>David Lalbiakzara<span>Mid-Fielder</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
       <h6>Mizoram<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/16.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1077,9 +1190,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/johnson.jpg" alt="profile-sample4" class="profile" />
      <h2>Th. Johnson Singh<span>Mid-Fielder</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
     <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/20.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1093,9 +1206,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/saran.jpg" alt="profile-sample4" class="profile" />
     <h2>Th. Saran Singh<span>Mid-Fielder</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
      <h6>Manipur<br> India</h6>
-    <img src="images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/24.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1109,9 +1222,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/subhas.jpg" alt="profile-sample4" class="profile" />
      <h2>Singam Subash Singh<span>Mid-Fielder</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
    <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/12.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1132,9 +1245,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/basanta.jpg" alt="profile-sample4" class="profile" />
   <h2>M. Basanta Singh<span>Mid-Fielder</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
     <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/15.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1149,9 +1262,9 @@ To nurture sporting talents in general and Football in particular</p>
    <img src="<?php echo base_url();?>nero/img/players/aryn.jpg" alt="profile-sample4" class="profile" />
    <h2>Aryn Glen Williams<span>Mid-Fielder</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/australia.png" style="margin-top: 2em;">
  <h6>Australia</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/28.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1165,9 +1278,9 @@ To nurture sporting talents in general and Football in particular</p>
    <img src="<?php echo base_url();?>nero/img/players/forbe.jpg" alt="profile-sample4" class="profile" />
    <h2>Vorbe Fabian Franchis Jean<span>Mid-Fielder</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/haiti.png" style="margin-top: 2em;">
    <h6>Haiti</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/7.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1181,9 +1294,9 @@ To nurture sporting talents in general and Football in particular</p>
      <img src="<?php echo base_url();?>nero/img/players/sushil.jpg" alt="profile-sample4" class="profile" />
     <h2>Ch. Susilkumar<span>Forward</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
      <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/8.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1203,9 +1316,9 @@ To nurture sporting talents in general and Football in particular</p>
      <img src="<?php echo base_url();?>nero/img/players/felix.jpg" alt="profile-sample4" class="profile" />
     <h2>Odili Felix Chidi<span>Forward</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/nigeria.png" style="margin-top: 2em;">
     <h6>Nigeria</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/11.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1220,9 +1333,9 @@ To nurture sporting talents in general and Football in particular</p>
    <img src="<?php echo base_url();?>nero/img/players/akhlidin.jpg" alt="profile-sample4" class="profile" />
     <h2>Akhlidin Israilov<span>Mid-Fielder</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/kry.png" style="margin-top: 2em;">
     <h6>Krygyzstan</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/10.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1236,9 +1349,9 @@ To nurture sporting talents in general and Football in particular</p>
     <img src="<?php echo base_url();?>nero/img/players/richard.jpg" alt="profile-sample4" class="profile" />
     <h2>Richard Cowen Brian Roy<span>Forward</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/trinidad.png" style="margin-top: 2em;">
     <h6>Trinidad & Tobago</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/9.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1252,9 +1365,9 @@ To nurture sporting talents in general and Football in particular</p>
      <img src="<?php echo base_url();?>nero/img/players/gopi.jpg" alt="profile-sample4" class="profile" />
     <h2>Yumnam Gopi Singh<span>Forward</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
      <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/14.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1275,9 +1388,9 @@ To nurture sporting talents in general and Football in particular</p>
      <img src="<?php echo base_url();?>nero/img/players/pritam.jpg" alt="profile-sample4" class="profile" />
     <h2>Ningthoujam Pritam<span>Forward</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
     <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/26.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
@@ -1292,9 +1405,9 @@ To nurture sporting talents in general and Football in particular</p>
      <img src="<?php echo base_url();?>nero/img/players/ronald.jpg" alt="profile-sample4" class="profile" />
     <h2>Ngangom Ronald<span>Forward</span></h2>
    
-    <img src="<?php echo base_url();?>nero/images/france.png" style="margin-top: 2em;">
+    <img src="<?php echo base_url();?>nero/images/india.png" style="margin-top: 2em;">
     <h6>Manipur<br> India</h6>
-    <img src="<?php echo base_url();?>nero/images/team/main/32.png" style="margin-top: -8em; margin-left: 8em;">
+    <img src="<?php echo base_url();?>nero/images/team/main/23.svg" style="margin-top: -8em; margin-left: 8em;">
 
 
   </figcaption>
