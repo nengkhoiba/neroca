@@ -131,31 +131,28 @@ To nurture sporting talents in general and Football in particular</p>
     <div class="megamenu clearfix ">
 
         <div class="col-sm-4">
-          <h3 class="title">Lorem</h3>
+          <h3 class="title">1st Managing Committee </h3>
           <div class="fluid-width-video-wrapper"><a href="#"><img src="<?php echo base_url();?>nero/images/image01.jpg" alt=""/></a> </div>
       </div>
       <div class="col-sm-4">
-          <h3 class="title">Lorem</h3>
+          <h3 class="title">Neroca Officials </h3>
           <div class="fluid-width-video-wrapper"><img src="<?php echo base_url();?>nero/images/image02.jpg" alt=""/> </div>
       </div>
       <div class="col-sm-4">
-          <h3 class="title">Lorem</h3>
+          <h3 class="title">26th Managing Committee </h3>
           <div class="fluid-width-video-wrapper"><img src="<?php echo base_url();?>nero/images/image03.jpg" alt=""/> </div>
       </div>
 
 
       <div class="col-sm-4">
-          <h3 class="title mrgtop">Lorem</h3>
+          <h3 class="title mrgtop">President and Secretary</h3>
           <div class="fluid-width-video-wrapper"><a href="#"><img src="<?php echo base_url();?>nero/images/image04.jpg" alt=""/></a> </div>
       </div>
       <div class="col-sm-4">
-          <h3 class="title mrgtop">Lorem</h3>
+          <h3 class="title mrgtop">Panel of coaches</h3>
           <div class="fluid-width-video-wrapper"><img src="<?php echo base_url();?>nero/images/image05.jpg" alt=""/> </div>
       </div>
-      <div class="col-sm-4">
-          <h3 class="title mrgtop">Lorem</h3>
-          <div class="fluid-width-video-wrapper"><img src="<?php echo base_url();?>nero/images/image06.jpg" alt=""/> </div>
-      </div>
+     
 
   </div>
 </li>
