@@ -23,44 +23,73 @@ public function checkout(){
 	
 	}
 	public function payment_success(){
-		$email=$_POST["email"];
 		$this->session->set_userdata('status','You have successfully paid.');
-
+		$flag=$this->session->userdata('pay');
+		$status=$_POST["status"];
+		$firstname=$_POST["firstname"];
+		$amount=$_POST["amount"];
+		$txnid=$_POST["txnid"];
+		$posted_hash=$_POST["hash"];
+		$key=$_POST["key"];
+		$productinfo=$_POST["productinfo"];
+		$email=$_POST["email"];
+		$salt="MVpQVkMo1R";
 		
-		//load mPDF library
-		$this->load->library('m_pdf');
-		//load mPDF library
+		$sql="UPDATE `payment` SET
+		
+		`status`='SUCCESS'
+		WHERE tranc_id='$txnid'";
+		
+		$query=$this->db->query($sql);
+		If (isset($_POST["additionalCharges"])) {
+			$additionalCharges=$_POST["additionalCharges"];
+			$retHashSeq = $additionalCharges.'|'.$salt.'|'.$status.'|||||||||||'.$email.'|'.$firstname.'|'.$productinfo.'|'.$amount.'|'.$txnid.'|'.$key;
+		
+		}
+		else {
+		
+			$retHashSeq = $salt.'|'.$status.'|||||||||||'.$email.'|'.$firstname.'|'.$productinfo.'|'.$amount.'|'.$txnid.'|'.$key;
+		
+		}
+		$hash = hash("sha512", $retHashSeq);
+			
+		if ($hash != $posted_hash) {
+			echo "Invalid Transaction. Please try again";
+			
+		}
+		else {
+		
+				
+			$this->session->set_userdata('status','You have successfully paid.');
 		
 		
-		//now pass the data//
-		$this->data['title']="Ticket";
-		$this->data['description']="";
-		$this->data['description']=$this->official_copies;
-		//now pass the data //
+			//load mPDF library
+			$this->load->library('m_pdf');
+			$data['title']="Ticket";
+			$html=$this->load->view('ticket/ticket',$data,true);
 		
-		$html=$this->load->view('ticket/ticket',$data, true); //load the pdf_output.php by passing our data and get all data in $html varriable.
+			$pdfFilePath ="download/".$txnid.".pdf";
 		
-		//this the the PDF filename that user will get to download
-		$pdfFilePath ="download/ticket.pdf";
+			$pdf = $this->m_pdf->load();
+			//generate the PDF!
+			$pdf->WriteHTML($html,2);
 		
+			$pdf->Output($pdfFilePath, "F");
+			$this->load->library('email');
 		
-		//actually, you can pass mPDF parameter on this load() function
-		$pdf = $this->m_pdf->load();
-		//generate the PDF!
-		$pdf->WriteHTML($html,2);
-		//offer it to user via browser download! (The PDF won't be saved on your server HDD)
+			$this->email->from('support@mobimp.com', 'e-Ticket');
+			$this->email->to($email);
+			$this->email->subject('E-Ticket');
+			$this->email->message('Testing the email class.');
+			$this->email->attach($pdfFilePath);
+			$this->email->send();
+			//$pdf->Output($pdfFilePath, "D");
+			
+			$this->session->set_userdata('TID',$txnid);
+			$this->session->set_userdata('URL',$pdfFilePath);
+			redirect("payment/status");
+		}
 		
-		$pdf->Output($pdfFilePath, "F");
-		$this->load->library('email');
-		
-		$this->email->from('support@mobimp.com', 'e-Ticket');
-		$this->email->to($email);
-		$this->email->subject('E-Ticket');
-		$this->email->message('Testing the email class.');
-		$this->email->attach($pdfFilePath);
-		$this->email->send();
-		$pdf->Output($pdfFilePath, "D");
-		$this->load->view('payment/success');
 	
 	}
 	public function payment_fail(){
@@ -68,6 +97,9 @@ public function checkout(){
 		$this->load->view('payment/failure');
 	
 	}
+	public function status(){
 
+		$this->load->view('payment/success');
+	}
 
 }

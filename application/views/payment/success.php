@@ -1,4 +1,7 @@
-<?php $this->load->view('global_header.php');?>
+<?php $this->load->view('global_header.php');
+if($this->session->userdata("TID")!=null){
+?>
+
 <style>
 .card-base > .card-icon {
         text-align: center;
@@ -33,52 +36,6 @@
     }
     </style>
 
-<?php
-$flag=$this->session->userdata('pay');
-$status=$_POST["status"];
-$firstname=$_POST["firstname"];
-$amount=$_POST["amount"];
-$txnid=$_POST["txnid"];
-$posted_hash=$_POST["hash"];
-$key=$_POST["key"];
-$productinfo=$_POST["productinfo"];
-$email=$_POST["email"];
-$salt="MVpQVkMo1R";
-
-$sql="UPDATE `payment` SET 
-		
-		`status`='SUCCESS'
-		 WHERE tranc_id='$txnid'";
-
-$query=$this->db->query($sql);
-If (isset($_POST["additionalCharges"])) {
-       $additionalCharges=$_POST["additionalCharges"];
-        $retHashSeq = $additionalCharges.'|'.$salt.'|'.$status.'|||||||||||'.$email.'|'.$firstname.'|'.$productinfo.'|'.$amount.'|'.$txnid.'|'.$key;
-        
-                  }
-	else {	  
-
-        $retHashSeq = $salt.'|'.$status.'|||||||||||'.$email.'|'.$firstname.'|'.$productinfo.'|'.$amount.'|'.$txnid.'|'.$key;
-
-         }
-		 $hash = hash("sha512", $retHashSeq);
-		 
-       if ($hash != $posted_hash) {
-	       echo "Invalid Transaction. Please try again";
-		   }
-	   else {
-         
-          ?>
-          	   	<html>
-          	   <head>
-          	  			<style type="text/css">
-      .barcode {  height: 80px;
-  margin-left: 160px;} 
-  .ticketcontainer{
-  margin-top:50px;
-  }
-     	  
-          	  			</style>
           	   </head>
           	   	<body>
           	   	<div class="container">
@@ -88,22 +45,28 @@ If (isset($_POST["additionalCharges"])) {
 <div class="card-icon"><a href="#" title="Widgets" id="widgetCardIcon" class="imagecard"><span class="glyphicon glyphicon-check"></span></a>
 <div class="card-data widgetCardData">
 <h2 class="box-title" style="color: #0E703F;">Payment Successfull!</h2>
-<p style="font-family: arial" class="card-block text-center">Your transaction id for this transaction is <?php echo $txnid;?></p>
-<a href="<?php echo base_url();?>" title="Style Builder" class="anchor btn btn-default" style="background: #000; border: #bb7824; color: whitesmoke;"> <i class="fa fa-paper-plane" aria-hidden="true"></i> Back to home</a></div>
+<p style="font-family: arial" class="card-block text-center">Your transaction id for this transaction is <?php echo $this->session->userdata("TID");?></p>
+<a href="<?php echo base_url();?>" title="Style Builder" class="anchor btn btn-default" style="background: #000; border: #bb7824; color: whitesmoke;"> <i class="fa fa-paper-plane" aria-hidden="true"></i> Back to home</a>
+<a href="<?php echo base_url();?><?php echo $this->session->userdata("URL");?>" title="Style Builder" class="anchor btn btn-default" style="background: #000; border: #bb7824; color: whitesmoke;"> <i class="fa fa-paper-save" aria-hidden="true"></i> Download Ticket</a></div>
 </div>
 </div>
 </div>
 </div>
 	
 </div>
-          	   	
+
+          	   		</body>
+       <script>$(function() {
+    	    window.open("<?php echo base_url();?><?php echo $this->session->userdata("URL");?>");
+       });</script>
+          	   	</html>
+      <?php echo $this->session->set_userdata("TID",null);
+      
+}else{
+	redirect("home");
+}
+      ?>    	   	
           	   	
           	   	
     
-          	   		</body>
-       
-          	   	</html>
-                    <?php
-                    
-		   }         
-?>	
+      

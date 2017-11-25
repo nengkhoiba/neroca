@@ -894,12 +894,21 @@ FOR PARTICIPATING 7TH BODOUSA CUP 2015 HELD AT TINSUKIA FROM 26/07/15 TO 09/08/1
       <div class="footer-top clearfix">
         <div class="widget col-lg-3 col-md-3 col-sm-6">
           <h5 class="widget-title">About FC</h5>
-          <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar, Imphal, Manipur was established in 1965 with a good hope to enhance quality of youths especially in the field of cultural activities and sports arena. <a href="<?php echo base_url();?>home/about">Read more ..</a> </p>
+          <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar,  <a href="about.html">Read more ..</a> </p>
           <ul class="contact-info custom-list">
             <li><i class="fa fa-map-marker"></i><span> Sangakpham Rd, Chingmeirong, Heingang, Manipur 795010</span></li>
             <li><i class="fa fa-phone"></i><span>+1 (123) 456-7890</span></li>
             <li><i class="fa fa-envelope"></i><span><a href="mailto:example@example.com">example@example.com</a></span></li>
           </ul>
+
+            <ul class="social list-inline" style="margin-top: 2em;">
+            <li><a href="https://www.facebook.com/Nerocafc/"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://twitter.com/NerocaFC"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.instagram.com/nerocafc/"><i class="fa fa-instagram"></i></a></li>
+
+
+          </ul>
+
         </div>
         <div class="widget col-lg-3 col-md-3 col-sm-6">
           <h5 class="widget-title">Information</h5>

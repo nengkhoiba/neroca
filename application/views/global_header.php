@@ -25,7 +25,7 @@ $query=$this->db->query($sql);
 <link href="https://fonts.googleapis.com/css?family=Roboto:100" rel="stylesheet"> 
     <!-- Plugin CSS -->
     <link href="<?php echo base_url();?>vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
-
+<script src="<?php echo base_url();?>vendor/jquery/jquery.min.js"></script>
 	
 	
 

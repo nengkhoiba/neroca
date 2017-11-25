@@ -449,7 +449,7 @@ To nurture sporting talents in general and Football in particular</p>
             <!-- Start Upcoming -->
             <div class="upcoming col-lg-6 col-lg-offset-0 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 clearfix">
               <h4 class="border">Upcoming Matches</h4>
-              <ul class="matches custom-list">
+              <ul class="matches custom-list"  style="font-size: 9px;">
                 <li class="match">
                   <div class="team text-left">
                     <img src="<?php echo base_url();?>nero/images/team/neroca.png" alt=""><span>NEROCA FC</span>
@@ -469,11 +469,11 @@ To nurture sporting talents in general and Football in particular</p>
                   </div>
                   <div class="schedule">
                     <span class="team-name">Khuman Lampak</span>
-                    <span class="time">5 Jan 2018, 2 pm</span>
+                    <span class="time">30 Dec 2017, 2 pm</span>
                   </div>
-                  <div class="team right text-right">
-                    <span>INDIAN ARROWS</span>
-                    <img src="<?php echo base_url();?>nero/images/team/indian.png" alt="">
+                  <div class="team right ">
+                    <span>KINGFISHER EAST BENGAL</span>
+                    <img src="<?php echo base_url();?>nero/images/team/king.png" alt="">
                   </div>
                 </li>
        
@@ -483,14 +483,56 @@ To nurture sporting talents in general and Football in particular</p>
                   </div>
                   <div class="schedule">
                     <span class="team-name">Khuman Lampak</span>
-                    <span class="time">10 Feb 2018, 2 pm</span>
+                    <span class="time">5 Jan 2018, 2 pm</span>
                   </div>
                   <div class="team right text-right">
-                    <span>AIZAWL FC</span>
-                    <img src="<?php echo base_url();?>nero/images/team/aizawl.png" alt="">
+                    <span>INDIAN ARROWS</span>
+                    <img src="<?php echo base_url();?>nero/images/team/indian.png" alt="">
                   </div>
                 </li>
               
+                <li class="match">
+                  <div class="team text-left">
+                    <img src="<?php echo base_url();?>nero/images/team/neroca.png" alt=""><span>NEROCA FC</span>
+                  </div>
+                  <div class="schedule">
+                    <span class="team-name">Khuman Lampak</span>
+                    <span class="time">23 Jan 2018, 2 pm</span>
+                  </div>
+                  <div class="team right text-right">
+                    <span>SHILLONG LAJONG FC</span>
+                    <img src="<?php echo base_url();?>nero/images/team/shillong.png" alt="">
+                  </div>
+                </li>
+
+                <li class="match">
+                  <div class="team text-left">
+                    <img src="<?php echo base_url();?>nero/images/team/neroca.png" alt=""><span>NEROCA FC</span>
+                  </div>
+                  <div class="schedule">
+                    <span class="team-name">Khuman Lampak</span>
+                    <span class="time">27 Jan 2018, 2 pm</span>
+                  </div>
+                  <div class="team right text-right">
+                    <span>MINERVA PUNJAB FC</span>
+                    <img src="<?php echo base_url();?>nero/images/team/minerva.png" alt="">
+                  </div>
+                </li>
+
+                <li class="match">
+                  <div class="team text-left">
+                    <img src="<?php echo base_url();?>nero/images/team/neroca.png" alt=""><span>NEROCA FC</span>
+                  </div>
+                  <div class="schedule">
+                    <span class="team-name">Khuman Lampak</span>
+                    <span class="time">4 Feb 2018, 2 pm</span>
+                  </div>
+                  <div class="team right text-right">
+                    <span>GOKULAM KERALA FC</span>
+                    <img src="<?php echo base_url();?>nero/images/team/gokulam.png" alt="">
+                  </div>
+                </li>
+
                 <li class="match">
                   <div class="team text-left">
                     <img src="<?php echo base_url();?>nero/images/team/neroca.png" alt=""><span>NEROCA FC</span>
@@ -511,11 +553,25 @@ To nurture sporting talents in general and Football in particular</p>
                   </div>
                   <div class="schedule">
                     <span class="team-name">Khuman Lampak</span>
-                    <span class="time">10 Feb 2018, 2 pm</span>
+                    <span class="time">14 Feb 2018, 2 pm</span>
                   </div>
                   <div class="team right text-right">
-                    <span>AIZAWL FC</span>
-                    <img src="<?php echo base_url();?>nero/images/team/aizawl.png" alt="">
+                    <span>CHURCHILL BROTHERS FC</span>
+                    <img src="<?php echo base_url();?>nero/images/team/churchill.png" alt="">
+                  </div>
+                </li>
+
+                <li class="match">
+                  <div class="team text-left">
+                    <img src="<?php echo base_url();?>nero/images/team/neroca.png" alt=""><span>NEROCA FC</span>
+                  </div>
+                  <div class="schedule">
+                    <span class="team-name">Khuman Lampak</span>
+                    <span class="time">18 Feb 2018, 2 pm</span>
+                  </div>
+                  <div class="team right text-right">
+                    <span>MOHUN BAGAN</span>
+                    <img src="<?php echo base_url();?>nero/images/team/mohun.png" alt="">
                   </div>
                 </li>
 
@@ -1436,12 +1492,21 @@ To nurture sporting talents in general and Football in particular</p>
       <div class="footer-top clearfix">
         <div class="widget col-lg-3 col-md-3 col-sm-6">
           <h5 class="widget-title">About FC</h5>
-          <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar, Imphal, Manipur was established in 1965 with a good hope to enhance quality of youths especially in the field of cultural activities and sports arena. <a href="<?php echo base_url();?>home/about">Read more ..</a> </p>
+          <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar,  <a href="about.html">Read more ..</a> </p>
           <ul class="contact-info custom-list">
             <li><i class="fa fa-map-marker"></i><span> Sangakpham Rd, Chingmeirong, Heingang, Manipur 795010</span></li>
             <li><i class="fa fa-phone"></i><span>+1 (123) 456-7890</span></li>
             <li><i class="fa fa-envelope"></i><span><a href="mailto:example@example.com">example@example.com</a></span></li>
           </ul>
+
+            <ul class="social list-inline" style="margin-top: 2em;">
+            <li><a href="https://www.facebook.com/Nerocafc/"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://twitter.com/NerocaFC"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.instagram.com/nerocafc/"><i class="fa fa-instagram"></i></a></li>
+
+
+          </ul>
+
         </div>
         <div class="widget col-lg-3 col-md-3 col-sm-6">
           <h5 class="widget-title">Information</h5>
