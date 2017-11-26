@@ -10,7 +10,7 @@ public function checkout(){
    $qty=$this->session->userdata("QTY");
    $amount=0;
    IF($type=="VIP"){
-       $amount=302;
+       $amount=300;
    }elseif("NOM"){
        $amount=50;
    }else{

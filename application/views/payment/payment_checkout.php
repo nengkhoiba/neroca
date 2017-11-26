@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
@@ -219,7 +219,7 @@ if(empty($posted['txnid'])) {
   $txnid = substr(hash('sha256', mt_rand() . microtime()), 0, 20);
   $hashKey=generateRandomString(50);
 $sql="INSERT INTO `payment`(`amount`, `status`, `tranc_id`, `ref_id`)
-VALUES ('$amount','INCOMPLETE','$txnid','$hashKey')";
+VALUES ('$amount+2','INCOMPLETE','$txnid','$hashKey')";
   
  $query=$this->db->query($sql);
 } else {
@@ -311,19 +311,24 @@ function generateRandomString($length = 20) {
           <div class="form-group">
               <label for="PaymentAmount">Payment amount</label>
               <div class="amount-placeholder">
+              <?php if($this->session->userdata("TYPE")=="VIP"){
+              $type="VIP Ticket";
+              }else{
+              $type="Gallery Ticket";
+              }?>
                   <span>Rs.</span>
-                  <span><?php echo $amount;?>.00</span>
+                  <span><?php echo $amount+2;?>.00 (<?php echo $count; ?> <?php echo $type; ?> - Rs.<?php echo $amount; ?>)+(Internet Handling Fee - Rs.2)</span>
               </div>
           </div>
              <?php if($formError) { ?>
       <span style="color:red">Please fill all mandatory fields.</span>   
     <?php } ?>
-          <input type="hidden" name="amount" value="<?php echo $amount;?>"/>
+          <input type="hidden" name="amount" value="<?php echo $amount+2;?>"/>
            <input type="hidden" name="key" value="<?php echo $MERCHANT_KEY ?>" />
       <input type="hidden" name="hash" value="<?php echo $hash ?>"/>
       <input type="hidden" name="txnid" value="<?php echo $txnid ?>" />
           <div class="form-group">
-              <label for="firstname">Firstname<span style="color:red" >*</span></label>
+              <label for="firstname">Name<span style="color:red" >*</span></label>
               <input name="firstname" class="form-control" id="firstname" value="<?php echo (empty($posted['firstname'])) ? '' : $posted['firstname']; ?>" />
             
           </div>
@@ -341,7 +346,7 @@ function generateRandomString($length = 20) {
          <input type="hidden" name="service_provider" value="payu_paisa" size="64" />
     		<?php if(!$hash) { ?>
            <button id="PayButton" class="btn btn-block btn-success submit-button" type="submit">
-              <span class="align-middle">Pay Rs.<?php echo $amount;?>.00</span>
+              <span class="align-middle">Pay Rs.<?php echo $amount+2;?>.00</span>
           </button>
           <?php } ?>
           
@@ -484,7 +489,7 @@ function generateRandomString($length = 20) {
 
     <!-- Start Copyrights -->
     <div class="copyrights clearfix text-center">
-      <p class="col-lg-12"><span class="pull-left"> © Copyright 2017. All Rights Reserved,</span><span class="pull-right"> Website Developed & Maintained By <a href="http://www.mobimp.com/"> MOBIMP Services Pvt. Ltd.</a></span></p>
+      <p class="col-lg-12"><span class="pull-left"> Â© Copyright 2017. All Rights Reserved,</span><span class="pull-right"> Website Developed & Maintained By <a href="http://www.mobimp.com/"> MOBIMP Services Pvt. Ltd.</a></span></p>
     </div>
     <!-- End Copyrights -->
 
