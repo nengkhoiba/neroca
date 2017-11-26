@@ -48,12 +48,12 @@ class Home extends CI_Controller {
 	    $match=$_GET['m'];
 	    $count=$_GET['c'];
 	    if($gate!="" && $match!="" && $count!=""){
-	    $sql="SELECT ID FROM `Seats` WHERE match_id=$match AND gate_id=$gate";
+	    $sql="SELECT ID FROM `seats` WHERE match_id=$match AND gate_id=$gate";
 	    
 	    $query = $this->db->query($sql);
 	    $occupy=$query->num_rows();
 	    $capacity=0;
-	    $sql="SELECT capacity FROM `Gate` WHERE ID=$gate";
+	    $sql="SELECT capacity FROM `gate` WHERE ID=$gate";
 	    $query = $this->db->query($sql);
 	    if($query){
 	    	while($result=mysql_fetch_array($query->result_id))

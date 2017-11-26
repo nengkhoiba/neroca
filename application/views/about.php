@@ -283,6 +283,7 @@ To nurture sporting talents in general and Football in particular
   
 
 
+
   <!-- Start Footer -->
   <footer id="footer">
     <div class="container">
@@ -294,8 +295,8 @@ To nurture sporting talents in general and Football in particular
           <p>Having long desire of the people of the northern Imphal side particularly along the Imphal-Dimapur National Highway No.39 (Now, NH2), the North Eastern Re-Organising Cultural Association (NEROCA), Sangakpham Bazar,  <a href="<?php echo base_url();?>home/about">Read more ..</a> </p>
           <ul class="contact-info custom-list">
             <li><i class="fa fa-map-marker"></i><span> Sangakpham Rd, Chingmeirong, Heingang, Manipur 795010</span></li>
-            <li><i class="fa fa-phone"></i><span>+1 (123) 456-7890</span></li>
-            <li><i class="fa fa-envelope"></i><span><a href="mailto:example@example.com">example@example.com</a></span></li>
+            
+            <li><i class="fa fa-envelope"></i><span><a href="mailto:nerocafc2015office@gmail.com">nerocafc2015office@gmail.com</a></span></li>
           </ul>
 
             <ul class="social list-inline" style="margin-top: 2em;">
@@ -321,13 +322,13 @@ To nurture sporting talents in general and Football in particular
             <li><a href="<?php echo base_url();?>home/about">About</a></li>
             <li><a href="<?php echo base_url();?>home/achievement">Achievement</a></li>
             <li><a href="#">Contact</a></li>
-            <li><a href="#">FAQ</a></li>
+
            
           </ul>
         </div>
         <div class="widget col-lg-3 col-md-3 col-sm-6">
           <h5 class="widget-title">FC Newsletter</h5>
-          <p>Join Neroca FC Mailing list and receive the latest news of Neroca FC ! Just enter your email address here and you are all set.</p>
+          <p>Thank you for joining our mailing list.</p>
           <form action="#" class="newsletter default-form">
             <input type="text" placeholder="you@example.com">
             <button class="button"><span>Register</span><i class="fa fa-arrow-circle-right"></i></button>
@@ -372,7 +373,7 @@ To nurture sporting talents in general and Football in particular
         
         <!-- Start Sposnors -->
       <div class="sponsors clearfix">
-        <h5 class="text-center">Events Partner</h5>
+        <h5 class="text-center">Event Partner</h5>
         
         <div class="sponsor-logo text-center col-lg-12 col-md-2 col-sm-4">
           <img src="<?php echo base_url();?>nero/img/sponser/partner6.png" alt="">
@@ -400,7 +401,6 @@ To nurture sporting talents in general and Football in particular
       </div>
 
 
-
     
 
      
@@ -411,7 +411,7 @@ To nurture sporting talents in general and Football in particular
 
     <!-- Start Copyrights -->
     <div class="copyrights clearfix text-center">
-      <p class="col-lg-12"><span class="pull-left"> ©  Copyright 2017. All Rights Reserved,</span><span class="pull-right"> Website Developed & Maintained By <a href="http://www.mobimp.com/"> MOBIMP Services Pvt. Ltd.</a></span></p>
+      <p class="col-lg-12"><span class="pull-left"> ï¿½  Copyright 2017. All Rights Reserved,</span><span class="pull-right"> Website Developed & Maintained By <a href="http://www.mobimp.com/"> MOBIMP Services Pvt. Ltd.</a></span></p>
     </div>
     <!-- End Copyrights -->
 
